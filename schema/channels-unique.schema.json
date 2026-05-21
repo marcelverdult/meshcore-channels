@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/marcelverdult/meshcore-channels/schema/channels-unique.schema.json",
+  "title": "ChannelsUnique",
+  "type": "object",
+  "required": ["generated_at", "channels"],
+  "additionalProperties": false,
+  "properties": {
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "channels": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["channel", "description"],
+        "additionalProperties": false,
+        "properties": {
+          "channel": { "type": "string", "pattern": "^#?[a-z0-9]{1,29}(-[a-z0-9]{1,29})*$" },
+          "description": { "type": "string", "minLength": 1, "maxLength": 200 },
+          "key": { "type": "string", "pattern": "^[A-Za-z0-9+/]{22}==$" }
+        }
+      }
+    }
+  }
+}

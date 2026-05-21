@@ -1,0 +1,53 @@
+name: validate
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches-ignore: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: read
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+
+      - name: Run unit tests
+        run: node --test
+
+      - name: Compute changed files (PR only)
+        if: github.event_name == 'pull_request'
+        id: diff
+        run: |
+          base="${{ github.event.pull_request.base.sha }}"
+          head="${{ github.event.pull_request.head.sha }}"
+          changed="$(git diff --name-only "$base" "$head")"
+          {
+            echo "changed<<EOF"
+            echo "$changed"
+            echo "EOF"
+            echo "base=$base"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Validate
+        env:
+          GH_CHANGED_FILES: ${{ steps.diff.outputs.changed }}
+          GH_BASE_REF: ${{ steps.diff.outputs.base }}
+          GH_PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+        run: node scripts/validate.mjs

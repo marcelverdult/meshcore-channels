@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/marcelverdult/meshcore-channels/schema/channel.schema.json",
+  "title": "CountryRoot",
+  "type": "object",
+  "required": ["code", "name", "channels"],
+  "additionalProperties": false,
+  "properties": {
+    "code": {
+      "type": "string",
+      "pattern": "^[a-z0-9]{1,29}$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "channels": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["channel", "description"],
+        "additionalProperties": false,
+        "properties": {
+          "channel": {
+            "type": "string",
+            "pattern": "^#?[a-z0-9]{1,29}(-[a-z0-9]{1,29})*$"
+          },
+          "description": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "key": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9+/]{22}==$"
+          }
+        }
+      }
+    }
+  }
+}

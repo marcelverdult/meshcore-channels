@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/marcelverdult/meshcore-channels/schema/channels-by-country.schema.json",
+  "title": "ChannelsByCountry",
+  "type": "object",
+  "required": ["generated_at", "countries"],
+  "additionalProperties": false,
+  "properties": {
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "countries": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^[a-z0-9]{1,29}$": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["channel", "description"],
+            "additionalProperties": false,
+            "properties": {
+              "channel": { "type": "string", "pattern": "^#?[a-z0-9]{1,29}(-[a-z0-9]{1,29})*$" },
+              "description": { "type": "string", "minLength": 1, "maxLength": 200 },
+              "key": { "type": "string", "pattern": "^[A-Za-z0-9+/]{22}==$" }
+            }
+          }
+        }
+      }
+    }
+  }
+}
