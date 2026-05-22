@@ -82,4 +82,5 @@ maintainers and the build automation.
 
 ## License
 
-To be determined.
+[CC0 1.0 Universal](LICENSE) — this catalog is dedicated to the public domain.
+Use it for anything, no attribution required.
