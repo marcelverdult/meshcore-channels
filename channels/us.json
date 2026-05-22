@@ -1,5 +1,54 @@
 {
   "code": "us",
   "name": "United States",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#bot",
+      "description": "PugetMesh bot channel (Puget Sound, WA)"
+    },
+    {
+      "channel": "#bot-tacoma",
+      "description": "PugetMesh bot channel for Tacoma, WA"
+    },
+    {
+      "channel": "#bot-van",
+      "description": "PugetMesh bot channel for Vancouver, WA"
+    },
+    {
+      "channel": "#capitolhill",
+      "description": "Capitol Hill neighborhood, Seattle, WA"
+    },
+    {
+      "channel": "#emergency",
+      "description": "PugetMesh emergency channel (Puget Sound, WA)"
+    },
+    {
+      "channel": "#hamradio",
+      "description": "PugetMesh ham radio operators (Puget Sound, WA)"
+    },
+    {
+      "channel": "#protest",
+      "description": "PugetMesh protest coordination (Puget Sound, WA)"
+    },
+    {
+      "channel": "#queer",
+      "description": "PugetMesh queer community (Puget Sound, WA)"
+    },
+    {
+      "channel": "#seahawks",
+      "description": "Seattle Seahawks fans (Puget Sound, WA)"
+    },
+    {
+      "channel": "#seattle",
+      "description": "Seattle metro area, WA"
+    },
+    {
+      "channel": "#sports",
+      "description": "PugetMesh sports chat (Puget Sound, WA)"
+    },
+    {
+      "channel": "#testing",
+      "description": "PugetMesh testing channel (Puget Sound, WA)"
+    }
+  ]
 }

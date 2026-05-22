@@ -1,5 +1,10 @@
 {
   "code": "ie",
   "name": "Ireland",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#ireland",
+      "description": "ireland"
+    }
+  ]
 }

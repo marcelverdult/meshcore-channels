@@ -1,5 +1,114 @@
 {
   "code": "gb",
   "name": "United Kingdom",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#beds-bucks-northants",
+      "description": "beds-bucks-northants"
+    },
+    {
+      "channel": "#berks",
+      "description": "berks"
+    },
+    {
+      "channel": "#bristol",
+      "description": "bristol"
+    },
+    {
+      "channel": "#chesterfield",
+      "description": "chesterfield"
+    },
+    {
+      "channel": "#cornwall",
+      "description": "cornwall"
+    },
+    {
+      "channel": "#derbyshire",
+      "description": "derbyshire"
+    },
+    {
+      "channel": "#eastbourne",
+      "description": "eastbourne"
+    },
+    {
+      "channel": "#essex",
+      "description": "essex"
+    },
+    {
+      "channel": "#hampshire",
+      "description": "hampshire"
+    },
+    {
+      "channel": "#hertford",
+      "description": "hertford"
+    },
+    {
+      "channel": "#huddersfield",
+      "description": "huddersfield"
+    },
+    {
+      "channel": "#ipswich",
+      "description": "ipswich"
+    },
+    {
+      "channel": "#isleofwight",
+      "description": "isleofwight"
+    },
+    {
+      "channel": "#kent",
+      "description": "kent"
+    },
+    {
+      "channel": "#kernow",
+      "description": "kernow"
+    },
+    {
+      "channel": "#londen",
+      "description": "londen"
+    },
+    {
+      "channel": "#london",
+      "description": "london"
+    },
+    {
+      "channel": "#lowestoft",
+      "description": "lowestoft"
+    },
+    {
+      "channel": "#midlands",
+      "description": "midlands"
+    },
+    {
+      "channel": "#northwest",
+      "description": "northwest"
+    },
+    {
+      "channel": "#scotland",
+      "description": "scotland"
+    },
+    {
+      "channel": "#solent",
+      "description": "solent"
+    },
+    {
+      "channel": "#somerset",
+      "description": "somerset"
+    },
+    {
+      "channel": "#spire",
+      "description": "spire"
+    },
+    {
+      "channel": "#suffolk",
+      "description": "suffolk"
+    },
+    {
+      "channel": "#wales",
+      "description": "wales"
+    },
+    {
+      "channel": "#yorkshire",
+      "description": "yorkshire"
+    }
+  ]
 }

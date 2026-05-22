@@ -1843,6 +1843,10 @@
       "description": "prut"
     },
     {
+      "channel": "#prutser",
+      "description": "prutser"
+    },
+    {
       "channel": "#public",
       "description": "public"
     },

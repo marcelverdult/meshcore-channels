@@ -1,5 +1,34 @@
 {
   "code": "be",
   "name": "Belgium",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#antwerpen",
+      "description": "antwerpen"
+    },
+    {
+      "channel": "#bemesh",
+      "description": "bemesh"
+    },
+    {
+      "channel": "#brugge",
+      "description": "brugge"
+    },
+    {
+      "channel": "#dirage",
+      "description": "dirage"
+    },
+    {
+      "channel": "#gent",
+      "description": "gent"
+    },
+    {
+      "channel": "#hsg",
+      "description": "hsg"
+    },
+    {
+      "channel": "#kortrijk",
+      "description": "kortrijk"
+    }
+  ]
 }
