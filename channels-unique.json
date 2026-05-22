@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T07:56:07Z",
+  "generated_at": "2026-05-22T10:29:44Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -1593,6 +1593,10 @@
     {
       "channel": "#lk-stade",
       "description": "Stade district"
+    },
+    {
+      "channel": "#lkgr",
+      "description": "Görlitz city and district"
     },
     {
       "channel": "#local",
