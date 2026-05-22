@@ -8,6 +8,9 @@ const CHANNELS_DIR = join(ROOT, 'channels');
 const BY_COUNTRY_PATH = join(ROOT, 'channels-by-country.json');
 const UNIQUE_PATH = join(ROOT, 'channels-unique.json');
 
+// SPDX license identifier embedded in every generated dataset file.
+const LICENSE = 'CC0-1.0';
+
 // True when `channel` is a hashtag channel (leading '#'). A hashtag channel's
 // key is derived by the consuming app and is never stored or emitted.
 export function isHashtag(channel) {
@@ -85,11 +88,12 @@ function isoStamp() {
     : new Date().toISOString().replace(/\.\d{3}Z$/, 'Z');
 }
 
-// Write { generated_at, [payloadKey]: value } to `path`, but ONLY when `value`
-// differs from what the file already holds. When the data is unchanged the
-// file is left byte-for-byte intact — including its existing `generated_at` —
-// so a no-op rebuild (e.g. the nightly run) produces no commit and does not
-// invalidate consumers' ETag / HTTP caching.
+// Write { generated_at, license, [payloadKey]: value } to `path`, but ONLY
+// when `value` (or the embedded license) differs from what the file already
+// holds. When the data is unchanged the file is left byte-for-byte intact —
+// including its existing `generated_at` — so a no-op rebuild (e.g. the nightly
+// run) produces no commit and does not invalidate consumers' ETag / HTTP
+// caching.
 function writeIfChanged(path, payloadKey, value, generatedAt) {
   let existing;
   try {
@@ -97,10 +101,13 @@ function writeIfChanged(path, payloadKey, value, generatedAt) {
   } catch {
     existing = null;
   }
-  if (existing && JSON.stringify(existing[payloadKey]) === JSON.stringify(value)) {
+  if (existing
+    && existing.license === LICENSE
+    && JSON.stringify(existing[payloadKey]) === JSON.stringify(value)) {
     return false;
   }
-  writeFileSync(path, JSON.stringify({ generated_at: generatedAt, [payloadKey]: value }, null, 2) + '\n');
+  const next = { generated_at: generatedAt, license: LICENSE, [payloadKey]: value };
+  writeFileSync(path, JSON.stringify(next, null, 2) + '\n');
   return true;
 }
 

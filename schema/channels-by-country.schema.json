@@ -3,13 +3,14 @@
   "$id": "https://github.com/marcelverdult/meshcore-channels/schema/channels-by-country.schema.json",
   "title": "ChannelsByCountry",
   "type": "object",
-  "required": ["generated_at", "countries"],
+  "required": ["generated_at", "license", "countries"],
   "additionalProperties": false,
   "properties": {
     "generated_at": {
       "type": "string",
       "format": "date-time"
     },
+    "license": { "const": "CC0-1.0" },
     "countries": {
       "type": "object",
       "additionalProperties": false,

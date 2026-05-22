@@ -21,11 +21,13 @@ Stable raw URLs:
 - One country at a time:
   `https://raw.githubusercontent.com/marcelverdult/meshcore-channels/main/channels/<code>.json`
 
-- `channels-by-country.json` — `{ "generated_at": "...", "countries": { ... } }`.
+- `channels-by-country.json` —
+  `{ "generated_at": "...", "license": "CC0-1.0", "countries": { ... } }`.
   `countries` is an object keyed by country `code` (all 252 roots present); each
   value is that country's channel array of `{ channel, description }`, plus
   `key` for non-hashtag channels, sorted by `channel`.
-- `channels-unique.json` — `{ "generated_at": "...", "channels": [ ... ] }`.
+- `channels-unique.json` —
+  `{ "generated_at": "...", "license": "CC0-1.0", "channels": [ ... ] }`.
   One entry per unique `channel`, `{ channel, description }` plus `key` for
   non-hashtag channels, sorted by `channel`. When a channel appears under
   several countries the first (countries in `code` order) wins.

@@ -3,13 +3,14 @@
   "$id": "https://github.com/marcelverdult/meshcore-channels/schema/channels-unique.schema.json",
   "title": "ChannelsUnique",
   "type": "object",
-  "required": ["generated_at", "channels"],
+  "required": ["generated_at", "license", "channels"],
   "additionalProperties": false,
   "properties": {
     "generated_at": {
       "type": "string",
       "format": "date-time"
     },
+    "license": { "const": "CC0-1.0" },
     "channels": {
       "type": "array",
       "items": {
