@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   build-index:
@@ -42,3 +43,18 @@ jobs:
           else
             echo 'channel lists already current'
           fi
+
+      - name: Delete old workflow runs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api --paginate "repos/${{ github.repository }}/actions/runs" \
+            --jq '.workflow_runs[].id' \
+          | while read -r id; do
+              [ "$id" = "${{ github.run_id }}" ] && continue
+              if gh api -X DELETE "repos/${{ github.repository }}/actions/runs/$id" >/dev/null 2>&1; then
+                echo "deleted run $id"
+              else
+                echo "skipped run $id (in progress or not deletable)"
+              fi
+            done
