@@ -347,12 +347,12 @@
       "description": "Lippstadt"
     },
     {
-      "channel": "#lkgr",
-      "description": "Görlitz city and district"
-    },
-    {
       "channel": "#lk-stade",
       "description": "Stade district"
+    },
+    {
+      "channel": "#lkgr",
+      "description": "Görlitz city and district"
     },
     {
       "channel": "#magdeburg",
