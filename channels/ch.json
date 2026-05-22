@@ -1,5 +1,53 @@
 {
   "code": "ch",
   "name": "Switzerland",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#basel",
+      "description": "Basel Stadt and Basel Land region"
+    },
+    {
+      "channel": "#bern",
+      "description": "Bern region"
+    },
+    {
+      "channel": "#chtest",
+      "description": "Main testing channel for Switzerland"
+    },
+    {
+      "channel": "#suisse",
+      "description": "French-speaking Switzerland region"
+    },
+    {
+      "channel": "#svizzera",
+      "description": "Italian-speaking Switzerland region"
+    },
+    {
+      "channel": "#switzerland",
+      "description": "An open channel where everybody is welcome to chat"
+    },
+    {
+      "channel": "#wallis",
+      "description": "Wallis canton region"
+    },
+    {
+      "channel": "#zuerich",
+      "description": "Zürich canton and city"
+    },
+    {
+      "channel": "notfunk-netzwerk-team",
+      "description": "Notfunk Netzwerk (NFN) team channel",
+      "key": "K2MIDlG08FQJb9OHXHfiiw=="
+    },
+    {
+      "channel": "seeland",
+      "description": "Biel/Bienne and surrounding areas",
+      "key": "9DuSeXfSbvS2C1gXGcMTfA=="
+    },
+    {
+      "channel": "suisse-romande",
+      "description": "French-speaking Switzerland region",
+      "key": "BISErgHaEg/le/WPfIOzCg=="
+    }
+  ]
 }
