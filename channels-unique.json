@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T14:41:23Z",
+  "generated_at": "2026-05-22T15:04:02Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -273,6 +273,10 @@
     {
       "channel": "#barneveld",
       "description": "barneveld"
+    },
+    {
+      "channel": "#basel",
+      "description": "Basel Stadt and Basel Land region"
     },
     {
       "channel": "#bay",
@@ -552,7 +556,7 @@
     },
     {
       "channel": "#chtest",
-      "description": "Main MeshCore testing channel"
+      "description": "Main testing channel for Switzerland"
     },
     {
       "channel": "#cmdd",
@@ -2584,7 +2588,7 @@
     },
     {
       "channel": "#suisse",
-      "description": "French-speaking Switzerland"
+      "description": "French-speaking Switzerland region"
     },
     {
       "channel": "#sup",
@@ -2600,7 +2604,7 @@
     },
     {
       "channel": "#svizzera",
-      "description": "Italian-speaking Switzerland"
+      "description": "Italian-speaking Switzerland region"
     },
     {
       "channel": "#sweden",
@@ -2820,7 +2824,7 @@
     },
     {
       "channel": "#wallis",
-      "description": "Valais canton"
+      "description": "Wallis canton region"
     },
     {
       "channel": "#wardrive",
@@ -2940,7 +2944,7 @@
     },
     {
       "channel": "#zuerich",
-      "description": "Zurich canton and city"
+      "description": "Zürich canton and city"
     },
     {
       "channel": "#zuid-holland",
@@ -2967,9 +2971,24 @@
       "description": "zwolle"
     },
     {
+      "channel": "notfunk-netzwerk-team",
+      "description": "Notfunk Netzwerk (NFN) team channel",
+      "key": "K2MIDlG08FQJb9OHXHfiiw=="
+    },
+    {
       "channel": "public",
       "description": "public",
       "key": "izOH6cXN6mrJ5e26oRXNcg=="
+    },
+    {
+      "channel": "seeland",
+      "description": "Biel/Bienne and surrounding areas",
+      "key": "9DuSeXfSbvS2C1gXGcMTfA=="
+    },
+    {
+      "channel": "suisse-romande",
+      "description": "French-speaking Switzerland region",
+      "key": "BISErgHaEg/le/WPfIOzCg=="
     }
   ]
 }
