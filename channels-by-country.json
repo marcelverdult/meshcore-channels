@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T10:29:44Z",
+  "generated_at": "2026-05-22T14:41:23Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -21,7 +21,36 @@
     "ba": [],
     "bb": [],
     "bd": [],
-    "be": [],
+    "be": [
+      {
+        "channel": "#antwerpen",
+        "description": "antwerpen"
+      },
+      {
+        "channel": "#bemesh",
+        "description": "bemesh"
+      },
+      {
+        "channel": "#brugge",
+        "description": "brugge"
+      },
+      {
+        "channel": "#dirage",
+        "description": "dirage"
+      },
+      {
+        "channel": "#gent",
+        "description": "gent"
+      },
+      {
+        "channel": "#hsg",
+        "description": "hsg"
+      },
+      {
+        "channel": "#kortrijk",
+        "description": "kortrijk"
+      }
+    ],
     "bf": [],
     "bg": [],
     "bh": [],
@@ -108,6 +137,10 @@
         "description": "Boeblingen district"
       },
       {
+        "channel": "#bonn",
+        "description": "bonn"
+      },
+      {
         "channel": "#bot",
         "description": "Bot services in some regions"
       },
@@ -158,6 +191,10 @@
       {
         "channel": "#dd-roomserver",
         "description": "Room Server support"
+      },
+      {
+        "channel": "#de",
+        "description": "de"
       },
       {
         "channel": "#de-bb-bar",
@@ -240,12 +277,24 @@
         "description": "Detmold"
       },
       {
+        "channel": "#deutschland",
+        "description": "deutschland"
+      },
+      {
         "channel": "#df0uk",
         "description": "University amateur radio group at KIT"
       },
       {
+        "channel": "#dl",
+        "description": "dl"
+      },
+      {
         "channel": "#dl-mitte",
         "description": "Central Germany region"
+      },
+      {
+        "channel": "#dme",
+        "description": "dme"
       },
       {
         "channel": "#dresden",
@@ -258,6 +307,10 @@
       {
         "channel": "#drk",
         "description": "German Red Cross members"
+      },
+      {
+        "channel": "#duisburg",
+        "description": "duisburg"
       },
       {
         "channel": "#durlach",
@@ -324,6 +377,10 @@
         "description": "Fuerth"
       },
       {
+        "channel": "#germany",
+        "description": "germany"
+      },
+      {
         "channel": "#groetzingen",
         "description": "Karlsruhe district"
       },
@@ -384,6 +441,10 @@
         "description": "Koblenz"
       },
       {
+        "channel": "#koeln",
+        "description": "koeln"
+      },
+      {
         "channel": "#konfiguration",
         "description": "Repeater/companion configuration"
       },
@@ -400,6 +461,10 @@
         "description": "Leipzig"
       },
       {
+        "channel": "#leverkusen",
+        "description": "leverkusen"
+      },
+      {
         "channel": "#lippstadt",
         "description": "Lippstadt"
       },
@@ -412,6 +477,10 @@
         "description": "Görlitz city and district"
       },
       {
+        "channel": "#lohmar",
+        "description": "lohmar"
+      },
+      {
         "channel": "#magdeburg",
         "description": "Magdeburg"
       },
@@ -420,12 +489,20 @@
         "description": "3D printing, laser cutting, CNC"
       },
       {
+        "channel": "#meow",
+        "description": "meow"
+      },
+      {
         "channel": "#meshcore",
         "description": "Information about MeshCore"
       },
       {
         "channel": "#meshcorenetz",
         "description": "MeshCoreNetz.de community"
+      },
+      {
+        "channel": "#meshoe",
+        "description": "meshoe"
       },
       {
         "channel": "#mhl",
@@ -442,6 +519,10 @@
       {
         "channel": "#muenchen",
         "description": "Munich city and district"
+      },
+      {
+        "channel": "#muenster",
+        "description": "muenster"
       },
       {
         "channel": "#news",
@@ -506,6 +587,10 @@
       {
         "channel": "#rhein-neckar",
         "description": "Rhein-Neckar metropolitan region"
+      },
+      {
+        "channel": "#rheinland",
+        "description": "rheinland"
       },
       {
         "channel": "#rosenheim",
@@ -604,6 +689,10 @@
         "description": "Emergency services group"
       },
       {
+        "channel": "#trier",
+        "description": "trier"
+      },
+      {
         "channel": "#untermain",
         "description": "Alzenau/Aschaffenburg/Miltenberg area"
       },
@@ -676,7 +765,116 @@
     "fo": [],
     "fr": [],
     "ga": [],
-    "gb": [],
+    "gb": [
+      {
+        "channel": "#beds-bucks-northants",
+        "description": "beds-bucks-northants"
+      },
+      {
+        "channel": "#berks",
+        "description": "berks"
+      },
+      {
+        "channel": "#bristol",
+        "description": "bristol"
+      },
+      {
+        "channel": "#chesterfield",
+        "description": "chesterfield"
+      },
+      {
+        "channel": "#cornwall",
+        "description": "cornwall"
+      },
+      {
+        "channel": "#derbyshire",
+        "description": "derbyshire"
+      },
+      {
+        "channel": "#eastbourne",
+        "description": "eastbourne"
+      },
+      {
+        "channel": "#essex",
+        "description": "essex"
+      },
+      {
+        "channel": "#hampshire",
+        "description": "hampshire"
+      },
+      {
+        "channel": "#hertford",
+        "description": "hertford"
+      },
+      {
+        "channel": "#huddersfield",
+        "description": "huddersfield"
+      },
+      {
+        "channel": "#ipswich",
+        "description": "ipswich"
+      },
+      {
+        "channel": "#isleofwight",
+        "description": "isleofwight"
+      },
+      {
+        "channel": "#kent",
+        "description": "kent"
+      },
+      {
+        "channel": "#kernow",
+        "description": "kernow"
+      },
+      {
+        "channel": "#londen",
+        "description": "londen"
+      },
+      {
+        "channel": "#london",
+        "description": "london"
+      },
+      {
+        "channel": "#lowestoft",
+        "description": "lowestoft"
+      },
+      {
+        "channel": "#midlands",
+        "description": "midlands"
+      },
+      {
+        "channel": "#northwest",
+        "description": "northwest"
+      },
+      {
+        "channel": "#scotland",
+        "description": "scotland"
+      },
+      {
+        "channel": "#solent",
+        "description": "solent"
+      },
+      {
+        "channel": "#somerset",
+        "description": "somerset"
+      },
+      {
+        "channel": "#spire",
+        "description": "spire"
+      },
+      {
+        "channel": "#suffolk",
+        "description": "suffolk"
+      },
+      {
+        "channel": "#wales",
+        "description": "wales"
+      },
+      {
+        "channel": "#yorkshire",
+        "description": "yorkshire"
+      }
+    ],
     "gd": [],
     "ge": [],
     "gf": [],
@@ -701,7 +899,12 @@
     "ht": [],
     "hu": [],
     "id": [],
-    "ie": [],
+    "ie": [
+      {
+        "channel": "#ireland",
+        "description": "ireland"
+      }
+    ],
     "il": [],
     "im": [],
     "in": [],
@@ -2608,6 +2811,10 @@
         "description": "prut"
       },
       {
+        "channel": "#prutser",
+        "description": "prutser"
+      },
+      {
         "channel": "#public",
         "description": "public"
       },
@@ -3260,7 +3467,56 @@
     "ua": [],
     "ug": [],
     "um": [],
-    "us": [],
+    "us": [
+      {
+        "channel": "#bot",
+        "description": "PugetMesh bot channel (Puget Sound, WA)"
+      },
+      {
+        "channel": "#bot-tacoma",
+        "description": "PugetMesh bot channel for Tacoma, WA"
+      },
+      {
+        "channel": "#bot-van",
+        "description": "PugetMesh bot channel for Vancouver, WA"
+      },
+      {
+        "channel": "#capitolhill",
+        "description": "Capitol Hill neighborhood, Seattle, WA"
+      },
+      {
+        "channel": "#emergency",
+        "description": "PugetMesh emergency channel (Puget Sound, WA)"
+      },
+      {
+        "channel": "#hamradio",
+        "description": "PugetMesh ham radio operators (Puget Sound, WA)"
+      },
+      {
+        "channel": "#protest",
+        "description": "PugetMesh protest coordination (Puget Sound, WA)"
+      },
+      {
+        "channel": "#queer",
+        "description": "PugetMesh queer community (Puget Sound, WA)"
+      },
+      {
+        "channel": "#seahawks",
+        "description": "Seattle Seahawks fans (Puget Sound, WA)"
+      },
+      {
+        "channel": "#seattle",
+        "description": "Seattle metro area, WA"
+      },
+      {
+        "channel": "#sports",
+        "description": "PugetMesh sports chat (Puget Sound, WA)"
+      },
+      {
+        "channel": "#testing",
+        "description": "PugetMesh testing channel (Puget Sound, WA)"
+      }
+    ],
     "uy": [],
     "uz": [],
     "va": [],
