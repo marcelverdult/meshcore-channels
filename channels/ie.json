@@ -3,8 +3,24 @@
   "name": "Ireland",
   "channels": [
     {
+      "channel": "#dublin",
+      "description": "Dublin region"
+    }
+    {
       "channel": "#ireland",
-      "description": "ireland"
+      "description": "Ireland"
+    }
+    {
+      "channel": "#lifethreat",
+      "description": "For notifications of events that may post risk to health or safety"
+    }
+    {
+      "channel": "#norniron",
+      "description": "Northern Ireland"
+    } 
+    {
+      "channel": "#test",
+      "description": "Channel for testing your connection"
     }
   ]
 }
