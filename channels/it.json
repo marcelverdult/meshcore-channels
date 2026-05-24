@@ -1,5 +1,78 @@
 {
   "code": "it",
   "name": "Italy",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#bot",
+      "description": "Robots lives here"
+    },
+    {
+      "channel": "#meteo-milano",
+      "description": "Automated weather bulletin for Milano"
+    },
+    {
+      "channel": "#prove",
+      "description": "Main testing channel for Italy"
+    },
+    {
+      "channel": "alert-lo",
+      "description": "Automated weather alert and emergencies, Lombardia region",
+      "key": "wvjINGz5QNg8e/ECY8u4Uw=="
+    },
+    {
+      "channel": "emilia-romagna",
+      "description": "Emilia Romagna region",
+      "key": "gvfT6WRmXq8cY0gpMopKPQ=="
+    },
+    {
+      "channel": "friuli-vg",
+      "description": "Friuli Venezia Giulia region",
+      "key": "Bj3p8EiH44DEMfEC3Cfxyg=="
+    },
+    {
+      "channel": "italia",
+      "description": "Italian community main channel",
+      "key": "TJe/5DGr4gZyJZ2baWnc7A=="
+    },
+    {
+      "channel": "liguria",
+      "description": "Liguria region",
+      "key": "u8/tjfIueiFjgmSBoG9YTQ=="
+    },
+    {
+      "channel": "lombardia",
+      "description": "Lombardia region",
+      "key": "ejqYj3d1AmbjZJMtlMz1IQ=="
+    },
+    {
+      "channel": "meteo",
+      "description": "Discussions about weather",
+      "key": "gxrw9Qt78UOkdwwFrj64iA=="
+    },
+    {
+      "channel": "milano",
+      "description": "Milano city and province",
+      "key": "yh1i8/ES8Zgcjup1av4Quw=="
+    },
+    {
+      "channel": "news",
+      "description": "Announcements regarding the Italian Meshcore Network",
+      "key": "Ox/70K9DxRePjQuDJb/qbQ=="
+    },
+    {
+      "channel": "piemonte",
+      "description": "Piemonte region",
+      "key": "W5uu9MPYdR4vkpLwufe2pg=="
+    },
+    {
+      "channel": "toscana",
+      "description": "Toscana region",
+      "key": "WOr44P+lKcR9cfSde0OEpQ=="
+    },
+    {
+      "channel": "veneto",
+      "description": "Veneto region",
+      "key": "hXtdVqGvjE5zX2WnNdn73w=="
+    }
+  ]
 }
