@@ -73,7 +73,13 @@ export function loadTree() {
   const tree = [];
   for (const file of files) {
     const stem = basename(file, '.json');
-    const node = JSON.parse(readFileSync(join(CHANNELS_DIR, file), 'utf8'));
+    const raw = readFileSync(join(CHANNELS_DIR, file), 'utf8');
+    let node;
+    try {
+      node = JSON.parse(raw);
+    } catch (e) {
+      throw new Error(`channels/${file}: JSON parse error: ${e.message}`);
+    }
     if (node.code !== stem) {
       throw new Error(`filename/code mismatch: ${file} has code "${node.code}"`);
     }

@@ -14,7 +14,13 @@ let stripped = 0;
 let changedFiles = 0;
 for (const file of readdirSync(CHANNELS_DIR).filter((f) => f.endsWith('.json')).sort()) {
   const path = join(CHANNELS_DIR, file);
-  const node = JSON.parse(readFileSync(path, 'utf8'));
+  const raw = readFileSync(path, 'utf8');
+  let node;
+  try {
+    node = JSON.parse(raw);
+  } catch (e) {
+    throw new Error(`channels/${file}: JSON parse error: ${e.message}`);
+  }
   let changed = false;
   for (const ch of node.channels || []) {
     if (ch && typeof ch.channel === 'string' && ch.channel.startsWith('#') && 'key' in ch) {
