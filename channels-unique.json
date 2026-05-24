@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T15:04:02Z",
+  "generated_at": "2026-05-24T00:30:23Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -904,7 +904,7 @@
     },
     {
       "channel": "#dublin",
-      "description": "dublin"
+      "description": "Dublin region"
     },
     {
       "channel": "#duisburg",
@@ -1404,7 +1404,7 @@
     },
     {
       "channel": "#ireland",
-      "description": "ireland"
+      "description": "Ireland"
     },
     {
       "channel": "#isleofwight",
@@ -1585,6 +1585,10 @@
     {
       "channel": "#liemers",
       "description": "liemers"
+    },
+    {
+      "channel": "#lifethreat",
+      "description": "For notifications of events that may post risk to health or safety"
     },
     {
       "channel": "#lima",
@@ -1969,6 +1973,10 @@
     {
       "channel": "#nordharz",
       "description": "Grossraum Hannover, Braunschweig, Helmstedt, Halberstadt, Magdeburg"
+    },
+    {
+      "channel": "#norniron",
+      "description": "Northern Ireland"
     },
     {
       "channel": "#northbay",
