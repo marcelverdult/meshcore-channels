@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T22:29:02Z",
+  "generated_at": "2026-06-17T11:34:48Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -52,7 +52,48 @@
       }
     ],
     "bf": [],
-    "bg": [],
+    "bg": [
+      {
+        "channel": "#bot",
+        "description": "bot"
+      },
+      {
+        "channel": "#bulgaria",
+        "description": "bulgaria"
+      },
+      {
+        "channel": "#dx",
+        "description": "dx"
+      },
+      {
+        "channel": "#emergency",
+        "description": "emergency"
+      },
+      {
+        "channel": "#hacktheplanet",
+        "description": "hacktheplanet"
+      },
+      {
+        "channel": "#hamradio",
+        "description": "hamradio"
+      },
+      {
+        "channel": "#plovdiv",
+        "description": "plovdiv"
+      },
+      {
+        "channel": "#plovdivbot",
+        "description": "plovdivbot"
+      },
+      {
+        "channel": "#sofia",
+        "description": "sofia"
+      },
+      {
+        "channel": "#test",
+        "description": "test"
+      }
+    ],
     "bh": [],
     "bi": [],
     "bj": [],

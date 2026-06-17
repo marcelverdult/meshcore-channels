@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T22:29:02Z",
+  "generated_at": "2026-06-17T11:34:48Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -396,7 +396,7 @@
     },
     {
       "channel": "#bot",
-      "description": "Bot services in some regions"
+      "description": "bot"
     },
     {
       "channel": "#bot-tacoma",
@@ -469,6 +469,10 @@
     {
       "channel": "#buenosaires",
       "description": "buenosaires"
+    },
+    {
+      "channel": "#bulgaria",
+      "description": "bulgaria"
     },
     {
       "channel": "#burgernet",
@@ -919,6 +923,10 @@
       "description": "dutchmeshcore"
     },
     {
+      "channel": "#dx",
+      "description": "dx"
+    },
+    {
       "channel": "#earthquake",
       "description": "earthquake"
     },
@@ -972,7 +980,7 @@
     },
     {
       "channel": "#emergency",
-      "description": "Not recommended"
+      "description": "emergency"
     },
     {
       "channel": "#emmen",
@@ -1223,6 +1231,10 @@
       "description": "hackerspacenijmegen"
     },
     {
+      "channel": "#hacktheplanet",
+      "description": "hacktheplanet"
+    },
+    {
       "channel": "#hahab",
       "description": "hahab"
     },
@@ -1236,7 +1248,7 @@
     },
     {
       "channel": "#hamradio",
-      "description": "Amateur radio"
+      "description": "hamradio"
     },
     {
       "channel": "#hamradionederland",
@@ -2199,6 +2211,14 @@
       "description": "pingpong"
     },
     {
+      "channel": "#plovdiv",
+      "description": "plovdiv"
+    },
+    {
+      "channel": "#plovdivbot",
+      "description": "plovdivbot"
+    },
+    {
       "channel": "#pnw",
       "description": "pnw"
     },
@@ -2519,6 +2539,10 @@
       "description": "Soest district"
     },
     {
+      "channel": "#sofia",
+      "description": "sofia"
+    },
+    {
       "channel": "#solent",
       "description": "solent"
     },
@@ -2668,7 +2692,7 @@
     },
     {
       "channel": "#test",
-      "description": "Hardware testing; supports local/lokal scope"
+      "description": "test"
     },
     {
       "channel": "#testing",
