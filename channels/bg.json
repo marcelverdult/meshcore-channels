@@ -1,5 +1,46 @@
 {
   "code": "bg",
   "name": "Bulgaria",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#bot",
+      "description": "bot"
+    },
+    {
+      "channel": "#bulgaria",
+      "description": "bulgaria"
+    },
+    {
+      "channel": "#dx",
+      "description": "dx"
+    },
+    {
+      "channel": "#emergency",
+      "description": "emergency"
+    },
+    {
+      "channel": "#hacktheplanet",
+      "description": "hacktheplanet"
+    },
+    {
+      "channel": "#hamradio",
+      "description": "hamradio"
+    },
+    {
+      "channel": "#plovdiv",
+      "description": "plovdiv"
+    },
+    {
+      "channel": "#plovdivbot",
+      "description": "plovdivbot"
+    },
+    {
+      "channel": "#sofia",
+      "description": "sofia"
+    },
+    {
+      "channel": "#test",
+      "description": "test"
+    }
+  ]
 }
