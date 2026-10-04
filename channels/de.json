@@ -111,6 +111,10 @@
       "description": "Darmstadt and southern Hesse"
     },
     {
+  "channel": "#darc-o04",
+  "description": "DARC Ortsverband O04"
+    },
+    {
       "channel": "#dd-companion",
       "description": "Companion device support"
     },
