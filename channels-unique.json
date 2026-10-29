@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:33:11Z",
+  "generated_at": "2026-10-29T17:55:11Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -2913,6 +2913,10 @@
     {
       "channel": "#dx",
       "description": "Kanal za dalechni vrazki i testove"
+    },
+    {
+      "channel": "#dxjungle",
+      "description": "DX Jungle - Nederlandstalige MeshCore community"
     },
     {
       "channel": "#e14",

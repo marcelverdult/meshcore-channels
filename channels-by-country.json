@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:33:11Z",
+  "generated_at": "2026-10-29T17:55:11Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -5172,6 +5172,10 @@
       {
         "channel": "#dx",
         "description": "dx"
+      },
+      {
+        "channel": "#dxjungle",
+        "description": "DX Jungle - Nederlandstalige MeshCore community"
       },
       {
         "channel": "#e14",
