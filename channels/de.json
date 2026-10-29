@@ -87,6 +87,10 @@
       "description": "Braunschweig/Wolfsburg region"
     },
     {
+      "channel": "#buerstadt",
+      "description": "Bürstadt, Hessen – Lokaler MeshCore-Kanal"
+    },
+    {
       "channel": "#bw",
       "description": "Baden-Württemberg (statewide)"
     },
