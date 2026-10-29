@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:55:11Z",
+  "generated_at": "2026-10-29T17:55:35Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -1045,6 +1045,10 @@
       {
         "channel": "#bsmesh",
         "description": "Braunschweig/Wolfsburg region"
+      },
+      {
+        "channel": "#buerstadt",
+        "description": "Bürstadt, Hessen – Lokaler MeshCore-Kanal"
       },
       {
         "channel": "#bw",
