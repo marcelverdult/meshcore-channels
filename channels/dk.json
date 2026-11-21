@@ -7,12 +7,24 @@
       "description": "Funen area channel"
     },
     {
+      "channel": "#6100",
+      "description": "6100"
+    },
+    {
       "channel": "#aalborg",
       "description": "Aalborg city channel"
     },
     {
       "channel": "#aarhus",
       "description": "Aarhus city channel"
+    },
+    {
+      "channel": "#bible",
+      "description": "Bible"
+    },
+    {
+      "channel": "#bornholm",
+      "description": "Bornholm"
     },
     {
       "channel": "#corescopebot",
@@ -107,6 +119,14 @@
       "description": "Horsens city channel"
     },
     {
+      "channel": "#jmr",
+      "description": "Jmr"
+    },
+    {
+      "channel": "#jota",
+      "description": "Jota"
+    },
+    {
       "channel": "#jylland",
       "description": "Jutland regional channel"
     },
@@ -115,12 +135,24 @@
       "description": "North Jutland regional channel"
     },
     {
+      "channel": "#odsherred",
+      "description": "Odsherred"
+    },
+    {
       "channel": "#oestjylland",
       "description": "East Jutland regional channel"
     },
     {
+      "channel": "#oz7amg",
+      "description": "Oz7amg"
+    },
+    {
       "channel": "#ping",
       "description": "Kanal für den Pingbot (Konnektivitäts-Test), dokumentiert auf MeshCore.dk"
+    },
+    {
+      "channel": "#pingdk",
+      "description": "Pingdk"
     },
     {
       "channel": "#scout",
@@ -137,6 +169,10 @@
     {
       "channel": "#taastrup",
       "description": "taastrup"
+    },
+    {
+      "channel": "#teknik",
+      "description": "Teknik"
     }
   ]
 }

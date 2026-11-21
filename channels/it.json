@@ -7,12 +7,52 @@
       "description": "Robots lives here"
     },
     {
+      "channel": "#drc",
+      "description": "Drc"
+    },
+    {
+      "channel": "#lagomaggiore",
+      "description": "Lagomaggiore"
+    },
+    {
+      "channel": "#lifo",
+      "description": "Lifo"
+    },
+    {
       "channel": "#meteo-milano",
       "description": "Automated weather bulletin for Milano"
     },
     {
+      "channel": "#meteo-varazze",
+      "description": "Meteo Varazze"
+    },
+    {
+      "channel": "#meteoallerta",
+      "description": "Meteoallerta"
+    },
+    {
+      "channel": "#ostia",
+      "description": "Ostia"
+    },
+    {
       "channel": "#prove",
       "description": "Main testing channel for Italy"
+    },
+    {
+      "channel": "#terremoti",
+      "description": "Terremoti"
+    },
+    {
+      "channel": "#test-test",
+      "description": "Test Test"
+    },
+    {
+      "channel": "#trieste",
+      "description": "Trieste"
+    },
+    {
+      "channel": "#vls",
+      "description": "Vls"
     },
     {
       "channel": "abruzzo",

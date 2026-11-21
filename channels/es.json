@@ -1,5 +1,22 @@
 {
   "code": "es",
   "name": "Spain",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#b0b0t",
+      "description": "B0b0t"
+    },
+    {
+      "channel": "#emergencia",
+      "description": "Emergencia"
+    },
+    {
+      "channel": "#nmg",
+      "description": "Nmg"
+    },
+    {
+      "channel": "#testbot",
+      "description": "Testbot"
+    }
+  ]
 }

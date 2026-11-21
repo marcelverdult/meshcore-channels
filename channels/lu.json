@@ -9,6 +9,10 @@
     {
       "channel": "#saarlorlux",
       "description": "Saar-Lor-Lux cross-border region (DE/FR/LU)"
+    },
+    {
+      "channel": "#trafic",
+      "description": "Trafic"
     }
   ]
 }

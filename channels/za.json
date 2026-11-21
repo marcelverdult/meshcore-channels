@@ -11,6 +11,14 @@
       "description": "Created for Cape Town alongside #channel1 for longer discussions."
     },
     {
+      "channel": "#computers",
+      "description": "Computers"
+    },
+    {
+      "channel": "#europeans",
+      "description": "Europeans"
+    },
+    {
       "channel": "#jokes",
       "description": "Cape Town: joke sharing channel."
     },
@@ -21,6 +29,10 @@
     {
       "channel": "#test",
       "description": "Cape Town: where users do their testing."
+    },
+    {
+      "channel": "#testingtuesday",
+      "description": "Testingtuesday"
     },
     {
       "channel": "#wardriving",

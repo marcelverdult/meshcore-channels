@@ -1,5 +1,10 @@
 {
   "code": "ph",
   "name": "Philippines",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#sosro",
+      "description": "Sosro"
+    }
+  ]
 }

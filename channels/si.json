@@ -3,6 +3,14 @@
   "name": "Slovenia",
   "channels": [
     {
+      "channel": "#idrija",
+      "description": "Idrija"
+    },
+    {
+      "channel": "#si-bot",
+      "description": "Si Bot"
+    },
+    {
       "channel": "#slovenija",
       "description": "Official Slovenian MeshCore community channel to share, chat, learn and help one another"
     }

@@ -3,6 +3,10 @@
   "name": "United States",
   "channels": [
     {
+      "channel": "#123bot",
+      "description": "123bot"
+    },
+    {
       "channel": "#2600",
       "description": "Hacker culture channel on RDUMesh."
     },
@@ -23,12 +27,28 @@
       "description": "ABDL community chat and discussion (CascadiaMesh)."
     },
     {
+      "channel": "#aihomer",
+      "description": "Aihomer"
+    },
+    {
+      "channel": "#airs",
+      "description": "Airs"
+    },
+    {
+      "channel": "#alabama",
+      "description": "Alabama"
+    },
+    {
       "channel": "#alameda",
       "description": "Alameda Island local chat (Bay Area)."
     },
     {
       "channel": "#alert",
       "description": "Network-wide alerts and urgent communications (Bay Area)."
+    },
+    {
+      "channel": "#anf-incidents",
+      "description": "Anf Incidents"
     },
     {
       "channel": "#apex",
@@ -47,6 +67,10 @@
       "description": "Chat all things planes and aviation (West Coast Mesh)."
     },
     {
+      "channel": "#bcares",
+      "description": "Bcares"
+    },
+    {
       "channel": "#beaconhill",
       "description": "Beacon Hill neighborhood channel, Seattle (CascadiaMesh)."
     },
@@ -59,6 +83,14 @@
       "description": "Bellingham, WA chat (CascadiaMesh)."
     },
     {
+      "channel": "#bham-bot",
+      "description": "Bham Bot"
+    },
+    {
+      "channel": "#billybot",
+      "description": "Billybot"
+    },
+    {
       "channel": "#birding",
       "description": "Bird watching chat (CascadiaMesh)."
     },
@@ -69,6 +101,10 @@
     {
       "channel": "#blackhawks",
       "description": "Chicago Blackhawks discussion (Chicagoland Mesh)."
+    },
+    {
+      "channel": "#bmx",
+      "description": "Bmx"
     },
     {
       "channel": "#boating",
@@ -95,6 +131,10 @@
       "description": "Testing bot for Eugene, OR (CascadiaMesh)."
     },
     {
+      "channel": "#bot-gorge",
+      "description": "Bot Gorge"
+    },
+    {
       "channel": "#bot-islands",
       "description": "Testing bot for the Salish Sea / Puget Sound Islands (CascadiaMesh)."
     },
@@ -111,6 +151,14 @@
       "description": "Testing bot in Portland, OR (CascadiaMesh)."
     },
     {
+      "channel": "#bot-pdx-ne",
+      "description": "Bot Pdx Ne"
+    },
+    {
+      "channel": "#bot-rdm",
+      "description": "Bot Rdm"
+    },
+    {
       "channel": "#bot-sea",
       "description": "Testing bot in Seattle, WA (CascadiaMesh)."
     },
@@ -121,6 +169,10 @@
     {
       "channel": "#bot-tacoma",
       "description": "PugetMesh bot channel for Tacoma, WA"
+    },
+    {
+      "channel": "#bot-tc",
+      "description": "Bot Tc"
     },
     {
       "channel": "#bot-van",
@@ -137,6 +189,10 @@
     {
       "channel": "#bulls",
       "description": "Chicago Bulls discussion (Chicagoland Mesh)."
+    },
+    {
+      "channel": "#bur-mesh",
+      "description": "Bur Mesh"
     },
     {
       "channel": "#camas",
@@ -171,8 +227,16 @@
       "description": "Central Oregon regional chat (Bend, Redmond, Sisters, Prineville, Madras)."
     },
     {
+      "channel": "#centralvalley",
+      "description": "Centralvalley"
+    },
+    {
       "channel": "#cert",
       "description": "Community Emergency Response Team coordination channel (Bay Area)."
+    },
+    {
+      "channel": "#chan-512",
+      "description": "Chan 512"
     },
     {
       "channel": "#chat",
@@ -189,6 +253,10 @@
     {
       "channel": "#chimesh-observer-alert",
       "description": "Chicagoland Mesh observer alert channel."
+    },
+    {
+      "channel": "#christcore",
+      "description": "Christcore"
     },
     {
       "channel": "#clallam",
@@ -219,6 +287,10 @@
       "description": "Corvallis, OR chat (CascadiaMesh)."
     },
     {
+      "channel": "#county-line",
+      "description": "County Line"
+    },
+    {
       "channel": "#cowlitz",
       "description": "Cowlitz County, WA regional chat (CascadiaMesh)."
     },
@@ -229,6 +301,18 @@
     {
       "channel": "#cubs",
       "description": "Chicago Cubs discussion (Chicagoland Mesh)."
+    },
+    {
+      "channel": "#cullmantest",
+      "description": "Cullmantest"
+    },
+    {
+      "channel": "#cvbb-bot",
+      "description": "Cvbb Bot"
+    },
+    {
+      "channel": "#d3",
+      "description": "D3"
     },
     {
       "channel": "#dev",
@@ -249,6 +333,10 @@
     {
       "channel": "#drones",
       "description": "Flying drones discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#dronewatch",
+      "description": "Dronewatch"
     },
     {
       "channel": "#ducks",
@@ -311,6 +399,10 @@
       "description": "Formula One racing discussion (CascadiaMesh)."
     },
     {
+      "channel": "#fairfield-county",
+      "description": "Fairfield County"
+    },
+    {
       "channel": "#fifa2026",
       "description": "FIFA World Cup 2026 discussion (CascadiaMesh)."
     },
@@ -319,12 +411,24 @@
       "description": "Automated wildfire alerts for the Bay Area."
     },
     {
+      "channel": "#fishing",
+      "description": "Fishing"
+    },
+    {
+      "channel": "#fleetweek",
+      "description": "Fleetweek"
+    },
+    {
       "channel": "#florida",
       "description": "Florida statewide MeshCore chat."
     },
     {
       "channel": "#food",
       "description": "Food and dining discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#frog",
+      "description": "Frog"
     },
     {
       "channel": "#fun",
@@ -347,12 +451,24 @@
       "description": "GMRS radio related discussions (TennMesh)."
     },
     {
+      "channel": "#gmrs4fun",
+      "description": "Gmrs4fun"
+    },
+    {
       "channel": "#gmrsradio",
       "description": "GMRS radio discussion (CascadiaMesh)."
     },
     {
+      "channel": "#gorge",
+      "description": "Gorge"
+    },
+    {
       "channel": "#guns",
       "description": "Firearms and gun safety discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#hamfestchattanooga",
+      "description": "Hamfestchattanooga"
     },
     {
       "channel": "#hamradio",
@@ -363,8 +479,20 @@
       "description": "Chat all things hardware (West Coast Mesh)."
     },
     {
+      "channel": "#hayhurst",
+      "description": "Hayhurst"
+    },
+    {
+      "channel": "#hcara",
+      "description": "Hcara"
+    },
+    {
       "channel": "#healthcheck",
       "description": "Use healthcheck.bayareameshcore.org to learn how far your node's messages are reaching."
+    },
+    {
+      "channel": "#highdesert",
+      "description": "Highdesert"
     },
     {
       "channel": "#hiking",
@@ -373,6 +501,10 @@
     {
       "channel": "#howlbot",
       "description": "The original testing bot, Everett, WA."
+    },
+    {
+      "channel": "#humansonly",
+      "description": "Humansonly"
     },
     {
       "channel": "#huskies",
@@ -411,8 +543,16 @@
       "description": "Jefferson County, WA chat (CascadiaMesh)."
     },
     {
+      "channel": "#johnsoncity",
+      "description": "Johnsoncity"
+    },
+    {
       "channel": "#jokes",
       "description": "Tell us a joke! (West Coast Mesh)."
+    },
+    {
+      "channel": "#kcew-wx",
+      "description": "Kcew Wx"
     },
     {
       "channel": "#kent",
@@ -421,6 +561,10 @@
     {
       "channel": "#kitsap",
       "description": "Kitsap County, WA chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#klamathfalls",
+      "description": "Klamathfalls"
     },
     {
       "channel": "#kraken",
@@ -435,6 +579,10 @@
       "description": "Local chat for Lake Forest, California."
     },
     {
+      "channel": "#late",
+      "description": "Late"
+    },
+    {
       "channel": "#law",
       "description": "Legal advice/discussion channel (CascadiaMesh)."
     },
@@ -443,12 +591,24 @@
       "description": "Long Island Mesh: channel scoped to the \"li\" (Long Island) region"
     },
     {
+      "channel": "#linn",
+      "description": "Linn"
+    },
+    {
+      "channel": "#longbeach",
+      "description": "Longbeach"
+    },
+    {
       "channel": "#longisland",
       "description": "Long Island, NY regional channel (Long Island Mesh)."
     },
     {
       "channel": "#losangeles",
       "description": "Local chat for Los Angeles County."
+    },
+    {
+      "channel": "#loudoun",
+      "description": "Loudoun"
     },
     {
       "channel": "#lynden",
@@ -479,6 +639,10 @@
       "description": "War driving and mobile testing activities (Massachusetts)."
     },
     {
+      "channel": "#magicthegathering",
+      "description": "Magicthegathering"
+    },
+    {
       "channel": "#marin",
       "description": "Marin county local chat."
     },
@@ -503,12 +667,20 @@
       "description": "Like APRS Thursday but for the mesh: map the network every Monday (Bay Area)."
     },
     {
+      "channel": "#mediamesh",
+      "description": "Mediamesh"
+    },
+    {
       "channel": "#meetup",
       "description": "Austin Mesh meetup coordination channel."
     },
     {
       "channel": "#mesh",
       "description": "General mesh networking topics, node setup, and troubleshooting."
+    },
+    {
+      "channel": "#meshavl",
+      "description": "Meshavl"
     },
     {
       "channel": "#meshbud",
@@ -523,12 +695,28 @@
       "description": "Discussion around meshcore-rs, the open-source Rust library for MeshCore devices."
     },
     {
+      "channel": "#meshmonday",
+      "description": "Meshmonday"
+    },
+    {
       "channel": "#meshpotamia",
       "description": "Higher-level discussion of MeshCore's technical and social challenges."
     },
     {
+      "channel": "#meshtrax",
+      "description": "Meshtrax"
+    },
+    {
+      "channel": "#metairie",
+      "description": "Metairie"
+    },
+    {
       "channel": "#metalmusic",
       "description": "Metal, Djent, Metalcore music discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#mgmwx",
+      "description": "Mgmwx"
     },
     {
       "channel": "#movies",
@@ -551,6 +739,18 @@
       "description": "Nudist community chat (CascadiaMesh)."
     },
     {
+      "channel": "#ncmesh",
+      "description": "Ncmesh"
+    },
+    {
+      "channel": "#ncw",
+      "description": "Ncw"
+    },
+    {
+      "channel": "#ne-hc",
+      "description": "Ne Hc"
+    },
+    {
       "channel": "#news",
       "description": "Gulf Coast Mesh (Louisiana/Gulf Coast): news & announcements, incl. automated bot posts during emergencies"
     },
@@ -561,6 +761,14 @@
     {
       "channel": "#nhmesh",
       "description": "New Hampshire-focused general chat."
+    },
+    {
+      "channel": "#nky-info",
+      "description": "Nky Info"
+    },
+    {
+      "channel": "#nky-wx",
+      "description": "Nky Wx"
     },
     {
       "channel": "#northbend",
@@ -575,8 +783,16 @@
       "description": "Novato local chat."
     },
     {
+      "channel": "#nwburbs",
+      "description": "Nwburbs"
+    },
+    {
       "channel": "#nyc",
       "description": "New York City regional channel (Long Island Mesh)."
+    },
+    {
+      "channel": "#ohl",
+      "description": "Ohl"
     },
     {
       "channel": "#olympia",
@@ -599,12 +815,24 @@
       "description": "Oregon statewide chat (CascadiaMesh)."
     },
     {
+      "channel": "#pacificon",
+      "description": "Pacificon"
+    },
+    {
       "channel": "#pdx",
       "description": "Portland, OR chat (CascadiaMesh)."
     },
     {
+      "channel": "#pearlrivercounty",
+      "description": "Pearlrivercounty"
+    },
+    {
       "channel": "#philomath",
       "description": "Philomath, OR regional chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#picayune",
+      "description": "Picayune"
     },
     {
       "channel": "#pierce",
@@ -617,6 +845,10 @@
     {
       "channel": "#pokemon",
       "description": "Pokemon discussion channel (CascadiaMesh)."
+    },
+    {
+      "channel": "#police",
+      "description": "Police"
     },
     {
       "channel": "#politics",
@@ -639,6 +871,10 @@
       "description": "Long Island Mesh: default/public MeshCore channel, region dependent"
     },
     {
+      "channel": "#qdbbot",
+      "description": "Qdbbot"
+    },
+    {
       "channel": "#queenanne",
       "description": "Queen Anne neighborhood channel, Seattle (CascadiaMesh)."
     },
@@ -649,6 +885,14 @@
     {
       "channel": "#raleigh",
       "description": "Raleigh, NC local channel (RDUMesh)."
+    },
+    {
+      "channel": "#raptors",
+      "description": "Raptors"
+    },
+    {
+      "channel": "#ratcity",
+      "description": "Ratcity"
     },
     {
       "channel": "#ravenna",
@@ -675,6 +919,10 @@
       "description": "Jackson and Josephine counties, Oregon (CascadiaMesh)."
     },
     {
+      "channel": "#rst-rni",
+      "description": "Rst Rni"
+    },
+    {
       "channel": "#rugby",
       "description": "Rugby discussion (CascadiaMesh)."
     },
@@ -685,6 +933,10 @@
     {
       "channel": "#salem",
       "description": "Salem, OR chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#samara",
+      "description": "Samara"
     },
     {
       "channel": "#sanbernardino",
@@ -699,8 +951,16 @@
       "description": "San Leandro local chat."
     },
     {
+      "channel": "#santacruz",
+      "description": "Santacruz"
+    },
+    {
       "channel": "#sar",
       "description": "Search and Rescue coordination channel (CascadiaMesh)."
+    },
+    {
+      "channel": "#sarc",
+      "description": "Sarc"
     },
     {
       "channel": "#sartest",
@@ -713,6 +973,14 @@
     {
       "channel": "#scvmesh",
       "description": "Local chat for Santa Clarita Valley."
+    },
+    {
+      "channel": "#scwx",
+      "description": "Scwx"
+    },
+    {
+      "channel": "#sea-bot",
+      "description": "Sea Bot"
     },
     {
       "channel": "#seahawks",
@@ -783,16 +1051,40 @@
       "description": "PugetMesh sports chat (Puget Sound, WA)"
     },
     {
+      "channel": "#startrek",
+      "description": "Startrek"
+    },
+    {
       "channel": "#storm",
       "description": "Seattle Storm WNBA basketball chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#storytime",
+      "description": "Storytime"
     },
     {
       "channel": "#suburbs",
       "description": "Chicago suburbs regional channel (Chicagoland Mesh)."
     },
     {
+      "channel": "#suruai",
+      "description": "Suruai"
+    },
+    {
+      "channel": "#swaptoberfest",
+      "description": "Swaptoberfest"
+    },
+    {
       "channel": "#tacoma",
       "description": "Tacoma, WA chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#tc-trivia",
+      "description": "Tc Trivia"
+    },
+    {
+      "channel": "#tdot",
+      "description": "Tdot"
     },
     {
       "channel": "#tech",
@@ -807,6 +1099,10 @@
       "description": "Testing the mesh itself; send 'test' as a message for an automatic bot reply."
     },
     {
+      "channel": "#test-channel",
+      "description": "Test Channel"
+    },
+    {
       "channel": "#testing",
       "description": "PugetMesh testing channel (Puget Sound, WA)"
     },
@@ -817,6 +1113,10 @@
     {
       "channel": "#timbers",
       "description": "Portland Timbers chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#tmn",
+      "description": "Tmn"
     },
     {
       "channel": "#tn-east",
@@ -851,8 +1151,36 @@
       "description": "Transit information bot channel (CascadiaMesh)."
     },
     {
+      "channel": "#tri-cities-mesh",
+      "description": "Tri Cities Mesh"
+    },
+    {
+      "channel": "#trivia",
+      "description": "Trivia"
+    },
+    {
+      "channel": "#tt",
+      "description": "Tt"
+    },
+    {
+      "channel": "#us-southeast",
+      "description": "Us Southeast"
+    },
+    {
+      "channel": "#va-louisa",
+      "description": "Va Louisa"
+    },
+    {
       "channel": "#vancouverwa",
       "description": "Vancouver, WA chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#ve7kod",
+      "description": "Ve7kod"
+    },
+    {
+      "channel": "#ventunoq-guru",
+      "description": "Ventunoq Guru"
     },
     {
       "channel": "#venturacounty",
@@ -863,8 +1191,20 @@
       "description": "San Diego based mesh bot (West Coast Mesh)."
     },
     {
+      "channel": "#vols",
+      "description": "Vols"
+    },
+    {
+      "channel": "#vox",
+      "description": "Vox"
+    },
+    {
       "channel": "#wadamesh",
       "description": "Discussion about the standalone T-Deck firmware from WaDaMesh.com."
+    },
+    {
+      "channel": "#wallstreetbets",
+      "description": "Wallstreetbets"
     },
     {
       "channel": "#wardriving",
@@ -887,6 +1227,22 @@
       "description": "Automated weather alerts from the NWS covering 8 Bay Area zones."
     },
     {
+      "channel": "#weather-gorge",
+      "description": "Weather Gorge"
+    },
+    {
+      "channel": "#weekly-mesh-net",
+      "description": "Weekly Mesh Net"
+    },
+    {
+      "channel": "#westbank",
+      "description": "Westbank"
+    },
+    {
+      "channel": "#westburbs",
+      "description": "Westburbs"
+    },
+    {
       "channel": "#westseattle",
       "description": "West Seattle neighborhood channel (CascadiaMesh)."
     },
@@ -903,12 +1259,32 @@
       "description": "Willamette Valley discussion, Oregon (CascadiaMesh)."
     },
     {
+      "channel": "#wx-bay",
+      "description": "Wx Bay"
+    },
+    {
+      "channel": "#wx-somerset",
+      "description": "Wx Somerset"
+    },
+    {
       "channel": "#yamco",
       "description": "Yamhill County, OR regional chat (CascadiaMesh)."
     },
     {
+      "channel": "#yanceymesh",
+      "description": "Yanceymesh"
+    },
+    {
+      "channel": "#ykf",
+      "description": "Ykf"
+    },
+    {
       "channel": "#yo",
       "description": "A playful homage to the 'Yo' social network; only 'Yo' allowed (Bay Area)."
+    },
+    {
+      "channel": "#yucaipa",
+      "description": "Yucaipa"
     },
     {
       "channel": "centralnj-mc",

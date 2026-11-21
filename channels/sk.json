@@ -7,6 +7,10 @@
       "description": "Weather warnings, storm radar, radiation, earthquakes"
     },
     {
+      "channel": "#bgld7",
+      "description": "Bgld7"
+    },
+    {
       "channel": "#bratislava",
       "description": "Bratislava area"
     },
@@ -15,8 +19,20 @@
       "description": "Kosice area"
     },
     {
+      "channel": "#labhier",
+      "description": "Labhier"
+    },
+    {
+      "channel": "#liptov",
+      "description": "Liptov"
+    },
+    {
       "channel": "#nitra",
       "description": "Nitra area"
+    },
+    {
+      "channel": "#noe7",
+      "description": "Noe7"
     },
     {
       "channel": "#poprad",
@@ -31,16 +47,44 @@
       "description": "Prievidza area"
     },
     {
+      "channel": "#sarisskemichalany",
+      "description": "Sarisskemichalany"
+    },
+    {
+      "channel": "#senec",
+      "description": "Senec"
+    },
+    {
       "channel": "#slovakia",
       "description": "Slovak national hashtag channel"
+    },
+    {
+      "channel": "#stred",
+      "description": "Stred"
+    },
+    {
+      "channel": "#techinfo",
+      "description": "Techinfo"
     },
     {
       "channel": "#turiec",
       "description": "Martin, Turcianske Teplice, and Vrutky areas"
     },
     {
+      "channel": "#vienna7",
+      "description": "Vienna7"
+    },
+    {
       "channel": "#vychod",
       "description": "Eastern Slovakia region"
+    },
+    {
+      "channel": "#zahori",
+      "description": "Zahori"
+    },
+    {
+      "channel": "#zapad",
+      "description": "Zapad"
     },
     {
       "channel": "#zilina",

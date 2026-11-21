@@ -11,6 +11,10 @@
       "description": "Central Norway (Midt-Norge) regional channel, live on EU MeshCore analyzer"
     },
     {
+      "channel": "#norge",
+      "description": "Norge"
+    },
+    {
       "channel": "#oslo",
       "description": "Oslo channel, live on EU MeshCore analyzer"
     },

@@ -1,5 +1,42 @@
 {
   "code": "ru",
   "name": "Russia",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#1212",
+      "description": "1212"
+    },
+    {
+      "channel": "#anekdot",
+      "description": "Anekdot"
+    },
+    {
+      "channel": "#connection",
+      "description": "Connection"
+    },
+    {
+      "channel": "#ping-bot",
+      "description": "Ping Bot"
+    },
+    {
+      "channel": "#pxbot",
+      "description": "Pxbot"
+    },
+    {
+      "channel": "#song",
+      "description": "Song"
+    },
+    {
+      "channel": "#tlt",
+      "description": "Tlt"
+    },
+    {
+      "channel": "#uvb76",
+      "description": "Uvb76"
+    },
+    {
+      "channel": "#volgaalert",
+      "description": "Volgaalert"
+    }
+  ]
 }

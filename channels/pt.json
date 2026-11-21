@@ -2,11 +2,11 @@
   "code": "pt",
   "name": "Portugal",
   "channels": [
-	{
+    {
       "channel": "#acores",
       "description": "Açores PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
       "channel": "#alentejo",
       "description": "Alentejo PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
@@ -14,23 +14,27 @@
       "channel": "#aveiro",
       "description": "Aveiro PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
       "channel": "#beja",
       "description": "Beja PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
       "channel": "#braga",
       "description": "Braga PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
       "channel": "#braganca",
       "description": "Bragança PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#cartaxo2026",
+      "description": "Cartaxo2026"
     },
     {
       "channel": "#castelobranco",
       "description": "Castelo Branco PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
       "channel": "#coimbra",
       "description": "Coimbra PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
@@ -38,19 +42,23 @@
       "channel": "#csy",
       "description": "A bot channel"
     },
-	{
+    {
       "channel": "#evora",
       "description": "Evora PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
       "channel": "#faro",
       "description": "Faro PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
+      "channel": "#freemeshcore",
+      "description": "Freemeshcore"
+    },
+    {
       "channel": "#guarda",
       "description": "Guarda PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
       "channel": "#leiria",
       "description": "Leiria PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
@@ -58,13 +66,25 @@
       "channel": "#lisboa",
       "description": "Lisboa PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
+      "channel": "#mad",
+      "description": "Mad"
+    },
+    {
       "channel": "#madeira",
       "description": "Madeira PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
+      "channel": "#mafra",
+      "description": "Mafra"
+    },
+    {
       "channel": "#meshcore",
       "description": "MeshCore dedicated topic channel"
+    },
+    {
+      "channel": "#norte",
+      "description": "Norte"
     },
     {
       "channel": "#ping",
@@ -74,39 +94,55 @@
       "channel": "#plano333",
       "description": "https://www.meshcore.pt/en/projects/plano333"
     },
-	{
+    {
       "channel": "#portalegre",
       "description": "Portalegre PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
       "channel": "#porto",
       "description": "Porto PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
       "channel": "#portugal",
       "description": "PT nation wide channel"
     },
-	{
+    {
+      "channel": "#pt-porto",
+      "description": "Pt Porto"
+    },
+    {
+      "channel": "#publico",
+      "description": "Publico"
+    },
+    {
       "channel": "#santarem",
       "description": "Santarem PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#scera",
+      "description": "Scera"
     },
     {
       "channel": "#setubal",
       "description": "Setubal PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
+      "channel": "#tempo",
+      "description": "Tempo"
+    },
+    {
       "channel": "#testes",
       "description": "A test channel"
     },
-	{
+    {
       "channel": "#vianadocastelo",
       "description": "Viana do Castelo PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
       "channel": "#vilareal",
       "description": "Vila Real PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
-	{
+    {
       "channel": "#viseu",
       "description": "Viseu PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     }

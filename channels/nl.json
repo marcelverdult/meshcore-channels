@@ -1151,6 +1151,10 @@
       "description": "blackout"
     },
     {
+      "channel": "#bladel",
+      "description": "Bladel"
+    },
+    {
       "channel": "#bladtunge",
       "description": "bladtunge"
     },
@@ -1245,6 +1249,10 @@
     {
       "channel": "#borssele",
       "description": "borssele"
+    },
+    {
+      "channel": "#bosco",
+      "description": "Bosco"
     },
     {
       "channel": "#boston",
@@ -3423,6 +3431,10 @@
       "description": "gft"
     },
     {
+      "channel": "#ghcq",
+      "description": "Ghcq"
+    },
+    {
       "channel": "#gironde",
       "description": "gironde"
     },
@@ -3901,6 +3913,10 @@
     {
       "channel": "#hgw",
       "description": "hgw"
+    },
+    {
+      "channel": "#hho",
+      "description": "Hho"
     },
     {
       "channel": "#hi",
@@ -4397,6 +4413,10 @@
     {
       "channel": "#kan",
       "description": "kan"
+    },
+    {
+      "channel": "#kanaal14",
+      "description": "Kanaal14"
     },
     {
       "channel": "#kanal",
@@ -5083,6 +5103,10 @@
       "description": "manhattan"
     },
     {
+      "channel": "#mani",
+      "description": "Mani"
+    },
+    {
       "channel": "#manila",
       "description": "manila"
     },
@@ -5457,6 +5481,10 @@
     {
       "channel": "#moers",
       "description": "moers"
+    },
+    {
+      "channel": "#moes",
+      "description": "Moes"
     },
     {
       "channel": "#moin",
@@ -7235,6 +7263,10 @@
       "description": "roe"
     },
     {
+      "channel": "#roermond",
+      "description": "Roermond"
+    },
+    {
       "channel": "#romandie",
       "description": "romandie"
     },
@@ -7249,6 +7281,10 @@
     {
       "channel": "#rome",
       "description": "rome"
+    },
+    {
+      "channel": "#roosendaal",
+      "description": "Roosendaal"
     },
     {
       "channel": "#rosenheim",
@@ -7345,6 +7381,10 @@
     {
       "channel": "#ryptsjerk",
       "description": "ryptsjerk"
+    },
+    {
+      "channel": "#rzal",
+      "description": "Rzal"
     },
     {
       "channel": "#rzb",
@@ -8815,8 +8855,16 @@
       "description": "voorneputten"
     },
     {
+      "channel": "#voorschoten",
+      "description": "Voorschoten"
+    },
+    {
       "channel": "#voorthuizen",
       "description": "voorthuizen"
+    },
+    {
+      "channel": "#vpc",
+      "description": "Vpc"
     },
     {
       "channel": "#vpk",
@@ -8877,6 +8925,10 @@
     {
       "channel": "#w8ara",
       "description": "w8ara"
+    },
+    {
+      "channel": "#waadhoeke",
+      "description": "Waadhoeke"
     },
     {
       "channel": "#wabbithunt",
@@ -9393,6 +9445,10 @@
     {
       "channel": "#zandbak",
       "description": "zandbak"
+    },
+    {
+      "channel": "#zandvoort",
+      "description": "Zandvoort"
     },
     {
       "channel": "#zdf",

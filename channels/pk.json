@@ -1,5 +1,10 @@
 {
   "code": "pk",
   "name": "Pakistan",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#gameover",
+      "description": "Gameover"
+    }
+  ]
 }

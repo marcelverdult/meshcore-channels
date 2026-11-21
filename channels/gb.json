@@ -3,6 +3,14 @@
   "name": "United Kingdom",
   "channels": [
     {
+      "channel": "#amersham",
+      "description": "Amersham"
+    },
+    {
+      "channel": "#barnsley",
+      "description": "Barnsley"
+    },
+    {
       "channel": "#beds-bucks-northants",
       "description": "beds-bucks-northants"
     },
@@ -11,16 +19,48 @@
       "description": "berks"
     },
     {
+      "channel": "#berksbot",
+      "description": "Berksbot"
+    },
+    {
       "channel": "#birmingham",
       "description": "City channel for Birmingham"
+    },
+    {
+      "channel": "#blackwatervalley",
+      "description": "Blackwatervalley"
+    },
+    {
+      "channel": "#blanc",
+      "description": "Blanc"
     },
     {
       "channel": "#bristol",
       "description": "bristol"
     },
     {
+      "channel": "#bristol-test",
+      "description": "Bristol Test"
+    },
+    {
+      "channel": "#brs-rainbot",
+      "description": "Brs Rainbot"
+    },
+    {
+      "channel": "#cake",
+      "description": "Cake"
+    },
+    {
       "channel": "#chesterfield",
       "description": "chesterfield"
+    },
+    {
+      "channel": "#colchester",
+      "description": "Colchester"
+    },
+    {
+      "channel": "#communityresilience",
+      "description": "Communityresilience"
     },
     {
       "channel": "#cornwall",
@@ -47,6 +87,14 @@
       "description": "essex"
     },
     {
+      "channel": "#essexham",
+      "description": "Essexham"
+    },
+    {
+      "channel": "#gb-est",
+      "description": "Gb Est"
+    },
+    {
       "channel": "#greatermanchester",
       "description": "Regional channel for Greater Manchester"
     },
@@ -59,8 +107,20 @@
       "description": "hertford"
     },
     {
+      "channel": "#highland",
+      "description": "Highland"
+    },
+    {
       "channel": "#huddersfield",
       "description": "huddersfield"
+    },
+    {
+      "channel": "#hull",
+      "description": "Hull"
+    },
+    {
+      "channel": "#io",
+      "description": "Io"
     },
     {
       "channel": "#ipswich",
@@ -79,6 +139,10 @@
       "description": "kernow"
     },
     {
+      "channel": "#kingnode",
+      "description": "Kingnode"
+    },
+    {
       "channel": "#londen",
       "description": "londen"
     },
@@ -87,8 +151,28 @@
       "description": "london"
     },
     {
+      "channel": "#longeaton",
+      "description": "Longeaton"
+    },
+    {
+      "channel": "#longfast",
+      "description": "Longfast"
+    },
+    {
       "channel": "#lowestoft",
       "description": "lowestoft"
+    },
+    {
+      "channel": "#ltest",
+      "description": "Ltest"
+    },
+    {
+      "channel": "#m9kel-sig-bot",
+      "description": "M9kel Sig Bot"
+    },
+    {
+      "channel": "#meshcore-companion",
+      "description": "Meshcore Companion"
     },
     {
       "channel": "#meshcore-uk",
@@ -107,8 +191,48 @@
       "description": "northwest"
     },
     {
+      "channel": "#nota",
+      "description": "Nota"
+    },
+    {
+      "channel": "#orkney",
+      "description": "Orkney"
+    },
+    {
+      "channel": "#pest",
+      "description": "Pest"
+    },
+    {
+      "channel": "#plumstead",
+      "description": "Plumstead"
+    },
+    {
+      "channel": "#pmr",
+      "description": "Pmr"
+    },
+    {
+      "channel": "#poobah",
+      "description": "Poobah"
+    },
+    {
+      "channel": "#preppersuk",
+      "description": "Preppersuk"
+    },
+    {
+      "channel": "#public2",
+      "description": "Public2"
+    },
+    {
+      "channel": "#sa-chat",
+      "description": "Sa Chat"
+    },
+    {
       "channel": "#scotland",
       "description": "scotland"
+    },
+    {
+      "channel": "#shetland",
+      "description": "Shetland"
     },
     {
       "channel": "#solent",
@@ -123,8 +247,24 @@
       "description": "spire"
     },
     {
+      "channel": "#staffs-n-stoke",
+      "description": "Staffs N Stoke"
+    },
+    {
       "channel": "#suffolk",
       "description": "suffolk"
+    },
+    {
+      "channel": "#sussexcoast",
+      "description": "Sussexcoast"
+    },
+    {
+      "channel": "#trans",
+      "description": "Trans"
+    },
+    {
+      "channel": "#versions",
+      "description": "Versions"
     },
     {
       "channel": "#wales",
@@ -137,6 +277,26 @@
     {
       "channel": "#walesandwest-chat",
       "description": "Local chat channel for South Wales & the West, no scope restriction"
+    },
+    {
+      "channel": "#walesandwest-wx",
+      "description": "Walesandwest Wx"
+    },
+    {
+      "channel": "#whatever",
+      "description": "Whatever"
+    },
+    {
+      "channel": "#wiltshire",
+      "description": "Wiltshire"
+    },
+    {
+      "channel": "#wirral",
+      "description": "Wirral"
+    },
+    {
+      "channel": "#worksop",
+      "description": "Worksop"
     },
     {
       "channel": "#yorkshire",
