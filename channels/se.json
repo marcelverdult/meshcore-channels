@@ -3,8 +3,28 @@
   "name": "Sweden",
   "channels": [
     {
+      "channel": "#elva",
+      "description": "Elva"
+    },
+    {
+      "channel": "#falun",
+      "description": "Falun"
+    },
+    {
       "channel": "#goteborg",
       "description": "Gothenburg (Göteborg) channel"
+    },
+    {
+      "channel": "#greve",
+      "description": "Greve"
+    },
+    {
+      "channel": "#halland",
+      "description": "Halland"
+    },
+    {
+      "channel": "#hallstahammar",
+      "description": "Hallstahammar"
     },
     {
       "channel": "#helsingborg",
@@ -15,8 +35,20 @@
       "description": "Jönköping channel"
     },
     {
+      "channel": "#kaj",
+      "description": "Kaj"
+    },
+    {
       "channel": "#kalmar",
       "description": "Kalmar channel"
+    },
+    {
+      "channel": "#kalmar-weather",
+      "description": "Kalmar Weather"
+    },
+    {
+      "channel": "#kalmar-wx",
+      "description": "Kalmar Wx"
     },
     {
       "channel": "#kungsbacka",
@@ -27,16 +59,48 @@
       "description": "Linköping channel"
     },
     {
+      "channel": "#moderskeppet",
+      "description": "Moderskeppet"
+    },
+    {
       "channel": "#nykoping",
       "description": "Nyköping channel"
+    },
+    {
+      "channel": "#nykoping-info",
+      "description": "Nykoping Info"
     },
     {
       "channel": "#orebro",
       "description": "Örebro channel"
     },
     {
+      "channel": "#se",
+      "description": "Se"
+    },
+    {
       "channel": "#se12",
       "description": "se12"
+    },
+    {
+      "channel": "#se20public",
+      "description": "Se20public"
+    },
+    {
+      "channel": "#se20utbyggnad",
+      "description": "Se20utbyggnad"
+    },
+    {
+      "channel": "#sjuharad",
+      "description": "Sjuharad"
+    },
+    {
+      "channel": "#sk7rn",
+      "description": "Sk7rn"
+    },
+    {
+      "channel": "#sm7gxq-wx",
+      "description": "Sm7gxq Wx"
     },
     {
       "channel": "#stockholm",
@@ -49,6 +113,30 @@
     {
       "channel": "#sweden",
       "description": "National Swedish channel"
+    },
+    {
+      "channel": "#test-jkg",
+      "description": "Test Jkg"
+    },
+    {
+      "channel": "#text-tv",
+      "description": "Text Tv"
+    },
+    {
+      "channel": "#varmland",
+      "description": "Varmland"
+    },
+    {
+      "channel": "#vaxnet-bot",
+      "description": "Vaxnet Bot"
+    },
+    {
+      "channel": "#vxo",
+      "description": "Vxo"
+    },
+    {
+      "channel": "#vxo-bot",
+      "description": "Vxo Bot"
     }
   ]
 }

@@ -19,6 +19,10 @@
       "description": "Discussions and coordination for Bucuresti and the metropolitan area"
     },
     {
+      "channel": "#bv-cv",
+      "description": "Bv Cv"
+    },
+    {
       "channel": "#craiova",
       "description": "Local channel for Craiova, Dolj and regional links in the area"
     },
@@ -27,12 +31,32 @@
       "description": "Distance reports, propagation, links between cities and coverage tests"
     },
     {
+      "channel": "#hbo",
+      "description": "Hbo"
+    },
+    {
       "channel": "#jokes",
       "description": "Jokes and relaxed conversation, separate from operational channels"
     },
     {
+      "channel": "#mesh-links",
+      "description": "Mesh Links"
+    },
+    {
+      "channel": "#neamt",
+      "description": "Neamt"
+    },
+    {
       "channel": "#radioamatori-yo",
       "description": "Discussion space for radio amateurs with YO callsigns and technical experiments"
+    },
+    {
+      "channel": "#resita",
+      "description": "Resita"
+    },
+    {
+      "channel": "#retrodevices",
+      "description": "Retrodevices"
     },
     {
       "channel": "#romania",

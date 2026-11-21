@@ -1,5 +1,10 @@
 {
   "code": "ar",
   "name": "Argentina",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#meteoaradbot",
+      "description": "Meteoaradbot"
+    }
+  ]
 }

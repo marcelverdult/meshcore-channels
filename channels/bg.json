@@ -3,6 +3,14 @@
   "name": "Bulgaria",
   "channels": [
     {
+      "channel": "#bdars",
+      "description": "Bdars"
+    },
+    {
+      "channel": "#blagoevgrad",
+      "description": "Blagoevgrad"
+    },
+    {
       "channel": "#bot",
       "description": "Avtomatizirani otgovori (komandi)"
     },
@@ -23,12 +31,24 @@
       "description": "Samo za izvanredni situatsii"
     },
     {
+      "channel": "#goldcoast",
+      "description": "Goldcoast"
+    },
+    {
       "channel": "#hacktheplanet",
       "description": "Inzhenerni diskusii"
     },
     {
       "channel": "#hamradio",
       "description": "Radio lyubitelski diskusii"
+    },
+    {
+      "channel": "#harta",
+      "description": "Harta"
+    },
+    {
+      "channel": "#la-o-vorba",
+      "description": "La O Vorba"
     },
     {
       "channel": "#lzham",

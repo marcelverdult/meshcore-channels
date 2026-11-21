@@ -15,6 +15,14 @@
       "description": "Test channel of noodcommunicatie.be (Belgian emergency comms group)"
     },
     {
+      "channel": "#befr",
+      "description": "Befr"
+    },
+    {
+      "channel": "#belgique",
+      "description": "Belgique"
+    },
+    {
       "channel": "#belgium-mesh",
       "description": "Belgian MeshCore public channel, per MeshCore Europe community directory"
     },
@@ -81,6 +89,10 @@
     {
       "channel": "#radio-actief",
       "description": "For all RRY members of the Belgian MeshCore network (radio-actief.be)"
+    },
+    {
+      "channel": "#radionoodnet",
+      "description": "Radionoodnet"
     },
     {
       "channel": "#test",

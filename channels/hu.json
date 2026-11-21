@@ -7,8 +7,24 @@
       "description": "Debrecen and surrounding area chat channel"
     },
     {
+      "channel": "#fucktuality",
+      "description": "Fucktuality"
+    },
+    {
       "channel": "#hungary",
       "description": "General Hungarian chat channel"
+    },
+    {
+      "channel": "#mt",
+      "description": "Mt"
+    },
+    {
+      "channel": "#retek2016",
+      "description": "Retek2016"
+    },
+    {
+      "channel": "#szhely",
+      "description": "Szhely"
     },
     {
       "channel": "#veszhelyzet",

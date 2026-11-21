@@ -3,6 +3,10 @@
   "name": "Austria",
   "channels": [
     {
+      "channel": "#122",
+      "description": "122"
+    },
+    {
       "channel": "#alerts",
       "description": "Kanal für Alarmierungen"
     },
@@ -31,12 +35,24 @@
       "description": "Internationaler, englischsprachiger Kanal"
     },
     {
+      "channel": "#ftk",
+      "description": "Ftk"
+    },
+    {
+      "channel": "#gatewayverbund-noe",
+      "description": "Gatewayverbund Noe"
+    },
+    {
       "channel": "#inn-salzach",
       "description": "Kanal für die Grenzregion Innviertel/Salzburg"
     },
     {
       "channel": "#kf",
       "description": "MeshCore-Kanal Kärnten, live mitlesbar via meshfeed unter mesh.kaernten-funkt.at"
+    },
+    {
+      "channel": "#medo",
+      "description": "Medo"
     },
     {
       "channel": "#noe",
@@ -51,12 +67,32 @@
       "description": "Kanal für Tests, u.a. automatisierte Ping-Bots"
     },
     {
+      "channel": "#sfws",
+      "description": "Sfws"
+    },
+    {
+      "channel": "#smc-test",
+      "description": "Smc Test"
+    },
+    {
       "channel": "#test",
       "description": "Testkanal"
     },
     {
+      "channel": "#testis",
+      "description": "Testis"
+    },
+    {
+      "channel": "#time",
+      "description": "Time"
+    },
+    {
       "channel": "#vienna",
       "description": "Regionaler Kanal für Wien"
+    },
+    {
+      "channel": "#w",
+      "description": "W"
     },
     {
       "channel": "#wetter-simmering",

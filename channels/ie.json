@@ -11,12 +11,24 @@
       "description": "Dublin region"
     },
     {
+      "channel": "#grec",
+      "description": "Grec"
+    },
+    {
       "channel": "#ireland",
       "description": "Ireland"
     },
     {
+      "channel": "#kildare",
+      "description": "Kildare"
+    },
+    {
       "channel": "#lifethreat",
       "description": "For notifications of events that may post risk to health or safety"
+    },
+    {
+      "channel": "#luas",
+      "description": "Luas"
     },
     {
       "channel": "#mayo",

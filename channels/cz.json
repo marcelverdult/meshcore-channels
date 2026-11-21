@@ -39,6 +39,10 @@
       "description": "Testing channel for EU Narrow preset"
     },
     {
+      "channel": "#done",
+      "description": "Done"
+    },
+    {
       "channel": "#eldorado",
       "description": "Nachod area"
     },
@@ -75,6 +79,10 @@
       "description": "Humor channel"
     },
     {
+      "channel": "#linuxdays",
+      "description": "Linuxdays"
+    },
+    {
       "channel": "#lysa",
       "description": "Lysa nad Labem residents"
     },
@@ -99,6 +107,10 @@
       "description": "Olomouc region"
     },
     {
+      "channel": "#openalt",
+      "description": "Openalt"
+    },
+    {
       "channel": "#ostrava",
       "description": "Ostrava and surrounding area"
     },
@@ -109,6 +121,10 @@
     {
       "channel": "#praha",
       "description": "Prague and surrounding area"
+    },
+    {
+      "channel": "#regiony",
+      "description": "Regiony"
     },
     {
       "channel": "#reticulum",
@@ -133,6 +149,14 @@
     {
       "channel": "#test",
       "description": "AI/bot testing with commands like 'ping'"
+    },
+    {
+      "channel": "#test-cs",
+      "description": "Test Cs"
+    },
+    {
+      "channel": "#vut",
+      "description": "Vut"
     },
     {
       "channel": "#zdravice",

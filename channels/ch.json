@@ -3,6 +3,10 @@
   "name": "Switzerland",
   "channels": [
     {
+      "channel": "#apero-raclette",
+      "description": "Apero Raclette"
+    },
+    {
       "channel": "#aurora-alert",
       "description": "Aurora notifications and location sharing"
     },
@@ -17,6 +21,10 @@
     {
       "channel": "#blackout",
       "description": "Blackout information and notification in case of power outages"
+    },
+    {
+      "channel": "#ch-gr-imboden",
+      "description": "Ch Gr Imboden"
     },
     {
       "channel": "#chtest",
@@ -35,8 +43,24 @@
       "description": "MeshCore related hardware and software discussion as well as troubleshooting"
     },
     {
+      "channel": "#mome",
+      "description": "Mome"
+    },
+    {
+      "channel": "#neuchatel",
+      "description": "Neuchatel"
+    },
+    {
       "channel": "#qrv",
       "description": "Channel for licensed amateur radio operators to coordinate and log contacts (QSOs)"
+    },
+    {
+      "channel": "#schweiz",
+      "description": "Schweiz"
+    },
+    {
+      "channel": "#schweiz-deutsch",
+      "description": "Schweiz Deutsch"
     },
     {
       "channel": "#seeland",
@@ -57,6 +81,10 @@
     {
       "channel": "#wallis",
       "description": "Wallis canton region"
+    },
+    {
+      "channel": "#wiesental",
+      "description": "Wiesental"
     },
     {
       "channel": "#zuerich",

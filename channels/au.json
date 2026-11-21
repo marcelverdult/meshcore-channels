@@ -23,6 +23,10 @@
       "description": "Beef Mesh node-status bot channel (au-nsw-syd)."
     },
     {
+      "channel": "#bendigo",
+      "description": "Bendigo"
+    },
+    {
       "channel": "#canberra",
       "description": "Canberra conversation and coordination (au-act)."
     },
@@ -51,6 +55,10 @@
       "description": "Albury & Wodonga conversation and coordination (au-hume)."
     },
     {
+      "channel": "#humebot",
+      "description": "Humebot"
+    },
+    {
       "channel": "#illawarra",
       "description": "Illawarra & Wollongong conversation and coordination (au-nsw-wol)."
     },
@@ -63,6 +71,10 @@
       "description": "Macarthur conversation and coordination (au-nsw-syd)."
     },
     {
+      "channel": "#manion",
+      "description": "Manion"
+    },
+    {
       "channel": "#market",
       "description": "Marketplace for selling MeshCore related items"
     },
@@ -71,8 +83,16 @@
       "description": "Mid-North Coast conversation and coordination."
     },
     {
+      "channel": "#mncbot",
+      "description": "Mncbot"
+    },
+    {
       "channel": "#mshbot",
       "description": "General mesh bot channel (MeshSydney)."
+    },
+    {
+      "channel": "#mtest",
+      "description": "Mtest"
     },
     {
       "channel": "#nepean",
@@ -115,6 +135,10 @@
       "description": "RoloJnr bot channel: help, ping, test, path, wx, time, signal, AI queries (au-nsw-syd)."
     },
     {
+      "channel": "#scorpion",
+      "description": "Scorpion"
+    },
+    {
       "channel": "#secret",
       "description": "Secret channel, contents undisclosed by wiki authors"
     },
@@ -127,8 +151,16 @@
       "description": "Sydney metro conversation and coordination (au-nsw-syd)."
     },
     {
+      "channel": "#sydwx",
+      "description": "Sydwx"
+    },
+    {
       "channel": "#test",
       "description": "Connection testing. Bots may auto-reply to test, ping, or path (au-nsw or IATA)."
+    },
+    {
+      "channel": "#tpformybunghole",
+      "description": "Tpformybunghole"
     },
     {
       "channel": "#weather",

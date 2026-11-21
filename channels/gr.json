@@ -1,5 +1,10 @@
 {
   "code": "gr",
   "name": "Greece",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#hub",
+      "description": "Hub"
+    }
+  ]
 }

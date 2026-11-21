@@ -1,5 +1,18 @@
 {
   "code": "mg",
   "name": "Madagascar",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#krabbegat",
+      "description": "Krabbegat"
+    },
+    {
+      "channel": "#ncbr",
+      "description": "Ncbr"
+    },
+    {
+      "channel": "#repboz",
+      "description": "Repboz"
+    }
+  ]
 }

@@ -3,8 +3,16 @@
   "name": "Lithuania",
   "channels": [
     {
+      "channel": "#baltics",
+      "description": "Baltics"
+    },
+    {
       "channel": "#bot",
       "description": "Separater Kanal für Bots, Scope lt"
+    },
+    {
+      "channel": "#dg",
+      "description": "Dg"
     },
     {
       "channel": "#emergency",
@@ -25,6 +33,14 @@
     {
       "channel": "#lietuva",
       "description": "National Lithuanian channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#nvln",
+      "description": "Nvln"
+    },
+    {
+      "channel": "#pauls",
+      "description": "Pauls"
     },
     {
       "channel": "#pietu-lietuva",

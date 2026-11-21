@@ -3,6 +3,42 @@
   "name": "Germany",
   "channels": [
     {
+      "channel": "#22889",
+      "description": "22889"
+    },
+    {
+      "channel": "#4321",
+      "description": "4321"
+    },
+    {
+      "channel": "#650",
+      "description": "650"
+    },
+    {
+      "channel": "#78",
+      "description": "78"
+    },
+    {
+      "channel": "#88400biberach",
+      "description": "88400biberach"
+    },
+    {
+      "channel": "#88471laupheim",
+      "description": "88471laupheim"
+    },
+    {
+      "channel": "#aachen",
+      "description": "Aachen"
+    },
+    {
+      "channel": "#afgn",
+      "description": "Afgn"
+    },
+    {
+      "channel": "#afu-cb",
+      "description": "Afu Cb"
+    },
+    {
       "channel": "#allgaeu",
       "description": "Allgaeu region"
     },
@@ -11,12 +47,28 @@
       "description": "Altes Land"
     },
     {
+      "channel": "#amateurfunkoberschwaben",
+      "description": "Amateurfunkoberschwaben"
+    },
+    {
       "channel": "#ankuendigungen",
       "description": "Announcements"
     },
     {
+      "channel": "#arle",
+      "description": "Arle"
+    },
+    {
+      "channel": "#augsburg",
+      "description": "Augsburg"
+    },
+    {
       "channel": "#aurora",
       "description": "Northern lights sightings"
+    },
+    {
+      "channel": "#backnang",
+      "description": "Backnang"
     },
     {
       "channel": "#bastelbude",
@@ -25,6 +77,10 @@
     {
       "channel": "#bbxdwd",
       "description": "Warnungen vom Deutschen Wetterdienst (Region Berlin)"
+    },
+    {
+      "channel": "#bensheim",
+      "description": "Bensheim"
     },
     {
       "channel": "#bergischesland",
@@ -37,6 +93,10 @@
     {
       "channel": "#berlin",
       "description": "Berlin"
+    },
+    {
+      "channel": "#berlin-sw",
+      "description": "Berlin Sw"
     },
     {
       "channel": "#berlinbrandenburg",
@@ -55,12 +115,24 @@
       "description": "Beekeeping/honey production"
     },
     {
+      "channel": "#bing",
+      "description": "Bing"
+    },
+    {
       "channel": "#bitcoin",
       "description": "Bitcoin discussion and information"
     },
     {
+      "channel": "#bnf-rnk-ma-hd",
+      "description": "Bnf Rnk Ma Hd"
+    },
+    {
       "channel": "#bochum",
       "description": "Bochum/Herne area"
+    },
+    {
+      "channel": "#bodo",
+      "description": "Bodo"
     },
     {
       "channel": "#boeblingen",
@@ -87,8 +159,16 @@
       "description": "Braunschweig/Wolfsburg region"
     },
     {
+      "channel": "#buehl",
+      "description": "Buehl"
+    },
+    {
       "channel": "#buerstadt",
       "description": "Bürstadt, Hessen – Lokaler MeshCore-Kanal"
+    },
+    {
+      "channel": "#burgdorf",
+      "description": "Burgdorf"
     },
     {
       "channel": "#bw",
@@ -97,6 +177,22 @@
     {
       "channel": "#bw-kn",
       "description": "Konstanz district (experimental)"
+    },
+    {
+      "channel": "#bz12",
+      "description": "Bz12"
+    },
+    {
+      "channel": "#cb-funk",
+      "description": "Cb Funk"
+    },
+    {
+      "channel": "#cc",
+      "description": "Cc"
+    },
+    {
+      "channel": "#celle",
+      "description": "Celle"
     },
     {
       "channel": "#chtest",
@@ -111,8 +207,20 @@
       "description": "Cycling activism coordination"
     },
     {
+      "channel": "#cve",
+      "description": "Cve"
+    },
+    {
+      "channel": "#dachau",
+      "description": "Dachau"
+    },
+    {
       "channel": "#darmstadt",
       "description": "Darmstadt and southern Hesse"
+    },
+    {
+      "channel": "#db0lnr",
+      "description": "Db0lnr"
     },
     {
       "channel": "#dd-companion",
@@ -203,6 +311,22 @@
       "description": "Uckermark district"
     },
     {
+      "channel": "#de-bw-sbh",
+      "description": "De Bw Sbh"
+    },
+    {
+      "channel": "#de-dk",
+      "description": "De Dk"
+    },
+    {
+      "channel": "#de-he",
+      "description": "De He"
+    },
+    {
+      "channel": "#de-hh-bergedorf",
+      "description": "De Hh Bergedorf"
+    },
+    {
       "channel": "#de-mitte",
       "description": "Region um Jena, wird dort nicht mehr weiter repeatet"
     },
@@ -217,6 +341,10 @@
     {
       "channel": "#de-sn-dd",
       "description": "Region/scope experiments"
+    },
+    {
+      "channel": "#de-sn-leipzig",
+      "description": "De Sn Leipzig"
     },
     {
       "channel": "#de-sn-mei",
@@ -237,6 +365,14 @@
     {
       "channel": "#de-th-shk",
       "description": "Region Saale-Holzland-Kreis, auf Repeatern im Raum Jena konfiguriert"
+    },
+    {
+      "channel": "#deister",
+      "description": "Deister"
+    },
+    {
+      "channel": "#denog",
+      "description": "Denog"
     },
     {
       "channel": "#detmold",
@@ -283,12 +419,28 @@
       "description": "Karlsruhe district"
     },
     {
+      "channel": "#eic",
+      "description": "Eic"
+    },
+    {
       "channel": "#eifel",
       "description": "Eifel region"
     },
     {
+      "channel": "#einrich",
+      "description": "Einrich"
+    },
+    {
       "channel": "#eisenach",
       "description": "Eisenach"
+    },
+    {
+      "channel": "#el",
+      "description": "El"
+    },
+    {
+      "channel": "#elevenchars",
+      "description": "Elevenchars"
     },
     {
       "channel": "#emergency",
@@ -307,12 +459,32 @@
       "description": "Ergoldsbach, Landshut district"
     },
     {
+      "channel": "#erlangen",
+      "description": "Erlangen"
+    },
+    {
+      "channel": "#erz",
+      "description": "Erz"
+    },
+    {
       "channel": "#essen",
       "description": "Essen (Ruhr)"
     },
     {
       "channel": "#ettlingen",
       "description": "City in Karlsruhe district"
+    },
+    {
+      "channel": "#f19",
+      "description": "F19"
+    },
+    {
+      "channel": "#fachsimpelei",
+      "description": "Fachsimpelei"
+    },
+    {
+      "channel": "#falkensee",
+      "description": "Falkensee"
     },
     {
       "channel": "#feuerwehr",
@@ -329,6 +501,18 @@
     {
       "channel": "#fichtelgebirge",
       "description": "Sparse mesh coverage"
+    },
+    {
+      "channel": "#flohmarkt-hannover",
+      "description": "Flohmarkt Hannover"
+    },
+    {
+      "channel": "#forchheim",
+      "description": "Forchheim"
+    },
+    {
+      "channel": "#fragdenbot",
+      "description": "Fragdenbot"
     },
     {
       "channel": "#franken",
@@ -355,12 +539,20 @@
       "description": "Fuerth"
     },
     {
+      "channel": "#gangbang",
+      "description": "Gangbang"
+    },
+    {
       "channel": "#gera",
       "description": "Gera"
     },
     {
       "channel": "#germany",
       "description": "germany"
+    },
+    {
+      "channel": "#giessen",
+      "description": "Giessen"
     },
     {
       "channel": "#gotha",
@@ -387,8 +579,20 @@
       "description": "Hamburg Hansemesh MeshCore group discussion"
     },
     {
+      "channel": "#hansl",
+      "description": "Hansl"
+    },
+    {
+      "channel": "#harzundumland",
+      "description": "Harzundumland"
+    },
+    {
       "channel": "#hbn",
       "description": "Hildburghausen district"
+    },
+    {
+      "channel": "#hda",
+      "description": "Hda"
     },
     {
       "channel": "#heidemesh",
@@ -399,8 +603,32 @@
       "description": "Helmstedt district"
     },
     {
+      "channel": "#herku",
+      "description": "Herku"
+    },
+    {
+      "channel": "#herne",
+      "description": "Herne"
+    },
+    {
+      "channel": "#hessen-mesh",
+      "description": "Hessen Mesh"
+    },
+    {
+      "channel": "#hessen-test",
+      "description": "Hessen Test"
+    },
+    {
       "channel": "#hildesheim",
       "description": "Hildesheim, öffentlich"
+    },
+    {
+      "channel": "#ideenwerft",
+      "description": "Ideenwerft"
+    },
+    {
+      "channel": "#igel",
+      "description": "Igel"
     },
     {
       "channel": "#infra-alert-karlsruhe",
@@ -411,8 +639,16 @@
       "description": "Ingolstadt"
     },
     {
+      "channel": "#itkm",
+      "description": "Itkm"
+    },
+    {
       "channel": "#jena",
       "description": "Jena"
+    },
+    {
+      "channel": "#jo51rv",
+      "description": "Jo51rv"
     },
     {
       "channel": "#jockgrim",
@@ -439,6 +675,14 @@
       "description": "Region Kiel"
     },
     {
+      "channel": "#klaus",
+      "description": "Klaus"
+    },
+    {
+      "channel": "#kleve",
+      "description": "Kleve"
+    },
+    {
       "channel": "#koblenz",
       "description": "Koblenz"
     },
@@ -455,12 +699,24 @@
       "description": "Kreuzfahrt-Anläufe in Deutschland"
     },
     {
+      "channel": "#landau",
+      "description": "Landau"
+    },
+    {
       "channel": "#landkreis-harburg",
       "description": "Harburg district"
     },
     {
       "channel": "#landshut",
       "description": "Landshut city and district"
+    },
+    {
+      "channel": "#laupheim",
+      "description": "Laupheim"
+    },
+    {
+      "channel": "#lausitzerseenland",
+      "description": "Lausitzerseenland"
     },
     {
       "channel": "#leipzig",
@@ -471,8 +727,16 @@
       "description": "Leipzig"
     },
     {
+      "channel": "#lemgo",
+      "description": "Lemgo"
+    },
+    {
       "channel": "#leverkusen",
       "description": "leverkusen"
+    },
+    {
+      "channel": "#lippb",
+      "description": "Lippb"
     },
     {
       "channel": "#lippstadt",
@@ -487,8 +751,32 @@
       "description": "Görlitz city and district"
     },
     {
+      "channel": "#lkgr-info",
+      "description": "Lkgr Info"
+    },
+    {
+      "channel": "#lksoe",
+      "description": "Lksoe"
+    },
+    {
       "channel": "#lohmar",
       "description": "lohmar"
+    },
+    {
+      "channel": "#lsl-bot",
+      "description": "Lsl Bot"
+    },
+    {
+      "channel": "#lu-alert",
+      "description": "Lu Alert"
+    },
+    {
+      "channel": "#luban",
+      "description": "Luban"
+    },
+    {
+      "channel": "#lulu",
+      "description": "Lulu"
     },
     {
       "channel": "#magdeburg",
@@ -507,12 +795,28 @@
       "description": "Kanal für lokale Koordination/Treffen (Berlin)"
     },
     {
+      "channel": "#mctechtalk",
+      "description": "Mctechtalk"
+    },
+    {
+      "channel": "#me-test",
+      "description": "Me Test"
+    },
+    {
       "channel": "#meow",
       "description": "meow"
     },
     {
+      "channel": "#mesh-briefing",
+      "description": "Mesh Briefing"
+    },
+    {
       "channel": "#meshcore",
       "description": "Information about MeshCore"
+    },
+    {
+      "channel": "#meshcore-pohlheim",
+      "description": "Meshcore Pohlheim"
     },
     {
       "channel": "#meshcorenetz",
@@ -527,12 +831,32 @@
       "description": "Muehlhausen"
     },
     {
+      "channel": "#mittelfranken",
+      "description": "Mittelfranken"
+    },
+    {
       "channel": "#mkk",
       "description": "Main-Kinzig-Kreis"
     },
     {
       "channel": "#mosel",
       "description": "Moselle valley (Trier area)"
+    },
+    {
+      "channel": "#motorrad",
+      "description": "Motorrad"
+    },
+    {
+      "channel": "#mox",
+      "description": "Mox"
+    },
+    {
+      "channel": "#msemesh",
+      "description": "Msemesh"
+    },
+    {
+      "channel": "#mt1",
+      "description": "Mt1"
     },
     {
       "channel": "#muelheim",
@@ -547,6 +871,14 @@
       "description": "muenster"
     },
     {
+      "channel": "#munich",
+      "description": "Munich"
+    },
+    {
+      "channel": "#nahe",
+      "description": "Nahe"
+    },
+    {
       "channel": "#nerd-flohmarkt",
       "description": "Kanal für Kleinanzeigen/Flohmarkt unter Bastlern"
     },
@@ -555,8 +887,16 @@
       "description": "Nachrichten von butenunbinnen.de"
     },
     {
+      "channel": "#nfn-wx",
+      "description": "Nfn Wx"
+    },
+    {
       "channel": "#ni",
       "description": "Niedersachsen"
+    },
+    {
+      "channel": "#nib",
+      "description": "Nib"
     },
     {
       "channel": "#niedersachsen",
@@ -575,6 +915,10 @@
       "description": "Nuremberg"
     },
     {
+      "channel": "#oal",
+      "description": "Oal"
+    },
+    {
       "channel": "#oberbayern",
       "description": "Upper Bavaria"
     },
@@ -587,8 +931,20 @@
       "description": "Upper Hesse region"
     },
     {
+      "channel": "#oberschwaben",
+      "description": "Oberschwaben"
+    },
+    {
+      "channel": "#odenwald",
+      "description": "Odenwald"
+    },
+    {
       "channel": "#ostfriesland",
       "description": "alles was zu Ostfriesland gehört"
+    },
+    {
+      "channel": "#packetradio",
+      "description": "Packetradio"
     },
     {
       "channel": "#pamina",
@@ -607,6 +963,10 @@
       "description": "Ping/pong tests with bot responses"
     },
     {
+      "channel": "#ploen",
+      "description": "Ploen"
+    },
+    {
       "channel": "#pota",
       "description": "Parks on the Air amateur radio"
     },
@@ -615,12 +975,24 @@
       "description": "Potsdam"
     },
     {
+      "channel": "#radebeul",
+      "description": "Radebeul"
+    },
+    {
+      "channel": "#rastatt",
+      "description": "Rastatt"
+    },
+    {
       "channel": "#region-muc",
       "description": "European Metropolitan Region Munich"
     },
     {
       "channel": "#rennsteigmesh",
       "description": "Global Rennsteig trail channel"
+    },
+    {
+      "channel": "#repeater-admin-ka",
+      "description": "Repeater Admin Ka"
     },
     {
       "channel": "#reutlingen",
@@ -633,6 +1005,10 @@
     {
       "channel": "#rhein-neckar",
       "description": "Rhein-Neckar metropolitan region"
+    },
+    {
+      "channel": "#rheinbach",
+      "description": "Rheinbach"
     },
     {
       "channel": "#rheinland",
@@ -675,8 +1051,28 @@
       "description": "Seevetal municipality"
     },
     {
+      "channel": "#sf6",
+      "description": "Sf6"
+    },
+    {
+      "channel": "#sf7",
+      "description": "Sf7"
+    },
+    {
+      "channel": "#sf7test",
+      "description": "Sf7test"
+    },
+    {
       "channel": "#sh",
       "description": "Schleswig-Holstein"
+    },
+    {
+      "channel": "#shg",
+      "description": "Shg"
+    },
+    {
+      "channel": "#slf-ru",
+      "description": "Slf Ru"
     },
     {
       "channel": "#sn",
@@ -687,12 +1083,20 @@
       "description": "Soest district"
     },
     {
+      "channel": "#solingen",
+      "description": "Solingen"
+    },
+    {
       "channel": "#sos",
       "description": "Recommended emergency channel"
     },
     {
       "channel": "#sota",
       "description": "Summits on the Air amateur radio"
+    },
+    {
+      "channel": "#spiele",
+      "description": "Spiele"
     },
     {
       "channel": "#sports",
@@ -719,6 +1123,10 @@
       "description": "French-speaking Switzerland"
     },
     {
+      "channel": "#sven",
+      "description": "Sven"
+    },
+    {
       "channel": "#svizzera",
       "description": "Italian-speaking Switzerland"
     },
@@ -727,8 +1135,16 @@
       "description": "An open channel where everybody is welcome to chat"
     },
     {
+      "channel": "#swr1-hitparade",
+      "description": "Swr1 Hitparade"
+    },
+    {
       "channel": "#taubertal",
       "description": "Tauber Valley region"
+    },
+    {
+      "channel": "#taubertal-wx",
+      "description": "Taubertal Wx"
     },
     {
       "channel": "#taunus",
@@ -739,8 +1155,24 @@
       "description": "Taunus-Mesh, öffentlich"
     },
     {
+      "channel": "#technik",
+      "description": "Technik"
+    },
+    {
+      "channel": "#technikecke",
+      "description": "Technikecke"
+    },
+    {
+      "channel": "#tempelhof",
+      "description": "Tempelhof"
+    },
+    {
       "channel": "#test",
       "description": "Hardware testing; supports local/lokal scope"
+    },
+    {
+      "channel": "#test123",
+      "description": "Test123"
     },
     {
       "channel": "#testing",
@@ -755,6 +1187,10 @@
       "description": "Thuringia"
     },
     {
+      "channel": "#th-bot",
+      "description": "Th Bot"
+    },
+    {
       "channel": "#themar",
       "description": "Themar"
     },
@@ -767,8 +1203,16 @@
       "description": "trier"
     },
     {
+      "channel": "#u12",
+      "description": "U12"
+    },
+    {
       "channel": "#ulm",
       "description": "Ulm and Neu-Ulm region"
+    },
+    {
+      "channel": "#unterfranken",
+      "description": "Unterfranken"
     },
     {
       "channel": "#untermain",
@@ -799,6 +1243,10 @@
       "description": "Official authority warnings"
     },
     {
+      "channel": "#warpe",
+      "description": "Warpe"
+    },
+    {
       "channel": "#weimar",
       "description": "Weimar"
     },
@@ -819,8 +1267,20 @@
       "description": "Wetterau district"
     },
     {
+      "channel": "#weyhe",
+      "description": "Weyhe"
+    },
+    {
+      "channel": "#wftst",
+      "description": "Wftst"
+    },
+    {
       "channel": "#woerth-am-rhein",
       "description": "Woerth am Rhein"
+    },
+    {
+      "channel": "#wolfenbuettel",
+      "description": "Wolfenbuettel"
     },
     {
       "channel": "#wolfsburg",
@@ -831,8 +1291,32 @@
       "description": "Worms and Rhenish Hesse"
     },
     {
+      "channel": "#wsa",
+      "description": "Wsa"
+    },
+    {
+      "channel": "#wunstorf",
+      "description": "Wunstorf"
+    },
+    {
+      "channel": "#xhain",
+      "description": "Xhain"
+    },
+    {
+      "channel": "#z46",
+      "description": "Z46"
+    },
+    {
       "channel": "#zak",
       "description": "Zollernalbkreis district"
+    },
+    {
+      "channel": "#zeit",
+      "description": "Zeit"
+    },
+    {
+      "channel": "#zentonic",
+      "description": "Zentonic"
     },
     {
       "channel": "#zuerich",

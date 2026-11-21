@@ -15,6 +15,14 @@
       "description": "National Finnish channel, live on EU MeshCore analyzer"
     },
     {
+      "channel": "#lohja",
+      "description": "Lohja"
+    },
+    {
+      "channel": "#oulu",
+      "description": "Oulu"
+    },
+    {
       "channel": "#ping",
       "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
     },

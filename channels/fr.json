@@ -3,12 +3,44 @@
   "name": "France",
   "channels": [
     {
+      "channel": "#26-07",
+      "description": "26 07"
+    },
+    {
       "channel": "#adrasec",
       "description": "Channel for French civil-defense radio auxiliary ADRASEC"
     },
     {
+      "channel": "#agora",
+      "description": "Agora"
+    },
+    {
+      "channel": "#agoratech",
+      "description": "Agoratech"
+    },
+    {
+      "channel": "#air82",
+      "description": "Air82"
+    },
+    {
       "channel": "#alsace",
       "description": "Alsace region"
+    },
+    {
+      "channel": "#angers",
+      "description": "Angers"
+    },
+    {
+      "channel": "#asso",
+      "description": "Asso"
+    },
+    {
+      "channel": "#beux",
+      "description": "Beux"
+    },
+    {
+      "channel": "#bismillah",
+      "description": "Bismillah"
     },
     {
       "channel": "#bordeaux",
@@ -19,28 +51,100 @@
       "description": "Brittany (Bretagne) regional channel, live on EU MeshCore analyzer"
     },
     {
+      "channel": "#canal7",
+      "description": "Canal7"
+    },
+    {
+      "channel": "#canaux",
+      "description": "Canaux"
+    },
+    {
+      "channel": "#defense",
+      "description": "Defense"
+    },
+    {
       "channel": "#emergency",
       "description": "Message d'urgence UNIQUEMENT, region fr-pac"
+    },
+    {
+      "channel": "#f6feh",
+      "description": "F6feh"
     },
     {
       "channel": "#fr",
       "description": "France (nationwide)"
     },
     {
+      "channel": "#fr-04",
+      "description": "Fr 04"
+    },
+    {
+      "channel": "#fr-05",
+      "description": "Fr 05"
+    },
+    {
+      "channel": "#fr-09",
+      "description": "Fr 09"
+    },
+    {
+      "channel": "#fr-27",
+      "description": "Fr 27"
+    },
+    {
+      "channel": "#fr-32",
+      "description": "Fr 32"
+    },
+    {
+      "channel": "#fr-41",
+      "description": "Fr 41"
+    },
+    {
+      "channel": "#fr-48",
+      "description": "Fr 48"
+    },
+    {
+      "channel": "#fr-83",
+      "description": "Fr 83"
+    },
+    {
+      "channel": "#fr-95",
+      "description": "Fr 95"
+    },
+    {
+      "channel": "#fr-nor",
+      "description": "Fr Nor"
+    },
+    {
       "channel": "#france",
       "description": "National French channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#gdacs",
+      "description": "Gdacs"
     },
     {
       "channel": "#gironde",
       "description": "Gironde department channel, example used in the French naming guide"
     },
     {
+      "channel": "#grenoble",
+      "description": "Grenoble"
+    },
+    {
       "channel": "#info",
       "description": "Message d'information, region fr-pac"
     },
     {
+      "channel": "#jeux",
+      "description": "Jeux"
+    },
+    {
       "channel": "#la-rochelle",
       "description": "La Rochelle channel, used as example bound to region fr-17 in the French naming guide"
+    },
+    {
+      "channel": "#lens",
+      "description": "Lens"
     },
     {
       "channel": "#loire-atlantique",
@@ -51,12 +155,32 @@
       "description": "Lyon channel; also given as the canonical commune-channel example in the French naming guide"
     },
     {
+      "channel": "#manif",
+      "description": "Manif"
+    },
+    {
       "channel": "#marseille",
       "description": "Marseille channel, referenced as a real-world example (scoped to fr-13) in the French naming guide"
     },
     {
       "channel": "#meteo",
       "description": "Message meteo, region fr-pac"
+    },
+    {
+      "channel": "#meteo-brest",
+      "description": "Meteo Brest"
+    },
+    {
+      "channel": "#meteo09",
+      "description": "Meteo09"
+    },
+    {
+      "channel": "#meteo31",
+      "description": "Meteo31"
+    },
+    {
+      "channel": "#meteo82",
+      "description": "Meteo82"
     },
     {
       "channel": "#metz",
@@ -71,16 +195,44 @@
       "description": "Nouvelle-Aquitaine regional channel, live on EU MeshCore analyzer"
     },
     {
+      "channel": "#occ",
+      "description": "Occ"
+    },
+    {
+      "channel": "#octogone",
+      "description": "Octogone"
+    },
+    {
       "channel": "#paca",
       "description": "Region PACA, region associee fr-pac"
+    },
+    {
+      "channel": "#panamesh",
+      "description": "Panamesh"
     },
     {
       "channel": "#paris",
       "description": "Paris channel, live on EU MeshCore analyzer"
     },
     {
+      "channel": "#paris-normandie",
+      "description": "Paris Normandie"
+    },
+    {
+      "channel": "#quizz",
+      "description": "Quizz"
+    },
+    {
+      "channel": "#radioamateur",
+      "description": "Radioamateur"
+    },
+    {
       "channel": "#rcsc",
       "description": "Channel referenced alongside #adrasec as a legitimate use-case channel"
+    },
+    {
+      "channel": "#rennes",
+      "description": "Rennes"
     },
     {
       "channel": "#rhone",
@@ -93,6 +245,14 @@
     {
       "channel": "#saint-germain-en-laye",
       "description": "Commune Saint-Germain-en-Laye, canal hashtag local"
+    },
+    {
+      "channel": "#sherpa",
+      "description": "Sherpa"
+    },
+    {
+      "channel": "#techno",
+      "description": "Techno"
     },
     {
       "channel": "#test",
@@ -109,6 +269,18 @@
     {
       "channel": "#var",
       "description": "Departement du Var, region associee fr-83"
+    },
+    {
+      "channel": "#vsg",
+      "description": "Vsg"
+    },
+    {
+      "channel": "#wikipedia",
+      "description": "Wikipedia"
+    },
+    {
+      "channel": "#yfjs",
+      "description": "Yfjs"
     }
   ]
 }

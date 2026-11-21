@@ -15,6 +15,10 @@
       "description": "Estonian crisis/emergency information channel (\"kriis\" = crisis), live on EU MeshCore analyzer"
     },
     {
+      "channel": "#ru",
+      "description": "Ru"
+    },
+    {
       "channel": "#tartu",
       "description": "Tartu city channel, live on EU MeshCore analyzer"
     }

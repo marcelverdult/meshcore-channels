@@ -3,12 +3,40 @@
   "name": "Poland",
   "channels": [
     {
+      "channel": "#555",
+      "description": "555"
+    },
+    {
+      "channel": "#abt",
+      "description": "Abt"
+    },
+    {
+      "channel": "#adr",
+      "description": "Adr"
+    },
+    {
+      "channel": "#aicore",
+      "description": "Aicore"
+    },
+    {
+      "channel": "#alertmpk",
+      "description": "Alertmpk"
+    },
+    {
       "channel": "#bot",
       "description": "Connectivity test channel handled by bots"
     },
     {
+      "channel": "#bot-mazowsze",
+      "description": "Bot Mazowsze"
+    },
+    {
       "channel": "#bydgoszcz",
       "description": "Bydgoszcz regional channel"
+    },
+    {
+      "channel": "#darlowo",
+      "description": "Darlowo"
     },
     {
       "channel": "#dolnoslaskie",
@@ -19,8 +47,72 @@
       "description": "Dolnoslaskie region connectivity test channel"
     },
     {
+      "channel": "#elblag",
+      "description": "Elblag"
+    },
+    {
+      "channel": "#gdansk",
+      "description": "Gdansk"
+    },
+    {
+      "channel": "#gielda",
+      "description": "Gielda"
+    },
+    {
+      "channel": "#gliwice",
+      "description": "Gliwice"
+    },
+    {
+      "channel": "#gorzow",
+      "description": "Gorzow"
+    },
+    {
       "channel": "#hamradio",
       "description": "Amateur radio discussion channel"
+    },
+    {
+      "channel": "#imgw",
+      "description": "Imgw"
+    },
+    {
+      "channel": "#jarocin",
+      "description": "Jarocin"
+    },
+    {
+      "channel": "#jcp",
+      "description": "Jcp"
+    },
+    {
+      "channel": "#kasia",
+      "description": "Kasia"
+    },
+    {
+      "channel": "#kg",
+      "description": "Kg"
+    },
+    {
+      "channel": "#kielce",
+      "description": "Kielce"
+    },
+    {
+      "channel": "#kobylka",
+      "description": "Kobylka"
+    },
+    {
+      "channel": "#kocie",
+      "description": "Kocie"
+    },
+    {
+      "channel": "#konstrukcje",
+      "description": "Konstrukcje"
+    },
+    {
+      "channel": "#krakow",
+      "description": "Krakow"
+    },
+    {
+      "channel": "#krasnik",
+      "description": "Krasnik"
     },
     {
       "channel": "#legnica",
@@ -31,20 +123,176 @@
       "description": "Lodzkie regional channel"
     },
     {
+      "channel": "#lubelskie",
+      "description": "Lubelskie"
+    },
+    {
+      "channel": "#lublin",
+      "description": "Lublin"
+    },
+    {
+      "channel": "#lzbox",
+      "description": "Lzbox"
+    },
+    {
+      "channel": "#mazowsze",
+      "description": "Mazowsze"
+    },
+    {
+      "channel": "#mielec",
+      "description": "Mielec"
+    },
+    {
+      "channel": "#misie",
+      "description": "Misie"
+    },
+    {
+      "channel": "#my",
+      "description": "My"
+    },
+    {
+      "channel": "#nauka",
+      "description": "Nauka"
+    },
+    {
+      "channel": "#opole",
+      "description": "Opole"
+    },
+    {
+      "channel": "#ostrowiec",
+      "description": "Ostrowiec"
+    },
+    {
+      "channel": "#pin",
+      "description": "Pin"
+    },
+    {
+      "channel": "#podkarpackie",
+      "description": "Podkarpackie"
+    },
+    {
+      "channel": "#pogoda",
+      "description": "Pogoda"
+    },
+    {
+      "channel": "#polityka",
+      "description": "Polityka"
+    },
+    {
       "channel": "#polska",
       "description": "Dedicated channel for Polish-language discussions, commonly used network-wide"
+    },
+    {
+      "channel": "#pomorskie",
+      "description": "Pomorskie"
+    },
+    {
+      "channel": "#prepersi",
+      "description": "Prepersi"
+    },
+    {
+      "channel": "#prepper-bielany",
+      "description": "Prepper Bielany"
+    },
+    {
+      "channel": "#radom",
+      "description": "Radom"
+    },
+    {
+      "channel": "#ravek",
+      "description": "Ravek"
+    },
+    {
+      "channel": "#red",
+      "description": "Red"
+    },
+    {
+      "channel": "#rypin",
+      "description": "Rypin"
+    },
+    {
+      "channel": "#rzeszow",
+      "description": "Rzeszow"
+    },
+    {
+      "channel": "#samolotykn",
+      "description": "Samolotykn"
+    },
+    {
+      "channel": "#sci",
+      "description": "Sci"
+    },
+    {
+      "channel": "#sps",
+      "description": "Sps"
+    },
+    {
+      "channel": "#sq6cys",
+      "description": "Sq6cys"
+    },
+    {
+      "channel": "#swd",
+      "description": "Swd"
+    },
+    {
+      "channel": "#swidnica",
+      "description": "Swidnica"
+    },
+    {
+      "channel": "#swietokrzyskie",
+      "description": "Swietokrzyskie"
+    },
+    {
+      "channel": "#tarnow",
+      "description": "Tarnow"
     },
     {
       "channel": "#tech",
       "description": "Technical discussion channel"
     },
     {
+      "channel": "#teobot",
+      "description": "Teobot"
+    },
+    {
       "channel": "#test",
       "description": "Connectivity test channel, expect acks from other people"
     },
     {
+      "channel": "#testy",
+      "description": "Testy"
+    },
+    {
+      "channel": "#trojmiasto",
+      "description": "Trojmiasto"
+    },
+    {
+      "channel": "#turek",
+      "description": "Turek"
+    },
+    {
+      "channel": "#walbrzych",
+      "description": "Walbrzych"
+    },
+    {
+      "channel": "#warszawa",
+      "description": "Warszawa"
+    },
+    {
+      "channel": "#wirek",
+      "description": "Wirek"
+    },
+    {
       "channel": "#wlkp",
       "description": "Wielkopolska regional channel"
+    },
+    {
+      "channel": "#wola",
+      "description": "Wola"
+    },
+    {
+      "channel": "#wolomin",
+      "description": "Wolomin"
     },
     {
       "channel": "#wroc-tech",
@@ -55,8 +303,20 @@
       "description": "Wroclaw regional channel"
     },
     {
+      "channel": "#yabu",
+      "description": "Yabu"
+    },
+    {
       "channel": "#zachod",
       "description": "Western Poland regional channel"
+    },
+    {
+      "channel": "#zrnf",
+      "description": "Zrnf"
+    },
+    {
+      "channel": "#zywiec",
+      "description": "Zywiec"
     }
   ]
 }

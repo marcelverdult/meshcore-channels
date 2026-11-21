@@ -1,5 +1,10 @@
 {
   "code": "pa",
   "name": "Panama",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#qso-it9jzr",
+      "description": "Qso It9jzr"
+    }
+  ]
 }
