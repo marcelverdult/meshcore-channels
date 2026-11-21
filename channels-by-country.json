@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:55:35Z",
+  "generated_at": "2026-11-21T15:24:44Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -11,9 +11,18 @@
     "am": [],
     "ao": [],
     "aq": [],
-    "ar": [],
+    "ar": [
+      {
+        "channel": "#meteoaradbot",
+        "description": "Meteoaradbot"
+      }
+    ],
     "as": [],
     "at": [
+      {
+        "channel": "#122",
+        "description": "122"
+      },
       {
         "channel": "#alerts",
         "description": "Kanal für Alarmierungen"
@@ -43,12 +52,24 @@
         "description": "Internationaler, englischsprachiger Kanal"
       },
       {
+        "channel": "#ftk",
+        "description": "Ftk"
+      },
+      {
+        "channel": "#gatewayverbund-noe",
+        "description": "Gatewayverbund Noe"
+      },
+      {
         "channel": "#inn-salzach",
         "description": "Kanal für die Grenzregion Innviertel/Salzburg"
       },
       {
         "channel": "#kf",
         "description": "MeshCore-Kanal Kärnten, live mitlesbar via meshfeed unter mesh.kaernten-funkt.at"
+      },
+      {
+        "channel": "#medo",
+        "description": "Medo"
       },
       {
         "channel": "#noe",
@@ -63,12 +84,32 @@
         "description": "Kanal für Tests, u.a. automatisierte Ping-Bots"
       },
       {
+        "channel": "#sfws",
+        "description": "Sfws"
+      },
+      {
+        "channel": "#smc-test",
+        "description": "Smc Test"
+      },
+      {
         "channel": "#test",
         "description": "Testkanal"
       },
       {
+        "channel": "#testis",
+        "description": "Testis"
+      },
+      {
+        "channel": "#time",
+        "description": "Time"
+      },
+      {
         "channel": "#vienna",
         "description": "Regionaler Kanal für Wien"
+      },
+      {
+        "channel": "#w",
+        "description": "W"
       },
       {
         "channel": "#wetter-simmering",
@@ -95,6 +136,10 @@
       {
         "channel": "#beefmesh",
         "description": "Beef Mesh node-status bot channel (au-nsw-syd)."
+      },
+      {
+        "channel": "#bendigo",
+        "description": "Bendigo"
       },
       {
         "channel": "#canberra",
@@ -125,6 +170,10 @@
         "description": "Albury & Wodonga conversation and coordination (au-hume)."
       },
       {
+        "channel": "#humebot",
+        "description": "Humebot"
+      },
+      {
         "channel": "#illawarra",
         "description": "Illawarra & Wollongong conversation and coordination (au-nsw-wol)."
       },
@@ -137,6 +186,10 @@
         "description": "Macarthur conversation and coordination (au-nsw-syd)."
       },
       {
+        "channel": "#manion",
+        "description": "Manion"
+      },
+      {
         "channel": "#market",
         "description": "Marketplace for selling MeshCore related items"
       },
@@ -145,8 +198,16 @@
         "description": "Mid-North Coast conversation and coordination."
       },
       {
+        "channel": "#mncbot",
+        "description": "Mncbot"
+      },
+      {
         "channel": "#mshbot",
         "description": "General mesh bot channel (MeshSydney)."
+      },
+      {
+        "channel": "#mtest",
+        "description": "Mtest"
       },
       {
         "channel": "#nepean",
@@ -189,6 +250,10 @@
         "description": "RoloJnr bot channel: help, ping, test, path, wx, time, signal, AI queries (au-nsw-syd)."
       },
       {
+        "channel": "#scorpion",
+        "description": "Scorpion"
+      },
+      {
         "channel": "#secret",
         "description": "Secret channel, contents undisclosed by wiki authors"
       },
@@ -201,8 +266,16 @@
         "description": "Sydney metro conversation and coordination (au-nsw-syd)."
       },
       {
+        "channel": "#sydwx",
+        "description": "Sydwx"
+      },
+      {
         "channel": "#test",
         "description": "Connection testing. Bots may auto-reply to test, ping, or path (au-nsw or IATA)."
+      },
+      {
+        "channel": "#tpformybunghole",
+        "description": "Tpformybunghole"
       },
       {
         "channel": "#weather",
@@ -231,6 +304,14 @@
       {
         "channel": "#b-stby",
         "description": "Test channel of noodcommunicatie.be (Belgian emergency comms group)"
+      },
+      {
+        "channel": "#befr",
+        "description": "Befr"
+      },
+      {
+        "channel": "#belgique",
+        "description": "Belgique"
       },
       {
         "channel": "#belgium-mesh",
@@ -301,6 +382,10 @@
         "description": "For all RRY members of the Belgian MeshCore network (radio-actief.be)"
       },
       {
+        "channel": "#radionoodnet",
+        "description": "Radionoodnet"
+      },
+      {
         "channel": "#test",
         "description": "Testkanaal, veroorzaakt veel onnodig verkeer (vooral NL testbots)"
       },
@@ -315,6 +400,14 @@
     ],
     "bf": [],
     "bg": [
+      {
+        "channel": "#bdars",
+        "description": "Bdars"
+      },
+      {
+        "channel": "#blagoevgrad",
+        "description": "Blagoevgrad"
+      },
       {
         "channel": "#bot",
         "description": "Avtomatizirani otgovori (komandi)"
@@ -336,12 +429,24 @@
         "description": "Samo za izvanredni situatsii"
       },
       {
+        "channel": "#goldcoast",
+        "description": "Goldcoast"
+      },
+      {
         "channel": "#hacktheplanet",
         "description": "Inzhenerni diskusii"
       },
       {
         "channel": "#hamradio",
         "description": "Radio lyubitelski diskusii"
+      },
+      {
+        "channel": "#harta",
+        "description": "Harta"
+      },
+      {
+        "channel": "#la-o-vorba",
+        "description": "La O Vorba"
       },
       {
         "channel": "#lzham",
@@ -728,6 +833,10 @@
     "cg": [],
     "ch": [
       {
+        "channel": "#apero-raclette",
+        "description": "Apero Raclette"
+      },
+      {
         "channel": "#aurora-alert",
         "description": "Aurora notifications and location sharing"
       },
@@ -742,6 +851,10 @@
       {
         "channel": "#blackout",
         "description": "Blackout information and notification in case of power outages"
+      },
+      {
+        "channel": "#ch-gr-imboden",
+        "description": "Ch Gr Imboden"
       },
       {
         "channel": "#chtest",
@@ -760,8 +873,24 @@
         "description": "MeshCore related hardware and software discussion as well as troubleshooting"
       },
       {
+        "channel": "#mome",
+        "description": "Mome"
+      },
+      {
+        "channel": "#neuchatel",
+        "description": "Neuchatel"
+      },
+      {
         "channel": "#qrv",
         "description": "Channel for licensed amateur radio operators to coordinate and log contacts (QSOs)"
+      },
+      {
+        "channel": "#schweiz",
+        "description": "Schweiz"
+      },
+      {
+        "channel": "#schweiz-deutsch",
+        "description": "Schweiz Deutsch"
       },
       {
         "channel": "#seeland",
@@ -782,6 +911,10 @@
       {
         "channel": "#wallis",
         "description": "Wallis canton region"
+      },
+      {
+        "channel": "#wiesental",
+        "description": "Wiesental"
       },
       {
         "channel": "#zuerich",
@@ -853,6 +986,10 @@
         "description": "Testing channel for EU Narrow preset"
       },
       {
+        "channel": "#done",
+        "description": "Done"
+      },
+      {
         "channel": "#eldorado",
         "description": "Nachod area"
       },
@@ -889,6 +1026,10 @@
         "description": "Humor channel"
       },
       {
+        "channel": "#linuxdays",
+        "description": "Linuxdays"
+      },
+      {
         "channel": "#lysa",
         "description": "Lysa nad Labem residents"
       },
@@ -913,6 +1054,10 @@
         "description": "Olomouc region"
       },
       {
+        "channel": "#openalt",
+        "description": "Openalt"
+      },
+      {
         "channel": "#ostrava",
         "description": "Ostrava and surrounding area"
       },
@@ -923,6 +1068,10 @@
       {
         "channel": "#praha",
         "description": "Prague and surrounding area"
+      },
+      {
+        "channel": "#regiony",
+        "description": "Regiony"
       },
       {
         "channel": "#reticulum",
@@ -949,6 +1098,14 @@
         "description": "AI/bot testing with commands like 'ping'"
       },
       {
+        "channel": "#test-cs",
+        "description": "Test Cs"
+      },
+      {
+        "channel": "#vut",
+        "description": "Vut"
+      },
+      {
         "channel": "#zdravice",
         "description": "Greetings channel"
       },
@@ -963,6 +1120,42 @@
     ],
     "de": [
       {
+        "channel": "#22889",
+        "description": "22889"
+      },
+      {
+        "channel": "#4321",
+        "description": "4321"
+      },
+      {
+        "channel": "#650",
+        "description": "650"
+      },
+      {
+        "channel": "#78",
+        "description": "78"
+      },
+      {
+        "channel": "#88400biberach",
+        "description": "88400biberach"
+      },
+      {
+        "channel": "#88471laupheim",
+        "description": "88471laupheim"
+      },
+      {
+        "channel": "#aachen",
+        "description": "Aachen"
+      },
+      {
+        "channel": "#afgn",
+        "description": "Afgn"
+      },
+      {
+        "channel": "#afu-cb",
+        "description": "Afu Cb"
+      },
+      {
         "channel": "#allgaeu",
         "description": "Allgaeu region"
       },
@@ -971,12 +1164,28 @@
         "description": "Altes Land"
       },
       {
+        "channel": "#amateurfunkoberschwaben",
+        "description": "Amateurfunkoberschwaben"
+      },
+      {
         "channel": "#ankuendigungen",
         "description": "Announcements"
       },
       {
+        "channel": "#arle",
+        "description": "Arle"
+      },
+      {
+        "channel": "#augsburg",
+        "description": "Augsburg"
+      },
+      {
         "channel": "#aurora",
         "description": "Northern lights sightings"
+      },
+      {
+        "channel": "#backnang",
+        "description": "Backnang"
       },
       {
         "channel": "#bastelbude",
@@ -985,6 +1194,10 @@
       {
         "channel": "#bbxdwd",
         "description": "Warnungen vom Deutschen Wetterdienst (Region Berlin)"
+      },
+      {
+        "channel": "#bensheim",
+        "description": "Bensheim"
       },
       {
         "channel": "#bergischesland",
@@ -997,6 +1210,10 @@
       {
         "channel": "#berlin",
         "description": "Berlin"
+      },
+      {
+        "channel": "#berlin-sw",
+        "description": "Berlin Sw"
       },
       {
         "channel": "#berlinbrandenburg",
@@ -1015,12 +1232,24 @@
         "description": "Beekeeping/honey production"
       },
       {
+        "channel": "#bing",
+        "description": "Bing"
+      },
+      {
         "channel": "#bitcoin",
         "description": "Bitcoin discussion and information"
       },
       {
+        "channel": "#bnf-rnk-ma-hd",
+        "description": "Bnf Rnk Ma Hd"
+      },
+      {
         "channel": "#bochum",
         "description": "Bochum/Herne area"
+      },
+      {
+        "channel": "#bodo",
+        "description": "Bodo"
       },
       {
         "channel": "#boeblingen",
@@ -1047,8 +1276,16 @@
         "description": "Braunschweig/Wolfsburg region"
       },
       {
+        "channel": "#buehl",
+        "description": "Buehl"
+      },
+      {
         "channel": "#buerstadt",
         "description": "Bürstadt, Hessen – Lokaler MeshCore-Kanal"
+      },
+      {
+        "channel": "#burgdorf",
+        "description": "Burgdorf"
       },
       {
         "channel": "#bw",
@@ -1057,6 +1294,22 @@
       {
         "channel": "#bw-kn",
         "description": "Konstanz district (experimental)"
+      },
+      {
+        "channel": "#bz12",
+        "description": "Bz12"
+      },
+      {
+        "channel": "#cb-funk",
+        "description": "Cb Funk"
+      },
+      {
+        "channel": "#cc",
+        "description": "Cc"
+      },
+      {
+        "channel": "#celle",
+        "description": "Celle"
       },
       {
         "channel": "#chtest",
@@ -1071,8 +1324,20 @@
         "description": "Cycling activism coordination"
       },
       {
+        "channel": "#cve",
+        "description": "Cve"
+      },
+      {
+        "channel": "#dachau",
+        "description": "Dachau"
+      },
+      {
         "channel": "#darmstadt",
         "description": "Darmstadt and southern Hesse"
+      },
+      {
+        "channel": "#db0lnr",
+        "description": "Db0lnr"
       },
       {
         "channel": "#dd-companion",
@@ -1163,6 +1428,22 @@
         "description": "Uckermark district"
       },
       {
+        "channel": "#de-bw-sbh",
+        "description": "De Bw Sbh"
+      },
+      {
+        "channel": "#de-dk",
+        "description": "De Dk"
+      },
+      {
+        "channel": "#de-he",
+        "description": "De He"
+      },
+      {
+        "channel": "#de-hh-bergedorf",
+        "description": "De Hh Bergedorf"
+      },
+      {
         "channel": "#de-mitte",
         "description": "Region um Jena, wird dort nicht mehr weiter repeatet"
       },
@@ -1177,6 +1458,10 @@
       {
         "channel": "#de-sn-dd",
         "description": "Region/scope experiments"
+      },
+      {
+        "channel": "#de-sn-leipzig",
+        "description": "De Sn Leipzig"
       },
       {
         "channel": "#de-sn-mei",
@@ -1197,6 +1482,14 @@
       {
         "channel": "#de-th-shk",
         "description": "Region Saale-Holzland-Kreis, auf Repeatern im Raum Jena konfiguriert"
+      },
+      {
+        "channel": "#deister",
+        "description": "Deister"
+      },
+      {
+        "channel": "#denog",
+        "description": "Denog"
       },
       {
         "channel": "#detmold",
@@ -1243,12 +1536,28 @@
         "description": "Karlsruhe district"
       },
       {
+        "channel": "#eic",
+        "description": "Eic"
+      },
+      {
         "channel": "#eifel",
         "description": "Eifel region"
       },
       {
+        "channel": "#einrich",
+        "description": "Einrich"
+      },
+      {
         "channel": "#eisenach",
         "description": "Eisenach"
+      },
+      {
+        "channel": "#el",
+        "description": "El"
+      },
+      {
+        "channel": "#elevenchars",
+        "description": "Elevenchars"
       },
       {
         "channel": "#emergency",
@@ -1267,12 +1576,32 @@
         "description": "Ergoldsbach, Landshut district"
       },
       {
+        "channel": "#erlangen",
+        "description": "Erlangen"
+      },
+      {
+        "channel": "#erz",
+        "description": "Erz"
+      },
+      {
         "channel": "#essen",
         "description": "Essen (Ruhr)"
       },
       {
         "channel": "#ettlingen",
         "description": "City in Karlsruhe district"
+      },
+      {
+        "channel": "#f19",
+        "description": "F19"
+      },
+      {
+        "channel": "#fachsimpelei",
+        "description": "Fachsimpelei"
+      },
+      {
+        "channel": "#falkensee",
+        "description": "Falkensee"
       },
       {
         "channel": "#feuerwehr",
@@ -1289,6 +1618,18 @@
       {
         "channel": "#fichtelgebirge",
         "description": "Sparse mesh coverage"
+      },
+      {
+        "channel": "#flohmarkt-hannover",
+        "description": "Flohmarkt Hannover"
+      },
+      {
+        "channel": "#forchheim",
+        "description": "Forchheim"
+      },
+      {
+        "channel": "#fragdenbot",
+        "description": "Fragdenbot"
       },
       {
         "channel": "#franken",
@@ -1315,12 +1656,20 @@
         "description": "Fuerth"
       },
       {
+        "channel": "#gangbang",
+        "description": "Gangbang"
+      },
+      {
         "channel": "#gera",
         "description": "Gera"
       },
       {
         "channel": "#germany",
         "description": "germany"
+      },
+      {
+        "channel": "#giessen",
+        "description": "Giessen"
       },
       {
         "channel": "#gotha",
@@ -1347,8 +1696,20 @@
         "description": "Hamburg Hansemesh MeshCore group discussion"
       },
       {
+        "channel": "#hansl",
+        "description": "Hansl"
+      },
+      {
+        "channel": "#harzundumland",
+        "description": "Harzundumland"
+      },
+      {
         "channel": "#hbn",
         "description": "Hildburghausen district"
+      },
+      {
+        "channel": "#hda",
+        "description": "Hda"
       },
       {
         "channel": "#heidemesh",
@@ -1359,8 +1720,32 @@
         "description": "Helmstedt district"
       },
       {
+        "channel": "#herku",
+        "description": "Herku"
+      },
+      {
+        "channel": "#herne",
+        "description": "Herne"
+      },
+      {
+        "channel": "#hessen-mesh",
+        "description": "Hessen Mesh"
+      },
+      {
+        "channel": "#hessen-test",
+        "description": "Hessen Test"
+      },
+      {
         "channel": "#hildesheim",
         "description": "Hildesheim, öffentlich"
+      },
+      {
+        "channel": "#ideenwerft",
+        "description": "Ideenwerft"
+      },
+      {
+        "channel": "#igel",
+        "description": "Igel"
       },
       {
         "channel": "#infra-alert-karlsruhe",
@@ -1371,8 +1756,16 @@
         "description": "Ingolstadt"
       },
       {
+        "channel": "#itkm",
+        "description": "Itkm"
+      },
+      {
         "channel": "#jena",
         "description": "Jena"
+      },
+      {
+        "channel": "#jo51rv",
+        "description": "Jo51rv"
       },
       {
         "channel": "#jockgrim",
@@ -1399,6 +1792,14 @@
         "description": "Region Kiel"
       },
       {
+        "channel": "#klaus",
+        "description": "Klaus"
+      },
+      {
+        "channel": "#kleve",
+        "description": "Kleve"
+      },
+      {
         "channel": "#koblenz",
         "description": "Koblenz"
       },
@@ -1415,12 +1816,24 @@
         "description": "Kreuzfahrt-Anläufe in Deutschland"
       },
       {
+        "channel": "#landau",
+        "description": "Landau"
+      },
+      {
         "channel": "#landkreis-harburg",
         "description": "Harburg district"
       },
       {
         "channel": "#landshut",
         "description": "Landshut city and district"
+      },
+      {
+        "channel": "#laupheim",
+        "description": "Laupheim"
+      },
+      {
+        "channel": "#lausitzerseenland",
+        "description": "Lausitzerseenland"
       },
       {
         "channel": "#leipzig",
@@ -1431,8 +1844,16 @@
         "description": "Leipzig"
       },
       {
+        "channel": "#lemgo",
+        "description": "Lemgo"
+      },
+      {
         "channel": "#leverkusen",
         "description": "leverkusen"
+      },
+      {
+        "channel": "#lippb",
+        "description": "Lippb"
       },
       {
         "channel": "#lippstadt",
@@ -1447,8 +1868,32 @@
         "description": "Görlitz city and district"
       },
       {
+        "channel": "#lkgr-info",
+        "description": "Lkgr Info"
+      },
+      {
+        "channel": "#lksoe",
+        "description": "Lksoe"
+      },
+      {
         "channel": "#lohmar",
         "description": "lohmar"
+      },
+      {
+        "channel": "#lsl-bot",
+        "description": "Lsl Bot"
+      },
+      {
+        "channel": "#lu-alert",
+        "description": "Lu Alert"
+      },
+      {
+        "channel": "#luban",
+        "description": "Luban"
+      },
+      {
+        "channel": "#lulu",
+        "description": "Lulu"
       },
       {
         "channel": "#magdeburg",
@@ -1467,12 +1912,28 @@
         "description": "Kanal für lokale Koordination/Treffen (Berlin)"
       },
       {
+        "channel": "#mctechtalk",
+        "description": "Mctechtalk"
+      },
+      {
+        "channel": "#me-test",
+        "description": "Me Test"
+      },
+      {
         "channel": "#meow",
         "description": "meow"
       },
       {
+        "channel": "#mesh-briefing",
+        "description": "Mesh Briefing"
+      },
+      {
         "channel": "#meshcore",
         "description": "Information about MeshCore"
+      },
+      {
+        "channel": "#meshcore-pohlheim",
+        "description": "Meshcore Pohlheim"
       },
       {
         "channel": "#meshcorenetz",
@@ -1487,12 +1948,32 @@
         "description": "Muehlhausen"
       },
       {
+        "channel": "#mittelfranken",
+        "description": "Mittelfranken"
+      },
+      {
         "channel": "#mkk",
         "description": "Main-Kinzig-Kreis"
       },
       {
         "channel": "#mosel",
         "description": "Moselle valley (Trier area)"
+      },
+      {
+        "channel": "#motorrad",
+        "description": "Motorrad"
+      },
+      {
+        "channel": "#mox",
+        "description": "Mox"
+      },
+      {
+        "channel": "#msemesh",
+        "description": "Msemesh"
+      },
+      {
+        "channel": "#mt1",
+        "description": "Mt1"
       },
       {
         "channel": "#muelheim",
@@ -1507,6 +1988,14 @@
         "description": "muenster"
       },
       {
+        "channel": "#munich",
+        "description": "Munich"
+      },
+      {
+        "channel": "#nahe",
+        "description": "Nahe"
+      },
+      {
         "channel": "#nerd-flohmarkt",
         "description": "Kanal für Kleinanzeigen/Flohmarkt unter Bastlern"
       },
@@ -1515,8 +2004,16 @@
         "description": "Nachrichten von butenunbinnen.de"
       },
       {
+        "channel": "#nfn-wx",
+        "description": "Nfn Wx"
+      },
+      {
         "channel": "#ni",
         "description": "Niedersachsen"
+      },
+      {
+        "channel": "#nib",
+        "description": "Nib"
       },
       {
         "channel": "#niedersachsen",
@@ -1535,6 +2032,10 @@
         "description": "Nuremberg"
       },
       {
+        "channel": "#oal",
+        "description": "Oal"
+      },
+      {
         "channel": "#oberbayern",
         "description": "Upper Bavaria"
       },
@@ -1547,8 +2048,20 @@
         "description": "Upper Hesse region"
       },
       {
+        "channel": "#oberschwaben",
+        "description": "Oberschwaben"
+      },
+      {
+        "channel": "#odenwald",
+        "description": "Odenwald"
+      },
+      {
         "channel": "#ostfriesland",
         "description": "alles was zu Ostfriesland gehört"
+      },
+      {
+        "channel": "#packetradio",
+        "description": "Packetradio"
       },
       {
         "channel": "#pamina",
@@ -1567,6 +2080,10 @@
         "description": "Ping/pong tests with bot responses"
       },
       {
+        "channel": "#ploen",
+        "description": "Ploen"
+      },
+      {
         "channel": "#pota",
         "description": "Parks on the Air amateur radio"
       },
@@ -1575,12 +2092,24 @@
         "description": "Potsdam"
       },
       {
+        "channel": "#radebeul",
+        "description": "Radebeul"
+      },
+      {
+        "channel": "#rastatt",
+        "description": "Rastatt"
+      },
+      {
         "channel": "#region-muc",
         "description": "European Metropolitan Region Munich"
       },
       {
         "channel": "#rennsteigmesh",
         "description": "Global Rennsteig trail channel"
+      },
+      {
+        "channel": "#repeater-admin-ka",
+        "description": "Repeater Admin Ka"
       },
       {
         "channel": "#reutlingen",
@@ -1593,6 +2122,10 @@
       {
         "channel": "#rhein-neckar",
         "description": "Rhein-Neckar metropolitan region"
+      },
+      {
+        "channel": "#rheinbach",
+        "description": "Rheinbach"
       },
       {
         "channel": "#rheinland",
@@ -1635,8 +2168,28 @@
         "description": "Seevetal municipality"
       },
       {
+        "channel": "#sf6",
+        "description": "Sf6"
+      },
+      {
+        "channel": "#sf7",
+        "description": "Sf7"
+      },
+      {
+        "channel": "#sf7test",
+        "description": "Sf7test"
+      },
+      {
         "channel": "#sh",
         "description": "Schleswig-Holstein"
+      },
+      {
+        "channel": "#shg",
+        "description": "Shg"
+      },
+      {
+        "channel": "#slf-ru",
+        "description": "Slf Ru"
       },
       {
         "channel": "#sn",
@@ -1647,12 +2200,20 @@
         "description": "Soest district"
       },
       {
+        "channel": "#solingen",
+        "description": "Solingen"
+      },
+      {
         "channel": "#sos",
         "description": "Recommended emergency channel"
       },
       {
         "channel": "#sota",
         "description": "Summits on the Air amateur radio"
+      },
+      {
+        "channel": "#spiele",
+        "description": "Spiele"
       },
       {
         "channel": "#sports",
@@ -1679,6 +2240,10 @@
         "description": "French-speaking Switzerland"
       },
       {
+        "channel": "#sven",
+        "description": "Sven"
+      },
+      {
         "channel": "#svizzera",
         "description": "Italian-speaking Switzerland"
       },
@@ -1687,8 +2252,16 @@
         "description": "An open channel where everybody is welcome to chat"
       },
       {
+        "channel": "#swr1-hitparade",
+        "description": "Swr1 Hitparade"
+      },
+      {
         "channel": "#taubertal",
         "description": "Tauber Valley region"
+      },
+      {
+        "channel": "#taubertal-wx",
+        "description": "Taubertal Wx"
       },
       {
         "channel": "#taunus",
@@ -1699,8 +2272,24 @@
         "description": "Taunus-Mesh, öffentlich"
       },
       {
+        "channel": "#technik",
+        "description": "Technik"
+      },
+      {
+        "channel": "#technikecke",
+        "description": "Technikecke"
+      },
+      {
+        "channel": "#tempelhof",
+        "description": "Tempelhof"
+      },
+      {
         "channel": "#test",
         "description": "Hardware testing; supports local/lokal scope"
+      },
+      {
+        "channel": "#test123",
+        "description": "Test123"
       },
       {
         "channel": "#testing",
@@ -1715,6 +2304,10 @@
         "description": "Thuringia"
       },
       {
+        "channel": "#th-bot",
+        "description": "Th Bot"
+      },
+      {
         "channel": "#themar",
         "description": "Themar"
       },
@@ -1727,8 +2320,16 @@
         "description": "trier"
       },
       {
+        "channel": "#u12",
+        "description": "U12"
+      },
+      {
         "channel": "#ulm",
         "description": "Ulm and Neu-Ulm region"
+      },
+      {
+        "channel": "#unterfranken",
+        "description": "Unterfranken"
       },
       {
         "channel": "#untermain",
@@ -1759,6 +2360,10 @@
         "description": "Official authority warnings"
       },
       {
+        "channel": "#warpe",
+        "description": "Warpe"
+      },
+      {
         "channel": "#weimar",
         "description": "Weimar"
       },
@@ -1779,8 +2384,20 @@
         "description": "Wetterau district"
       },
       {
+        "channel": "#weyhe",
+        "description": "Weyhe"
+      },
+      {
+        "channel": "#wftst",
+        "description": "Wftst"
+      },
+      {
         "channel": "#woerth-am-rhein",
         "description": "Woerth am Rhein"
+      },
+      {
+        "channel": "#wolfenbuettel",
+        "description": "Wolfenbuettel"
       },
       {
         "channel": "#wolfsburg",
@@ -1791,8 +2408,32 @@
         "description": "Worms and Rhenish Hesse"
       },
       {
+        "channel": "#wsa",
+        "description": "Wsa"
+      },
+      {
+        "channel": "#wunstorf",
+        "description": "Wunstorf"
+      },
+      {
+        "channel": "#xhain",
+        "description": "Xhain"
+      },
+      {
+        "channel": "#z46",
+        "description": "Z46"
+      },
+      {
         "channel": "#zak",
         "description": "Zollernalbkreis district"
+      },
+      {
+        "channel": "#zeit",
+        "description": "Zeit"
+      },
+      {
+        "channel": "#zentonic",
+        "description": "Zentonic"
       },
       {
         "channel": "#zuerich",
@@ -1810,12 +2451,24 @@
         "description": "Funen area channel"
       },
       {
+        "channel": "#6100",
+        "description": "6100"
+      },
+      {
         "channel": "#aalborg",
         "description": "Aalborg city channel"
       },
       {
         "channel": "#aarhus",
         "description": "Aarhus city channel"
+      },
+      {
+        "channel": "#bible",
+        "description": "Bible"
+      },
+      {
+        "channel": "#bornholm",
+        "description": "Bornholm"
       },
       {
         "channel": "#corescopebot",
@@ -1910,6 +2563,14 @@
         "description": "Horsens city channel"
       },
       {
+        "channel": "#jmr",
+        "description": "Jmr"
+      },
+      {
+        "channel": "#jota",
+        "description": "Jota"
+      },
+      {
         "channel": "#jylland",
         "description": "Jutland regional channel"
       },
@@ -1918,12 +2579,24 @@
         "description": "North Jutland regional channel"
       },
       {
+        "channel": "#odsherred",
+        "description": "Odsherred"
+      },
+      {
         "channel": "#oestjylland",
         "description": "East Jutland regional channel"
       },
       {
+        "channel": "#oz7amg",
+        "description": "Oz7amg"
+      },
+      {
         "channel": "#ping",
         "description": "Kanal für den Pingbot (Konnektivitäts-Test), dokumentiert auf MeshCore.dk"
+      },
+      {
+        "channel": "#pingdk",
+        "description": "Pingdk"
       },
       {
         "channel": "#scout",
@@ -1940,6 +2613,10 @@
       {
         "channel": "#taastrup",
         "description": "taastrup"
+      },
+      {
+        "channel": "#teknik",
+        "description": "Teknik"
       }
     ],
     "dm": [],
@@ -1960,6 +2637,10 @@
         "description": "Estonian crisis/emergency information channel (\"kriis\" = crisis), live on EU MeshCore analyzer"
       },
       {
+        "channel": "#ru",
+        "description": "Ru"
+      },
+      {
         "channel": "#tartu",
         "description": "Tartu city channel, live on EU MeshCore analyzer"
       }
@@ -1967,7 +2648,24 @@
     "eg": [],
     "eh": [],
     "er": [],
-    "es": [],
+    "es": [
+      {
+        "channel": "#b0b0t",
+        "description": "B0b0t"
+      },
+      {
+        "channel": "#emergencia",
+        "description": "Emergencia"
+      },
+      {
+        "channel": "#nmg",
+        "description": "Nmg"
+      },
+      {
+        "channel": "#testbot",
+        "description": "Testbot"
+      }
+    ],
     "et": [],
     "eu": [],
     "fi": [
@@ -1982,6 +2680,14 @@
       {
         "channel": "#finland",
         "description": "National Finnish channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#lohja",
+        "description": "Lohja"
+      },
+      {
+        "channel": "#oulu",
+        "description": "Oulu"
       },
       {
         "channel": "#ping",
@@ -2018,12 +2724,44 @@
     "fo": [],
     "fr": [
       {
+        "channel": "#26-07",
+        "description": "26 07"
+      },
+      {
         "channel": "#adrasec",
         "description": "Channel for French civil-defense radio auxiliary ADRASEC"
       },
       {
+        "channel": "#agora",
+        "description": "Agora"
+      },
+      {
+        "channel": "#agoratech",
+        "description": "Agoratech"
+      },
+      {
+        "channel": "#air82",
+        "description": "Air82"
+      },
+      {
         "channel": "#alsace",
         "description": "Alsace region"
+      },
+      {
+        "channel": "#angers",
+        "description": "Angers"
+      },
+      {
+        "channel": "#asso",
+        "description": "Asso"
+      },
+      {
+        "channel": "#beux",
+        "description": "Beux"
+      },
+      {
+        "channel": "#bismillah",
+        "description": "Bismillah"
       },
       {
         "channel": "#bordeaux",
@@ -2034,28 +2772,100 @@
         "description": "Brittany (Bretagne) regional channel, live on EU MeshCore analyzer"
       },
       {
+        "channel": "#canal7",
+        "description": "Canal7"
+      },
+      {
+        "channel": "#canaux",
+        "description": "Canaux"
+      },
+      {
+        "channel": "#defense",
+        "description": "Defense"
+      },
+      {
         "channel": "#emergency",
         "description": "Message d'urgence UNIQUEMENT, region fr-pac"
+      },
+      {
+        "channel": "#f6feh",
+        "description": "F6feh"
       },
       {
         "channel": "#fr",
         "description": "France (nationwide)"
       },
       {
+        "channel": "#fr-04",
+        "description": "Fr 04"
+      },
+      {
+        "channel": "#fr-05",
+        "description": "Fr 05"
+      },
+      {
+        "channel": "#fr-09",
+        "description": "Fr 09"
+      },
+      {
+        "channel": "#fr-27",
+        "description": "Fr 27"
+      },
+      {
+        "channel": "#fr-32",
+        "description": "Fr 32"
+      },
+      {
+        "channel": "#fr-41",
+        "description": "Fr 41"
+      },
+      {
+        "channel": "#fr-48",
+        "description": "Fr 48"
+      },
+      {
+        "channel": "#fr-83",
+        "description": "Fr 83"
+      },
+      {
+        "channel": "#fr-95",
+        "description": "Fr 95"
+      },
+      {
+        "channel": "#fr-nor",
+        "description": "Fr Nor"
+      },
+      {
         "channel": "#france",
         "description": "National French channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#gdacs",
+        "description": "Gdacs"
       },
       {
         "channel": "#gironde",
         "description": "Gironde department channel, example used in the French naming guide"
       },
       {
+        "channel": "#grenoble",
+        "description": "Grenoble"
+      },
+      {
         "channel": "#info",
         "description": "Message d'information, region fr-pac"
       },
       {
+        "channel": "#jeux",
+        "description": "Jeux"
+      },
+      {
         "channel": "#la-rochelle",
         "description": "La Rochelle channel, used as example bound to region fr-17 in the French naming guide"
+      },
+      {
+        "channel": "#lens",
+        "description": "Lens"
       },
       {
         "channel": "#loire-atlantique",
@@ -2066,12 +2876,32 @@
         "description": "Lyon channel; also given as the canonical commune-channel example in the French naming guide"
       },
       {
+        "channel": "#manif",
+        "description": "Manif"
+      },
+      {
         "channel": "#marseille",
         "description": "Marseille channel, referenced as a real-world example (scoped to fr-13) in the French naming guide"
       },
       {
         "channel": "#meteo",
         "description": "Message meteo, region fr-pac"
+      },
+      {
+        "channel": "#meteo-brest",
+        "description": "Meteo Brest"
+      },
+      {
+        "channel": "#meteo09",
+        "description": "Meteo09"
+      },
+      {
+        "channel": "#meteo31",
+        "description": "Meteo31"
+      },
+      {
+        "channel": "#meteo82",
+        "description": "Meteo82"
       },
       {
         "channel": "#metz",
@@ -2086,16 +2916,44 @@
         "description": "Nouvelle-Aquitaine regional channel, live on EU MeshCore analyzer"
       },
       {
+        "channel": "#occ",
+        "description": "Occ"
+      },
+      {
+        "channel": "#octogone",
+        "description": "Octogone"
+      },
+      {
         "channel": "#paca",
         "description": "Region PACA, region associee fr-pac"
+      },
+      {
+        "channel": "#panamesh",
+        "description": "Panamesh"
       },
       {
         "channel": "#paris",
         "description": "Paris channel, live on EU MeshCore analyzer"
       },
       {
+        "channel": "#paris-normandie",
+        "description": "Paris Normandie"
+      },
+      {
+        "channel": "#quizz",
+        "description": "Quizz"
+      },
+      {
+        "channel": "#radioamateur",
+        "description": "Radioamateur"
+      },
+      {
         "channel": "#rcsc",
         "description": "Channel referenced alongside #adrasec as a legitimate use-case channel"
+      },
+      {
+        "channel": "#rennes",
+        "description": "Rennes"
       },
       {
         "channel": "#rhone",
@@ -2108,6 +2966,14 @@
       {
         "channel": "#saint-germain-en-laye",
         "description": "Commune Saint-Germain-en-Laye, canal hashtag local"
+      },
+      {
+        "channel": "#sherpa",
+        "description": "Sherpa"
+      },
+      {
+        "channel": "#techno",
+        "description": "Techno"
       },
       {
         "channel": "#test",
@@ -2124,10 +2990,30 @@
       {
         "channel": "#var",
         "description": "Departement du Var, region associee fr-83"
+      },
+      {
+        "channel": "#vsg",
+        "description": "Vsg"
+      },
+      {
+        "channel": "#wikipedia",
+        "description": "Wikipedia"
+      },
+      {
+        "channel": "#yfjs",
+        "description": "Yfjs"
       }
     ],
     "ga": [],
     "gb": [
+      {
+        "channel": "#amersham",
+        "description": "Amersham"
+      },
+      {
+        "channel": "#barnsley",
+        "description": "Barnsley"
+      },
       {
         "channel": "#beds-bucks-northants",
         "description": "beds-bucks-northants"
@@ -2137,16 +3023,48 @@
         "description": "berks"
       },
       {
+        "channel": "#berksbot",
+        "description": "Berksbot"
+      },
+      {
         "channel": "#birmingham",
         "description": "City channel for Birmingham"
+      },
+      {
+        "channel": "#blackwatervalley",
+        "description": "Blackwatervalley"
+      },
+      {
+        "channel": "#blanc",
+        "description": "Blanc"
       },
       {
         "channel": "#bristol",
         "description": "bristol"
       },
       {
+        "channel": "#bristol-test",
+        "description": "Bristol Test"
+      },
+      {
+        "channel": "#brs-rainbot",
+        "description": "Brs Rainbot"
+      },
+      {
+        "channel": "#cake",
+        "description": "Cake"
+      },
+      {
         "channel": "#chesterfield",
         "description": "chesterfield"
+      },
+      {
+        "channel": "#colchester",
+        "description": "Colchester"
+      },
+      {
+        "channel": "#communityresilience",
+        "description": "Communityresilience"
       },
       {
         "channel": "#cornwall",
@@ -2173,6 +3091,14 @@
         "description": "essex"
       },
       {
+        "channel": "#essexham",
+        "description": "Essexham"
+      },
+      {
+        "channel": "#gb-est",
+        "description": "Gb Est"
+      },
+      {
         "channel": "#greatermanchester",
         "description": "Regional channel for Greater Manchester"
       },
@@ -2185,8 +3111,20 @@
         "description": "hertford"
       },
       {
+        "channel": "#highland",
+        "description": "Highland"
+      },
+      {
         "channel": "#huddersfield",
         "description": "huddersfield"
+      },
+      {
+        "channel": "#hull",
+        "description": "Hull"
+      },
+      {
+        "channel": "#io",
+        "description": "Io"
       },
       {
         "channel": "#ipswich",
@@ -2205,6 +3143,10 @@
         "description": "kernow"
       },
       {
+        "channel": "#kingnode",
+        "description": "Kingnode"
+      },
+      {
         "channel": "#londen",
         "description": "londen"
       },
@@ -2213,8 +3155,28 @@
         "description": "london"
       },
       {
+        "channel": "#longeaton",
+        "description": "Longeaton"
+      },
+      {
+        "channel": "#longfast",
+        "description": "Longfast"
+      },
+      {
         "channel": "#lowestoft",
         "description": "lowestoft"
+      },
+      {
+        "channel": "#ltest",
+        "description": "Ltest"
+      },
+      {
+        "channel": "#m9kel-sig-bot",
+        "description": "M9kel Sig Bot"
+      },
+      {
+        "channel": "#meshcore-companion",
+        "description": "Meshcore Companion"
       },
       {
         "channel": "#meshcore-uk",
@@ -2233,8 +3195,48 @@
         "description": "northwest"
       },
       {
+        "channel": "#nota",
+        "description": "Nota"
+      },
+      {
+        "channel": "#orkney",
+        "description": "Orkney"
+      },
+      {
+        "channel": "#pest",
+        "description": "Pest"
+      },
+      {
+        "channel": "#plumstead",
+        "description": "Plumstead"
+      },
+      {
+        "channel": "#pmr",
+        "description": "Pmr"
+      },
+      {
+        "channel": "#poobah",
+        "description": "Poobah"
+      },
+      {
+        "channel": "#preppersuk",
+        "description": "Preppersuk"
+      },
+      {
+        "channel": "#public2",
+        "description": "Public2"
+      },
+      {
+        "channel": "#sa-chat",
+        "description": "Sa Chat"
+      },
+      {
         "channel": "#scotland",
         "description": "scotland"
+      },
+      {
+        "channel": "#shetland",
+        "description": "Shetland"
       },
       {
         "channel": "#solent",
@@ -2249,8 +3251,24 @@
         "description": "spire"
       },
       {
+        "channel": "#staffs-n-stoke",
+        "description": "Staffs N Stoke"
+      },
+      {
         "channel": "#suffolk",
         "description": "suffolk"
+      },
+      {
+        "channel": "#sussexcoast",
+        "description": "Sussexcoast"
+      },
+      {
+        "channel": "#trans",
+        "description": "Trans"
+      },
+      {
+        "channel": "#versions",
+        "description": "Versions"
       },
       {
         "channel": "#wales",
@@ -2263,6 +3281,26 @@
       {
         "channel": "#walesandwest-chat",
         "description": "Local chat channel for South Wales & the West, no scope restriction"
+      },
+      {
+        "channel": "#walesandwest-wx",
+        "description": "Walesandwest Wx"
+      },
+      {
+        "channel": "#whatever",
+        "description": "Whatever"
+      },
+      {
+        "channel": "#wiltshire",
+        "description": "Wiltshire"
+      },
+      {
+        "channel": "#wirral",
+        "description": "Wirral"
+      },
+      {
+        "channel": "#worksop",
+        "description": "Worksop"
       },
       {
         "channel": "#yorkshire",
@@ -2284,7 +3322,12 @@
     "gn": [],
     "gp": [],
     "gq": [],
-    "gr": [],
+    "gr": [
+      {
+        "channel": "#hub",
+        "description": "Hub"
+      }
+    ],
     "gs": [],
     "gt": [],
     "gu": [],
@@ -2301,8 +3344,24 @@
         "description": "Debrecen and surrounding area chat channel"
       },
       {
+        "channel": "#fucktuality",
+        "description": "Fucktuality"
+      },
+      {
         "channel": "#hungary",
         "description": "General Hungarian chat channel"
+      },
+      {
+        "channel": "#mt",
+        "description": "Mt"
+      },
+      {
+        "channel": "#retek2016",
+        "description": "Retek2016"
+      },
+      {
+        "channel": "#szhely",
+        "description": "Szhely"
       },
       {
         "channel": "#veszhelyzet",
@@ -2320,12 +3379,24 @@
         "description": "Dublin region"
       },
       {
+        "channel": "#grec",
+        "description": "Grec"
+      },
+      {
         "channel": "#ireland",
         "description": "Ireland"
       },
       {
+        "channel": "#kildare",
+        "description": "Kildare"
+      },
+      {
         "channel": "#lifethreat",
         "description": "For notifications of events that may post risk to health or safety"
+      },
+      {
+        "channel": "#luas",
+        "description": "Luas"
       },
       {
         "channel": "#mayo",
@@ -2381,12 +3452,52 @@
         "description": "Robots lives here"
       },
       {
+        "channel": "#drc",
+        "description": "Drc"
+      },
+      {
+        "channel": "#lagomaggiore",
+        "description": "Lagomaggiore"
+      },
+      {
+        "channel": "#lifo",
+        "description": "Lifo"
+      },
+      {
         "channel": "#meteo-milano",
         "description": "Automated weather bulletin for Milano"
       },
       {
+        "channel": "#meteo-varazze",
+        "description": "Meteo Varazze"
+      },
+      {
+        "channel": "#meteoallerta",
+        "description": "Meteoallerta"
+      },
+      {
+        "channel": "#ostia",
+        "description": "Ostia"
+      },
+      {
         "channel": "#prove",
         "description": "Main testing channel for Italy"
+      },
+      {
+        "channel": "#terremoti",
+        "description": "Terremoti"
+      },
+      {
+        "channel": "#test-test",
+        "description": "Test Test"
+      },
+      {
+        "channel": "#trieste",
+        "description": "Trieste"
+      },
+      {
+        "channel": "#vls",
+        "description": "Vls"
       },
       {
         "channel": "abruzzo",
@@ -2543,8 +3654,16 @@
     "ls": [],
     "lt": [
       {
+        "channel": "#baltics",
+        "description": "Baltics"
+      },
+      {
         "channel": "#bot",
         "description": "Separater Kanal für Bots, Scope lt"
+      },
+      {
+        "channel": "#dg",
+        "description": "Dg"
       },
       {
         "channel": "#emergency",
@@ -2565,6 +3684,14 @@
       {
         "channel": "#lietuva",
         "description": "National Lithuanian channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#nvln",
+        "description": "Nvln"
+      },
+      {
+        "channel": "#pauls",
+        "description": "Pauls"
       },
       {
         "channel": "#pietu-lietuva",
@@ -2603,6 +3730,10 @@
       {
         "channel": "#saarlorlux",
         "description": "Saar-Lor-Lux cross-border region (DE/FR/LU)"
+      },
+      {
+        "channel": "#trafic",
+        "description": "Trafic"
       }
     ],
     "lv": [],
@@ -2612,7 +3743,20 @@
     "md": [],
     "me": [],
     "mf": [],
-    "mg": [],
+    "mg": [
+      {
+        "channel": "#krabbegat",
+        "description": "Krabbegat"
+      },
+      {
+        "channel": "#ncbr",
+        "description": "Ncbr"
+      },
+      {
+        "channel": "#repboz",
+        "description": "Repboz"
+      }
+    ],
     "mh": [],
     "mk": [],
     "ml": [],
@@ -3786,6 +4930,10 @@
         "description": "blackout"
       },
       {
+        "channel": "#bladel",
+        "description": "Bladel"
+      },
+      {
         "channel": "#bladtunge",
         "description": "bladtunge"
       },
@@ -3880,6 +5028,10 @@
       {
         "channel": "#borssele",
         "description": "borssele"
+      },
+      {
+        "channel": "#bosco",
+        "description": "Bosco"
       },
       {
         "channel": "#boston",
@@ -6058,6 +7210,10 @@
         "description": "gft"
       },
       {
+        "channel": "#ghcq",
+        "description": "Ghcq"
+      },
+      {
         "channel": "#gironde",
         "description": "gironde"
       },
@@ -6536,6 +7692,10 @@
       {
         "channel": "#hgw",
         "description": "hgw"
+      },
+      {
+        "channel": "#hho",
+        "description": "Hho"
       },
       {
         "channel": "#hi",
@@ -7032,6 +8192,10 @@
       {
         "channel": "#kan",
         "description": "kan"
+      },
+      {
+        "channel": "#kanaal14",
+        "description": "Kanaal14"
       },
       {
         "channel": "#kanal",
@@ -7718,6 +8882,10 @@
         "description": "manhattan"
       },
       {
+        "channel": "#mani",
+        "description": "Mani"
+      },
+      {
         "channel": "#manila",
         "description": "manila"
       },
@@ -8092,6 +9260,10 @@
       {
         "channel": "#moers",
         "description": "moers"
+      },
+      {
+        "channel": "#moes",
+        "description": "Moes"
       },
       {
         "channel": "#moin",
@@ -9870,6 +11042,10 @@
         "description": "roe"
       },
       {
+        "channel": "#roermond",
+        "description": "Roermond"
+      },
+      {
         "channel": "#romandie",
         "description": "romandie"
       },
@@ -9884,6 +11060,10 @@
       {
         "channel": "#rome",
         "description": "rome"
+      },
+      {
+        "channel": "#roosendaal",
+        "description": "Roosendaal"
       },
       {
         "channel": "#rosenheim",
@@ -9980,6 +11160,10 @@
       {
         "channel": "#ryptsjerk",
         "description": "ryptsjerk"
+      },
+      {
+        "channel": "#rzal",
+        "description": "Rzal"
       },
       {
         "channel": "#rzb",
@@ -11450,8 +12634,16 @@
         "description": "voorneputten"
       },
       {
+        "channel": "#voorschoten",
+        "description": "Voorschoten"
+      },
+      {
         "channel": "#voorthuizen",
         "description": "voorthuizen"
+      },
+      {
+        "channel": "#vpc",
+        "description": "Vpc"
       },
       {
         "channel": "#vpk",
@@ -11512,6 +12704,10 @@
       {
         "channel": "#w8ara",
         "description": "w8ara"
+      },
+      {
+        "channel": "#waadhoeke",
+        "description": "Waadhoeke"
       },
       {
         "channel": "#wabbithunt",
@@ -12030,6 +13226,10 @@
         "description": "zandbak"
       },
       {
+        "channel": "#zandvoort",
+        "description": "Zandvoort"
+      },
+      {
         "channel": "#zdf",
         "description": "zdf"
       },
@@ -12149,6 +13349,10 @@
         "description": "Central Norway (Midt-Norge) regional channel, live on EU MeshCore analyzer"
       },
       {
+        "channel": "#norge",
+        "description": "Norge"
+      },
+      {
         "channel": "#oslo",
         "description": "Oslo channel, live on EU MeshCore analyzer"
       },
@@ -12215,20 +13419,63 @@
       }
     ],
     "om": [],
-    "pa": [],
+    "pa": [
+      {
+        "channel": "#qso-it9jzr",
+        "description": "Qso It9jzr"
+      }
+    ],
     "pe": [],
     "pf": [],
     "pg": [],
-    "ph": [],
-    "pk": [],
+    "ph": [
+      {
+        "channel": "#sosro",
+        "description": "Sosro"
+      }
+    ],
+    "pk": [
+      {
+        "channel": "#gameover",
+        "description": "Gameover"
+      }
+    ],
     "pl": [
+      {
+        "channel": "#555",
+        "description": "555"
+      },
+      {
+        "channel": "#abt",
+        "description": "Abt"
+      },
+      {
+        "channel": "#adr",
+        "description": "Adr"
+      },
+      {
+        "channel": "#aicore",
+        "description": "Aicore"
+      },
+      {
+        "channel": "#alertmpk",
+        "description": "Alertmpk"
+      },
       {
         "channel": "#bot",
         "description": "Connectivity test channel handled by bots"
       },
       {
+        "channel": "#bot-mazowsze",
+        "description": "Bot Mazowsze"
+      },
+      {
         "channel": "#bydgoszcz",
         "description": "Bydgoszcz regional channel"
+      },
+      {
+        "channel": "#darlowo",
+        "description": "Darlowo"
       },
       {
         "channel": "#dolnoslaskie",
@@ -12239,8 +13486,72 @@
         "description": "Dolnoslaskie region connectivity test channel"
       },
       {
+        "channel": "#elblag",
+        "description": "Elblag"
+      },
+      {
+        "channel": "#gdansk",
+        "description": "Gdansk"
+      },
+      {
+        "channel": "#gielda",
+        "description": "Gielda"
+      },
+      {
+        "channel": "#gliwice",
+        "description": "Gliwice"
+      },
+      {
+        "channel": "#gorzow",
+        "description": "Gorzow"
+      },
+      {
         "channel": "#hamradio",
         "description": "Amateur radio discussion channel"
+      },
+      {
+        "channel": "#imgw",
+        "description": "Imgw"
+      },
+      {
+        "channel": "#jarocin",
+        "description": "Jarocin"
+      },
+      {
+        "channel": "#jcp",
+        "description": "Jcp"
+      },
+      {
+        "channel": "#kasia",
+        "description": "Kasia"
+      },
+      {
+        "channel": "#kg",
+        "description": "Kg"
+      },
+      {
+        "channel": "#kielce",
+        "description": "Kielce"
+      },
+      {
+        "channel": "#kobylka",
+        "description": "Kobylka"
+      },
+      {
+        "channel": "#kocie",
+        "description": "Kocie"
+      },
+      {
+        "channel": "#konstrukcje",
+        "description": "Konstrukcje"
+      },
+      {
+        "channel": "#krakow",
+        "description": "Krakow"
+      },
+      {
+        "channel": "#krasnik",
+        "description": "Krasnik"
       },
       {
         "channel": "#legnica",
@@ -12251,20 +13562,176 @@
         "description": "Lodzkie regional channel"
       },
       {
+        "channel": "#lubelskie",
+        "description": "Lubelskie"
+      },
+      {
+        "channel": "#lublin",
+        "description": "Lublin"
+      },
+      {
+        "channel": "#lzbox",
+        "description": "Lzbox"
+      },
+      {
+        "channel": "#mazowsze",
+        "description": "Mazowsze"
+      },
+      {
+        "channel": "#mielec",
+        "description": "Mielec"
+      },
+      {
+        "channel": "#misie",
+        "description": "Misie"
+      },
+      {
+        "channel": "#my",
+        "description": "My"
+      },
+      {
+        "channel": "#nauka",
+        "description": "Nauka"
+      },
+      {
+        "channel": "#opole",
+        "description": "Opole"
+      },
+      {
+        "channel": "#ostrowiec",
+        "description": "Ostrowiec"
+      },
+      {
+        "channel": "#pin",
+        "description": "Pin"
+      },
+      {
+        "channel": "#podkarpackie",
+        "description": "Podkarpackie"
+      },
+      {
+        "channel": "#pogoda",
+        "description": "Pogoda"
+      },
+      {
+        "channel": "#polityka",
+        "description": "Polityka"
+      },
+      {
         "channel": "#polska",
         "description": "Dedicated channel for Polish-language discussions, commonly used network-wide"
+      },
+      {
+        "channel": "#pomorskie",
+        "description": "Pomorskie"
+      },
+      {
+        "channel": "#prepersi",
+        "description": "Prepersi"
+      },
+      {
+        "channel": "#prepper-bielany",
+        "description": "Prepper Bielany"
+      },
+      {
+        "channel": "#radom",
+        "description": "Radom"
+      },
+      {
+        "channel": "#ravek",
+        "description": "Ravek"
+      },
+      {
+        "channel": "#red",
+        "description": "Red"
+      },
+      {
+        "channel": "#rypin",
+        "description": "Rypin"
+      },
+      {
+        "channel": "#rzeszow",
+        "description": "Rzeszow"
+      },
+      {
+        "channel": "#samolotykn",
+        "description": "Samolotykn"
+      },
+      {
+        "channel": "#sci",
+        "description": "Sci"
+      },
+      {
+        "channel": "#sps",
+        "description": "Sps"
+      },
+      {
+        "channel": "#sq6cys",
+        "description": "Sq6cys"
+      },
+      {
+        "channel": "#swd",
+        "description": "Swd"
+      },
+      {
+        "channel": "#swidnica",
+        "description": "Swidnica"
+      },
+      {
+        "channel": "#swietokrzyskie",
+        "description": "Swietokrzyskie"
+      },
+      {
+        "channel": "#tarnow",
+        "description": "Tarnow"
       },
       {
         "channel": "#tech",
         "description": "Technical discussion channel"
       },
       {
+        "channel": "#teobot",
+        "description": "Teobot"
+      },
+      {
         "channel": "#test",
         "description": "Connectivity test channel, expect acks from other people"
       },
       {
+        "channel": "#testy",
+        "description": "Testy"
+      },
+      {
+        "channel": "#trojmiasto",
+        "description": "Trojmiasto"
+      },
+      {
+        "channel": "#turek",
+        "description": "Turek"
+      },
+      {
+        "channel": "#walbrzych",
+        "description": "Walbrzych"
+      },
+      {
+        "channel": "#warszawa",
+        "description": "Warszawa"
+      },
+      {
+        "channel": "#wirek",
+        "description": "Wirek"
+      },
+      {
         "channel": "#wlkp",
         "description": "Wielkopolska regional channel"
+      },
+      {
+        "channel": "#wola",
+        "description": "Wola"
+      },
+      {
+        "channel": "#wolomin",
+        "description": "Wolomin"
       },
       {
         "channel": "#wroc-tech",
@@ -12275,8 +13742,20 @@
         "description": "Wroclaw regional channel"
       },
       {
+        "channel": "#yabu",
+        "description": "Yabu"
+      },
+      {
         "channel": "#zachod",
         "description": "Western Poland regional channel"
+      },
+      {
+        "channel": "#zrnf",
+        "description": "Zrnf"
+      },
+      {
+        "channel": "#zywiec",
+        "description": "Zywiec"
       }
     ],
     "pm": [],
@@ -12309,6 +13788,10 @@
         "description": "Bragança PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
       },
       {
+        "channel": "#cartaxo2026",
+        "description": "Cartaxo2026"
+      },
+      {
         "channel": "#castelobranco",
         "description": "Castelo Branco PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
       },
@@ -12329,6 +13812,10 @@
         "description": "Faro PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
       },
       {
+        "channel": "#freemeshcore",
+        "description": "Freemeshcore"
+      },
+      {
         "channel": "#guarda",
         "description": "Guarda PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
       },
@@ -12341,12 +13828,24 @@
         "description": "Lisboa PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
       },
       {
+        "channel": "#mad",
+        "description": "Mad"
+      },
+      {
         "channel": "#madeira",
         "description": "Madeira PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
       },
       {
+        "channel": "#mafra",
+        "description": "Mafra"
+      },
+      {
         "channel": "#meshcore",
         "description": "MeshCore dedicated topic channel"
+      },
+      {
+        "channel": "#norte",
+        "description": "Norte"
       },
       {
         "channel": "#ping",
@@ -12369,12 +13868,28 @@
         "description": "PT nation wide channel"
       },
       {
+        "channel": "#pt-porto",
+        "description": "Pt Porto"
+      },
+      {
+        "channel": "#publico",
+        "description": "Publico"
+      },
+      {
         "channel": "#santarem",
         "description": "Santarem PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
       },
       {
+        "channel": "#scera",
+        "description": "Scera"
+      },
+      {
         "channel": "#setubal",
         "description": "Setubal PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+      },
+      {
+        "channel": "#tempo",
+        "description": "Tempo"
       },
       {
         "channel": "#testes",
@@ -12415,6 +13930,10 @@
         "description": "Discussions and coordination for Bucuresti and the metropolitan area"
       },
       {
+        "channel": "#bv-cv",
+        "description": "Bv Cv"
+      },
+      {
         "channel": "#craiova",
         "description": "Local channel for Craiova, Dolj and regional links in the area"
       },
@@ -12423,12 +13942,32 @@
         "description": "Distance reports, propagation, links between cities and coverage tests"
       },
       {
+        "channel": "#hbo",
+        "description": "Hbo"
+      },
+      {
         "channel": "#jokes",
         "description": "Jokes and relaxed conversation, separate from operational channels"
       },
       {
+        "channel": "#mesh-links",
+        "description": "Mesh Links"
+      },
+      {
+        "channel": "#neamt",
+        "description": "Neamt"
+      },
+      {
         "channel": "#radioamatori-yo",
         "description": "Discussion space for radio amateurs with YO callsigns and technical experiments"
+      },
+      {
+        "channel": "#resita",
+        "description": "Resita"
+      },
+      {
+        "channel": "#retrodevices",
+        "description": "Retrodevices"
       },
       {
         "channel": "#romania",
@@ -12440,7 +13979,44 @@
       }
     ],
     "rs": [],
-    "ru": [],
+    "ru": [
+      {
+        "channel": "#1212",
+        "description": "1212"
+      },
+      {
+        "channel": "#anekdot",
+        "description": "Anekdot"
+      },
+      {
+        "channel": "#connection",
+        "description": "Connection"
+      },
+      {
+        "channel": "#ping-bot",
+        "description": "Ping Bot"
+      },
+      {
+        "channel": "#pxbot",
+        "description": "Pxbot"
+      },
+      {
+        "channel": "#song",
+        "description": "Song"
+      },
+      {
+        "channel": "#tlt",
+        "description": "Tlt"
+      },
+      {
+        "channel": "#uvb76",
+        "description": "Uvb76"
+      },
+      {
+        "channel": "#volgaalert",
+        "description": "Volgaalert"
+      }
+    ],
     "rw": [],
     "sa": [],
     "sb": [],
@@ -12490,8 +14066,28 @@
     "sd": [],
     "se": [
       {
+        "channel": "#elva",
+        "description": "Elva"
+      },
+      {
+        "channel": "#falun",
+        "description": "Falun"
+      },
+      {
         "channel": "#goteborg",
         "description": "Gothenburg (Göteborg) channel"
+      },
+      {
+        "channel": "#greve",
+        "description": "Greve"
+      },
+      {
+        "channel": "#halland",
+        "description": "Halland"
+      },
+      {
+        "channel": "#hallstahammar",
+        "description": "Hallstahammar"
       },
       {
         "channel": "#helsingborg",
@@ -12502,8 +14098,20 @@
         "description": "Jönköping channel"
       },
       {
+        "channel": "#kaj",
+        "description": "Kaj"
+      },
+      {
         "channel": "#kalmar",
         "description": "Kalmar channel"
+      },
+      {
+        "channel": "#kalmar-weather",
+        "description": "Kalmar Weather"
+      },
+      {
+        "channel": "#kalmar-wx",
+        "description": "Kalmar Wx"
       },
       {
         "channel": "#kungsbacka",
@@ -12514,16 +14122,48 @@
         "description": "Linköping channel"
       },
       {
+        "channel": "#moderskeppet",
+        "description": "Moderskeppet"
+      },
+      {
         "channel": "#nykoping",
         "description": "Nyköping channel"
+      },
+      {
+        "channel": "#nykoping-info",
+        "description": "Nykoping Info"
       },
       {
         "channel": "#orebro",
         "description": "Örebro channel"
       },
       {
+        "channel": "#se",
+        "description": "Se"
+      },
+      {
         "channel": "#se12",
         "description": "se12"
+      },
+      {
+        "channel": "#se20public",
+        "description": "Se20public"
+      },
+      {
+        "channel": "#se20utbyggnad",
+        "description": "Se20utbyggnad"
+      },
+      {
+        "channel": "#sjuharad",
+        "description": "Sjuharad"
+      },
+      {
+        "channel": "#sk7rn",
+        "description": "Sk7rn"
+      },
+      {
+        "channel": "#sm7gxq-wx",
+        "description": "Sm7gxq Wx"
       },
       {
         "channel": "#stockholm",
@@ -12536,11 +14176,43 @@
       {
         "channel": "#sweden",
         "description": "National Swedish channel"
+      },
+      {
+        "channel": "#test-jkg",
+        "description": "Test Jkg"
+      },
+      {
+        "channel": "#text-tv",
+        "description": "Text Tv"
+      },
+      {
+        "channel": "#varmland",
+        "description": "Varmland"
+      },
+      {
+        "channel": "#vaxnet-bot",
+        "description": "Vaxnet Bot"
+      },
+      {
+        "channel": "#vxo",
+        "description": "Vxo"
+      },
+      {
+        "channel": "#vxo-bot",
+        "description": "Vxo Bot"
       }
     ],
     "sg": [],
     "sh": [],
     "si": [
+      {
+        "channel": "#idrija",
+        "description": "Idrija"
+      },
+      {
+        "channel": "#si-bot",
+        "description": "Si Bot"
+      },
       {
         "channel": "#slovenija",
         "description": "Official Slovenian MeshCore community channel to share, chat, learn and help one another"
@@ -12553,6 +14225,10 @@
         "description": "Weather warnings, storm radar, radiation, earthquakes"
       },
       {
+        "channel": "#bgld7",
+        "description": "Bgld7"
+      },
+      {
         "channel": "#bratislava",
         "description": "Bratislava area"
       },
@@ -12561,8 +14237,20 @@
         "description": "Kosice area"
       },
       {
+        "channel": "#labhier",
+        "description": "Labhier"
+      },
+      {
+        "channel": "#liptov",
+        "description": "Liptov"
+      },
+      {
         "channel": "#nitra",
         "description": "Nitra area"
+      },
+      {
+        "channel": "#noe7",
+        "description": "Noe7"
       },
       {
         "channel": "#poprad",
@@ -12577,16 +14265,44 @@
         "description": "Prievidza area"
       },
       {
+        "channel": "#sarisskemichalany",
+        "description": "Sarisskemichalany"
+      },
+      {
+        "channel": "#senec",
+        "description": "Senec"
+      },
+      {
         "channel": "#slovakia",
         "description": "Slovak national hashtag channel"
+      },
+      {
+        "channel": "#stred",
+        "description": "Stred"
+      },
+      {
+        "channel": "#techinfo",
+        "description": "Techinfo"
       },
       {
         "channel": "#turiec",
         "description": "Martin, Turcianske Teplice, and Vrutky areas"
       },
       {
+        "channel": "#vienna7",
+        "description": "Vienna7"
+      },
+      {
         "channel": "#vychod",
         "description": "Eastern Slovakia region"
+      },
+      {
+        "channel": "#zahori",
+        "description": "Zahori"
+      },
+      {
+        "channel": "#zapad",
+        "description": "Zapad"
       },
       {
         "channel": "#zilina",
@@ -12629,6 +14345,10 @@
     "um": [],
     "us": [
       {
+        "channel": "#123bot",
+        "description": "123bot"
+      },
+      {
         "channel": "#2600",
         "description": "Hacker culture channel on RDUMesh."
       },
@@ -12649,12 +14369,28 @@
         "description": "ABDL community chat and discussion (CascadiaMesh)."
       },
       {
+        "channel": "#aihomer",
+        "description": "Aihomer"
+      },
+      {
+        "channel": "#airs",
+        "description": "Airs"
+      },
+      {
+        "channel": "#alabama",
+        "description": "Alabama"
+      },
+      {
         "channel": "#alameda",
         "description": "Alameda Island local chat (Bay Area)."
       },
       {
         "channel": "#alert",
         "description": "Network-wide alerts and urgent communications (Bay Area)."
+      },
+      {
+        "channel": "#anf-incidents",
+        "description": "Anf Incidents"
       },
       {
         "channel": "#apex",
@@ -12673,6 +14409,10 @@
         "description": "Chat all things planes and aviation (West Coast Mesh)."
       },
       {
+        "channel": "#bcares",
+        "description": "Bcares"
+      },
+      {
         "channel": "#beaconhill",
         "description": "Beacon Hill neighborhood channel, Seattle (CascadiaMesh)."
       },
@@ -12685,6 +14425,14 @@
         "description": "Bellingham, WA chat (CascadiaMesh)."
       },
       {
+        "channel": "#bham-bot",
+        "description": "Bham Bot"
+      },
+      {
+        "channel": "#billybot",
+        "description": "Billybot"
+      },
+      {
         "channel": "#birding",
         "description": "Bird watching chat (CascadiaMesh)."
       },
@@ -12695,6 +14443,10 @@
       {
         "channel": "#blackhawks",
         "description": "Chicago Blackhawks discussion (Chicagoland Mesh)."
+      },
+      {
+        "channel": "#bmx",
+        "description": "Bmx"
       },
       {
         "channel": "#boating",
@@ -12721,6 +14473,10 @@
         "description": "Testing bot for Eugene, OR (CascadiaMesh)."
       },
       {
+        "channel": "#bot-gorge",
+        "description": "Bot Gorge"
+      },
+      {
         "channel": "#bot-islands",
         "description": "Testing bot for the Salish Sea / Puget Sound Islands (CascadiaMesh)."
       },
@@ -12737,6 +14493,14 @@
         "description": "Testing bot in Portland, OR (CascadiaMesh)."
       },
       {
+        "channel": "#bot-pdx-ne",
+        "description": "Bot Pdx Ne"
+      },
+      {
+        "channel": "#bot-rdm",
+        "description": "Bot Rdm"
+      },
+      {
         "channel": "#bot-sea",
         "description": "Testing bot in Seattle, WA (CascadiaMesh)."
       },
@@ -12747,6 +14511,10 @@
       {
         "channel": "#bot-tacoma",
         "description": "PugetMesh bot channel for Tacoma, WA"
+      },
+      {
+        "channel": "#bot-tc",
+        "description": "Bot Tc"
       },
       {
         "channel": "#bot-van",
@@ -12763,6 +14531,10 @@
       {
         "channel": "#bulls",
         "description": "Chicago Bulls discussion (Chicagoland Mesh)."
+      },
+      {
+        "channel": "#bur-mesh",
+        "description": "Bur Mesh"
       },
       {
         "channel": "#camas",
@@ -12797,8 +14569,16 @@
         "description": "Central Oregon regional chat (Bend, Redmond, Sisters, Prineville, Madras)."
       },
       {
+        "channel": "#centralvalley",
+        "description": "Centralvalley"
+      },
+      {
         "channel": "#cert",
         "description": "Community Emergency Response Team coordination channel (Bay Area)."
+      },
+      {
+        "channel": "#chan-512",
+        "description": "Chan 512"
       },
       {
         "channel": "#chat",
@@ -12815,6 +14595,10 @@
       {
         "channel": "#chimesh-observer-alert",
         "description": "Chicagoland Mesh observer alert channel."
+      },
+      {
+        "channel": "#christcore",
+        "description": "Christcore"
       },
       {
         "channel": "#clallam",
@@ -12845,6 +14629,10 @@
         "description": "Corvallis, OR chat (CascadiaMesh)."
       },
       {
+        "channel": "#county-line",
+        "description": "County Line"
+      },
+      {
         "channel": "#cowlitz",
         "description": "Cowlitz County, WA regional chat (CascadiaMesh)."
       },
@@ -12855,6 +14643,18 @@
       {
         "channel": "#cubs",
         "description": "Chicago Cubs discussion (Chicagoland Mesh)."
+      },
+      {
+        "channel": "#cullmantest",
+        "description": "Cullmantest"
+      },
+      {
+        "channel": "#cvbb-bot",
+        "description": "Cvbb Bot"
+      },
+      {
+        "channel": "#d3",
+        "description": "D3"
       },
       {
         "channel": "#dev",
@@ -12875,6 +14675,10 @@
       {
         "channel": "#drones",
         "description": "Flying drones discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#dronewatch",
+        "description": "Dronewatch"
       },
       {
         "channel": "#ducks",
@@ -12937,6 +14741,10 @@
         "description": "Formula One racing discussion (CascadiaMesh)."
       },
       {
+        "channel": "#fairfield-county",
+        "description": "Fairfield County"
+      },
+      {
         "channel": "#fifa2026",
         "description": "FIFA World Cup 2026 discussion (CascadiaMesh)."
       },
@@ -12945,12 +14753,24 @@
         "description": "Automated wildfire alerts for the Bay Area."
       },
       {
+        "channel": "#fishing",
+        "description": "Fishing"
+      },
+      {
+        "channel": "#fleetweek",
+        "description": "Fleetweek"
+      },
+      {
         "channel": "#florida",
         "description": "Florida statewide MeshCore chat."
       },
       {
         "channel": "#food",
         "description": "Food and dining discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#frog",
+        "description": "Frog"
       },
       {
         "channel": "#fun",
@@ -12973,12 +14793,24 @@
         "description": "GMRS radio related discussions (TennMesh)."
       },
       {
+        "channel": "#gmrs4fun",
+        "description": "Gmrs4fun"
+      },
+      {
         "channel": "#gmrsradio",
         "description": "GMRS radio discussion (CascadiaMesh)."
       },
       {
+        "channel": "#gorge",
+        "description": "Gorge"
+      },
+      {
         "channel": "#guns",
         "description": "Firearms and gun safety discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#hamfestchattanooga",
+        "description": "Hamfestchattanooga"
       },
       {
         "channel": "#hamradio",
@@ -12989,8 +14821,20 @@
         "description": "Chat all things hardware (West Coast Mesh)."
       },
       {
+        "channel": "#hayhurst",
+        "description": "Hayhurst"
+      },
+      {
+        "channel": "#hcara",
+        "description": "Hcara"
+      },
+      {
         "channel": "#healthcheck",
         "description": "Use healthcheck.bayareameshcore.org to learn how far your node's messages are reaching."
+      },
+      {
+        "channel": "#highdesert",
+        "description": "Highdesert"
       },
       {
         "channel": "#hiking",
@@ -12999,6 +14843,10 @@
       {
         "channel": "#howlbot",
         "description": "The original testing bot, Everett, WA."
+      },
+      {
+        "channel": "#humansonly",
+        "description": "Humansonly"
       },
       {
         "channel": "#huskies",
@@ -13037,8 +14885,16 @@
         "description": "Jefferson County, WA chat (CascadiaMesh)."
       },
       {
+        "channel": "#johnsoncity",
+        "description": "Johnsoncity"
+      },
+      {
         "channel": "#jokes",
         "description": "Tell us a joke! (West Coast Mesh)."
+      },
+      {
+        "channel": "#kcew-wx",
+        "description": "Kcew Wx"
       },
       {
         "channel": "#kent",
@@ -13047,6 +14903,10 @@
       {
         "channel": "#kitsap",
         "description": "Kitsap County, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#klamathfalls",
+        "description": "Klamathfalls"
       },
       {
         "channel": "#kraken",
@@ -13061,6 +14921,10 @@
         "description": "Local chat for Lake Forest, California."
       },
       {
+        "channel": "#late",
+        "description": "Late"
+      },
+      {
         "channel": "#law",
         "description": "Legal advice/discussion channel (CascadiaMesh)."
       },
@@ -13069,12 +14933,24 @@
         "description": "Long Island Mesh: channel scoped to the \"li\" (Long Island) region"
       },
       {
+        "channel": "#linn",
+        "description": "Linn"
+      },
+      {
+        "channel": "#longbeach",
+        "description": "Longbeach"
+      },
+      {
         "channel": "#longisland",
         "description": "Long Island, NY regional channel (Long Island Mesh)."
       },
       {
         "channel": "#losangeles",
         "description": "Local chat for Los Angeles County."
+      },
+      {
+        "channel": "#loudoun",
+        "description": "Loudoun"
       },
       {
         "channel": "#lynden",
@@ -13105,6 +14981,10 @@
         "description": "War driving and mobile testing activities (Massachusetts)."
       },
       {
+        "channel": "#magicthegathering",
+        "description": "Magicthegathering"
+      },
+      {
         "channel": "#marin",
         "description": "Marin county local chat."
       },
@@ -13129,12 +15009,20 @@
         "description": "Like APRS Thursday but for the mesh: map the network every Monday (Bay Area)."
       },
       {
+        "channel": "#mediamesh",
+        "description": "Mediamesh"
+      },
+      {
         "channel": "#meetup",
         "description": "Austin Mesh meetup coordination channel."
       },
       {
         "channel": "#mesh",
         "description": "General mesh networking topics, node setup, and troubleshooting."
+      },
+      {
+        "channel": "#meshavl",
+        "description": "Meshavl"
       },
       {
         "channel": "#meshbud",
@@ -13149,12 +15037,28 @@
         "description": "Discussion around meshcore-rs, the open-source Rust library for MeshCore devices."
       },
       {
+        "channel": "#meshmonday",
+        "description": "Meshmonday"
+      },
+      {
         "channel": "#meshpotamia",
         "description": "Higher-level discussion of MeshCore's technical and social challenges."
       },
       {
+        "channel": "#meshtrax",
+        "description": "Meshtrax"
+      },
+      {
+        "channel": "#metairie",
+        "description": "Metairie"
+      },
+      {
         "channel": "#metalmusic",
         "description": "Metal, Djent, Metalcore music discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#mgmwx",
+        "description": "Mgmwx"
       },
       {
         "channel": "#movies",
@@ -13177,6 +15081,18 @@
         "description": "Nudist community chat (CascadiaMesh)."
       },
       {
+        "channel": "#ncmesh",
+        "description": "Ncmesh"
+      },
+      {
+        "channel": "#ncw",
+        "description": "Ncw"
+      },
+      {
+        "channel": "#ne-hc",
+        "description": "Ne Hc"
+      },
+      {
         "channel": "#news",
         "description": "Gulf Coast Mesh (Louisiana/Gulf Coast): news & announcements, incl. automated bot posts during emergencies"
       },
@@ -13187,6 +15103,14 @@
       {
         "channel": "#nhmesh",
         "description": "New Hampshire-focused general chat."
+      },
+      {
+        "channel": "#nky-info",
+        "description": "Nky Info"
+      },
+      {
+        "channel": "#nky-wx",
+        "description": "Nky Wx"
       },
       {
         "channel": "#northbend",
@@ -13201,8 +15125,16 @@
         "description": "Novato local chat."
       },
       {
+        "channel": "#nwburbs",
+        "description": "Nwburbs"
+      },
+      {
         "channel": "#nyc",
         "description": "New York City regional channel (Long Island Mesh)."
+      },
+      {
+        "channel": "#ohl",
+        "description": "Ohl"
       },
       {
         "channel": "#olympia",
@@ -13225,12 +15157,24 @@
         "description": "Oregon statewide chat (CascadiaMesh)."
       },
       {
+        "channel": "#pacificon",
+        "description": "Pacificon"
+      },
+      {
         "channel": "#pdx",
         "description": "Portland, OR chat (CascadiaMesh)."
       },
       {
+        "channel": "#pearlrivercounty",
+        "description": "Pearlrivercounty"
+      },
+      {
         "channel": "#philomath",
         "description": "Philomath, OR regional chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#picayune",
+        "description": "Picayune"
       },
       {
         "channel": "#pierce",
@@ -13243,6 +15187,10 @@
       {
         "channel": "#pokemon",
         "description": "Pokemon discussion channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#police",
+        "description": "Police"
       },
       {
         "channel": "#politics",
@@ -13265,6 +15213,10 @@
         "description": "Long Island Mesh: default/public MeshCore channel, region dependent"
       },
       {
+        "channel": "#qdbbot",
+        "description": "Qdbbot"
+      },
+      {
         "channel": "#queenanne",
         "description": "Queen Anne neighborhood channel, Seattle (CascadiaMesh)."
       },
@@ -13275,6 +15227,14 @@
       {
         "channel": "#raleigh",
         "description": "Raleigh, NC local channel (RDUMesh)."
+      },
+      {
+        "channel": "#raptors",
+        "description": "Raptors"
+      },
+      {
+        "channel": "#ratcity",
+        "description": "Ratcity"
       },
       {
         "channel": "#ravenna",
@@ -13301,6 +15261,10 @@
         "description": "Jackson and Josephine counties, Oregon (CascadiaMesh)."
       },
       {
+        "channel": "#rst-rni",
+        "description": "Rst Rni"
+      },
+      {
         "channel": "#rugby",
         "description": "Rugby discussion (CascadiaMesh)."
       },
@@ -13311,6 +15275,10 @@
       {
         "channel": "#salem",
         "description": "Salem, OR chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#samara",
+        "description": "Samara"
       },
       {
         "channel": "#sanbernardino",
@@ -13325,8 +15293,16 @@
         "description": "San Leandro local chat."
       },
       {
+        "channel": "#santacruz",
+        "description": "Santacruz"
+      },
+      {
         "channel": "#sar",
         "description": "Search and Rescue coordination channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#sarc",
+        "description": "Sarc"
       },
       {
         "channel": "#sartest",
@@ -13339,6 +15315,14 @@
       {
         "channel": "#scvmesh",
         "description": "Local chat for Santa Clarita Valley."
+      },
+      {
+        "channel": "#scwx",
+        "description": "Scwx"
+      },
+      {
+        "channel": "#sea-bot",
+        "description": "Sea Bot"
       },
       {
         "channel": "#seahawks",
@@ -13409,16 +15393,40 @@
         "description": "PugetMesh sports chat (Puget Sound, WA)"
       },
       {
+        "channel": "#startrek",
+        "description": "Startrek"
+      },
+      {
         "channel": "#storm",
         "description": "Seattle Storm WNBA basketball chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#storytime",
+        "description": "Storytime"
       },
       {
         "channel": "#suburbs",
         "description": "Chicago suburbs regional channel (Chicagoland Mesh)."
       },
       {
+        "channel": "#suruai",
+        "description": "Suruai"
+      },
+      {
+        "channel": "#swaptoberfest",
+        "description": "Swaptoberfest"
+      },
+      {
         "channel": "#tacoma",
         "description": "Tacoma, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#tc-trivia",
+        "description": "Tc Trivia"
+      },
+      {
+        "channel": "#tdot",
+        "description": "Tdot"
       },
       {
         "channel": "#tech",
@@ -13433,6 +15441,10 @@
         "description": "Testing the mesh itself; send 'test' as a message for an automatic bot reply."
       },
       {
+        "channel": "#test-channel",
+        "description": "Test Channel"
+      },
+      {
         "channel": "#testing",
         "description": "PugetMesh testing channel (Puget Sound, WA)"
       },
@@ -13443,6 +15455,10 @@
       {
         "channel": "#timbers",
         "description": "Portland Timbers chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#tmn",
+        "description": "Tmn"
       },
       {
         "channel": "#tn-east",
@@ -13477,8 +15493,36 @@
         "description": "Transit information bot channel (CascadiaMesh)."
       },
       {
+        "channel": "#tri-cities-mesh",
+        "description": "Tri Cities Mesh"
+      },
+      {
+        "channel": "#trivia",
+        "description": "Trivia"
+      },
+      {
+        "channel": "#tt",
+        "description": "Tt"
+      },
+      {
+        "channel": "#us-southeast",
+        "description": "Us Southeast"
+      },
+      {
+        "channel": "#va-louisa",
+        "description": "Va Louisa"
+      },
+      {
         "channel": "#vancouverwa",
         "description": "Vancouver, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#ve7kod",
+        "description": "Ve7kod"
+      },
+      {
+        "channel": "#ventunoq-guru",
+        "description": "Ventunoq Guru"
       },
       {
         "channel": "#venturacounty",
@@ -13489,8 +15533,20 @@
         "description": "San Diego based mesh bot (West Coast Mesh)."
       },
       {
+        "channel": "#vols",
+        "description": "Vols"
+      },
+      {
+        "channel": "#vox",
+        "description": "Vox"
+      },
+      {
         "channel": "#wadamesh",
         "description": "Discussion about the standalone T-Deck firmware from WaDaMesh.com."
+      },
+      {
+        "channel": "#wallstreetbets",
+        "description": "Wallstreetbets"
       },
       {
         "channel": "#wardriving",
@@ -13513,6 +15569,22 @@
         "description": "Automated weather alerts from the NWS covering 8 Bay Area zones."
       },
       {
+        "channel": "#weather-gorge",
+        "description": "Weather Gorge"
+      },
+      {
+        "channel": "#weekly-mesh-net",
+        "description": "Weekly Mesh Net"
+      },
+      {
+        "channel": "#westbank",
+        "description": "Westbank"
+      },
+      {
+        "channel": "#westburbs",
+        "description": "Westburbs"
+      },
+      {
         "channel": "#westseattle",
         "description": "West Seattle neighborhood channel (CascadiaMesh)."
       },
@@ -13529,12 +15601,32 @@
         "description": "Willamette Valley discussion, Oregon (CascadiaMesh)."
       },
       {
+        "channel": "#wx-bay",
+        "description": "Wx Bay"
+      },
+      {
+        "channel": "#wx-somerset",
+        "description": "Wx Somerset"
+      },
+      {
         "channel": "#yamco",
         "description": "Yamhill County, OR regional chat (CascadiaMesh)."
       },
       {
+        "channel": "#yanceymesh",
+        "description": "Yanceymesh"
+      },
+      {
+        "channel": "#ykf",
+        "description": "Ykf"
+      },
+      {
         "channel": "#yo",
         "description": "A playful homage to the 'Yo' social network; only 'Yo' allowed (Bay Area)."
+      },
+      {
+        "channel": "#yucaipa",
+        "description": "Yucaipa"
       },
       {
         "channel": "centralnj-mc",
@@ -13565,6 +15657,14 @@
         "description": "Created for Cape Town alongside #channel1 for longer discussions."
       },
       {
+        "channel": "#computers",
+        "description": "Computers"
+      },
+      {
+        "channel": "#europeans",
+        "description": "Europeans"
+      },
+      {
         "channel": "#jokes",
         "description": "Cape Town: joke sharing channel."
       },
@@ -13575,6 +15675,10 @@
       {
         "channel": "#test",
         "description": "Cape Town: where users do their testing."
+      },
+      {
+        "channel": "#testingtuesday",
+        "description": "Testingtuesday"
       },
       {
         "channel": "#wardriving",
