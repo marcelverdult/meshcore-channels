@@ -1123,6 +1123,10 @@
       "description": "French-speaking Switzerland"
     },
     {
+      "channel": "#suedpfalz",
+      "description": "Südpfalz - southern and southeastern parts of Palatinate region"
+    },    
+    {
       "channel": "#sven",
       "description": "Sven"
     },
