@@ -1119,9 +1119,13 @@
       "description": "Stuttgart metropolitan region"
     },
     {
+      "channel": "#suedpfalz",
+      "description": "Südpfalz - southern and southeastern parts of Palatinate region"
+    },      
+    {
       "channel": "#suisse",
       "description": "French-speaking Switzerland"
-    },
+    },  
     {
       "channel": "#sven",
       "description": "Sven"
